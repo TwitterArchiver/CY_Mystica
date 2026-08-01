@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1962896868943556957",
+    "created_at": "2025-09-02T19:13:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T20:13:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962957174818373743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1798724969695977472",
+          "start": 0,
+          "username": "overdosewiki"
+        },
+        {
+          "end": 27,
+          "id": "1960026902418321408",
+          "start": 14,
+          "username": "Drugs_Kitten"
+        },
+        {
+          "end": 40,
+          "id": "1893688350076542976",
+          "start": 28,
+          "username": "drug_artist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962957174818373743",
+    "in_reply_to_user_id": "1798724969695977472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962932782650556666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdosewiki @Drugs_Kitten @drug_artist 你看你又酸，自己没朋友看我们好朋友相互维护要心碎碎了吧呜呜，可怜小55555"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1962896868943556957",
+        "created_at": "2025-09-02T19:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T20:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962957174818373743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1798724969695977472",
+              "start": 0,
+              "username": "overdosewiki"
+            },
+            {
+              "end": 27,
+              "id": "1960026902418321408",
+              "start": 14,
+              "username": "Drugs_Kitten"
+            },
+            {
+              "end": 40,
+              "id": "1893688350076542976",
+              "start": 28,
+              "username": "drug_artist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962957174818373743",
+        "in_reply_to_user_id": "1798724969695977472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962932782650556666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdosewiki @Drugs_Kitten @drug_artist 你看你又酸，自己没朋友看我们好朋友相互维护要心碎碎了吧呜呜，可怜小55555"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798724969695977472",
+        "conversation_id": "1962896868943556957",
+        "created_at": "2025-09-02T17:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T18:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962932782650556666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1960026902418321408",
+              "start": 0,
+              "username": "Drugs_Kitten"
+            },
+            {
+              "end": 39,
+              "id": "1893688350076542976",
+              "start": 27,
+              "username": "drug_artist"
+            },
+            {
+              "end": 61,
+              "id": "1124658845664653314",
+              "start": 50,
+              "username": "CY_Mystica"
+            },
+            {
+              "end": 78,
+              "id": "1960026902418321408",
+              "start": 65,
+              "username": "Drugs_Kitten"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962932782650556666",
+        "in_reply_to_user_id": "1960026902418321408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962930391897014567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Drugs_Kitten 药物百科Wiki主：沐雨\n@drug_artist\n副Wiki主/弦月\n@CY_Mystica\n小猫\n@Drugs_Kitten \n这三个也没问题啊，小团体这一块"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od |ed |自伤 | 中文/Eng/Ita/ESP🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 42,
+                "tag": "shtwt"
+              },
+              {
+                "end": 57,
+                "start": 49,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1962932389170315754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1453,
+          "following_count": 273,
+          "like_count": 1517,
+          "listed_count": 3,
+          "media_count": 144,
+          "tweet_count": 1752
+        },
+        "username": "CY_Mystica",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-06T14:33:54.000Z",
+        "description": "https://t.co/6fVCD4QQ92官方站点\n有关问题可以联系我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4QQ92"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4QQ92"
+              }
+            ]
+          }
+        },
+        "id": "1798724969695977472",
+        "location": "但愿世间人无病 何妨架上药生尘",
+        "name": "Overdosewiki",
+        "pinned_tweet_id": "1962896868943556957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899860345377665024/_7eudjIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3505,
+          "following_count": 11,
+          "like_count": 353,
+          "listed_count": 4,
+          "media_count": 74,
+          "tweet_count": 438
+        },
+        "url": "https://t.co/6fVCD4QQ92",
+        "username": "overdosewiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T17:10:16.000Z",
+        "description": "💖你好，这里是小猫。｜药物百科副Wiki主｜有任何药物相关问题都可以私信免费咨询哦💕｜ 私信回fo｜谨慎关注里推:@CuteKittenO3O会有大量负能/药物使用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "CuteKittenO3O"
+              }
+            ]
+          }
+        },
+        "id": "1960026902418321408",
+        "name": "💊MediKitty🌌",
+        "pinned_tweet_id": "1960031991401005577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960036096215224320/DqeocQbY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 124,
+          "like_count": 294,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 127
+        },
+        "username": "Drugs_Kitten",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T15:44:29.000Z",
+        "description": "药物百科wiki主\n投稿请私信我\n愿每一位药物滥用者都能脱离深渊\n提供药物咨询\nim crazy",
+        "id": "1893688350076542976",
+        "location": "Xanax天国2mg省",
+        "name": "沐雨",
+        "pinned_tweet_id": "1949973611667759422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923304720611024896/ImSJUBEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2845,
+          "following_count": 156,
+          "like_count": 397,
+          "listed_count": 7,
+          "media_count": 34,
+          "tweet_count": 682
+        },
+        "username": "drug_artist",
+        "verified": false
+      }
+    ]
+  }
+}

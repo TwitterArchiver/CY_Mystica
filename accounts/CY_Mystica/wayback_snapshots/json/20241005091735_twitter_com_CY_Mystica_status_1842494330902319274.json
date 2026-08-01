@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1842442947889147904"
+      ],
+      "media_source_tweet_id": [
+        "1842443030701486255"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1842494330902319274",
+    "created_at": "2024-10-05T09:17:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-05T10:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842494330902319274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1695751005122822144",
+          "start": 3,
+          "username": "suihuayu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y8NPDHeMKz",
+          "end": 37,
+          "expanded_url": "https://x.com/suihuayu/status/1842443030701486255/video/1",
+          "media_key": "7_1842442947889147904",
+          "start": 14,
+          "url": "https://t.co/Y8NPDHeMKz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842494330902319274",
+    "lang": "zxx",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842443030701486255",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suihuayu: https://t.co/Y8NPDHeMKz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1842494330902319274].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1842494330902319274",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1842494330902319274"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3366,
+        "height": 720,
+        "media_key": "7_1842442947889147904",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1842442947889147904/pu/img/BfmXzJntpQVrgTKg.jpg",
+        "public_metrics": {
+          "view_count": 191
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1842442947889147904/pu/vid/avc1/360x270/Exa1GPPVvJCYzfO-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1842442947889147904/pu/vid/avc1/480x360/wyOYARsaSTj89tOG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1842442947889147904/pu/vid/avc1/960x720/K1W7R37jm00_V2iN.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1842442947889147904/pu/pl/6P4yd0WOQed9O-80.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1842442947889147904"
+          ]
+        },
+        "author_id": "1695751005122822144",
+        "conversation_id": "1842443030701486255",
+        "created_at": "2024-10-05T05:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T06:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842443030701486255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y8NPDHeMKz",
+              "end": 23,
+              "expanded_url": "https://x.com/suihuayu/status/1842443030701486255/video/1",
+              "media_key": "7_1842442947889147904",
+              "start": 0,
+              "url": "https://t.co/Y8NPDHeMKz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842443030701486255",
+        "lang": "zxx",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 399,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Y8NPDHeMKz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵04 | entp | od | 自伤 | 精神病 | 友跨顺女 |互fo| 消费主义 | 中文/Eng/ITA🩵",
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "下弦月🌙",
+        "pinned_tweet_id": "1841420493829840967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841172907072110593/alcfl7zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 343,
+          "like_count": 370,
+          "listed_count": 0,
+          "tweet_count": 390
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-27T10:52:08.000Z",
+        "description": "和你永远幸福倚靠在一起 @yingjingouo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "yingjingouo"
+              }
+            ]
+          }
+        },
+        "id": "1695751005122822144",
+        "location": "撕扯罐头盒子",
+        "name": "碎花雨🧺🍂",
+        "pinned_tweet_id": "1830891768897822813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840979050355179520/hVOXz-WL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1708,
+          "following_count": 1389,
+          "like_count": 2897,
+          "listed_count": 8,
+          "tweet_count": 2349
+        },
+        "username": "suihuayu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1881702362538267086",
+    "created_at": "2025-01-21T13:56:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T14:56:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881702362538267086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1815649539057201152",
+          "start": 3,
+          "username": "NankyuSeiichi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881702362538267086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881676682295427202",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NankyuSeiichi: 嗑药的人说话不可信，并不是因为他们很坏，主要是因为他们感受到的事情可能是假的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1881702362538267086",
+        "created_at": "2025-01-21T13:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T14:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881702362538267086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1815649539057201152",
+              "start": 3,
+              "username": "NankyuSeiichi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881702362538267086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881676682295427202",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NankyuSeiichi: 嗑药的人说话不可信，并不是因为他们很坏，主要是因为他们感受到的事情可能是假的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815649539057201152",
+        "conversation_id": "1881676682295427202",
+        "created_at": "2025-01-21T12:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T13:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881676682295427202"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881676682295427202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "嗑药的人说话不可信，并不是因为他们很坏，主要是因为他们感受到的事情可能是假的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵04 | entp |od | 自伤 | 精神病 | 友跨顺女 |互fo| 消费主义 | 中文/Eng/ITA🩵@kagengetsu_1备用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 57,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "下弦月🌙",
+        "pinned_tweet_id": "1877771042858385796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870479498816471040/3RK8JhWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 379,
+          "like_count": 632,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 785
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "加速南墙/历史进程/为时不晚/自然边界",
+        "id": "1815649539057201152",
+        "name": "南宫清一",
+        "pinned_tweet_id": "1863574456205213709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815652365674160128/rokkTcsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 826,
+          "like_count": 9384,
+          "listed_count": 2,
+          "media_count": 407,
+          "tweet_count": 4685
+        },
+        "username": "NankyuSeiichi",
+        "verified": false
+      }
+    ]
+  }
+}

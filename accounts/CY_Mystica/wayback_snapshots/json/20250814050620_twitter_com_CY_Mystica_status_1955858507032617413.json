@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1955700064015540720",
+    "created_at": "2025-08-14T05:06:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T06:06:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955858507032617413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1924965014831824896",
+          "start": 0,
+          "username": "Tang_1019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955858507032617413",
+    "in_reply_to_user_id": "1924965014831824896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955700064015540720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tang_1019 蹭热度这一块/."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1955700064015540720",
+        "created_at": "2025-08-14T05:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T06:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955858507032617413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1924965014831824896",
+              "start": 0,
+              "username": "Tang_1019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955858507032617413",
+        "in_reply_to_user_id": "1924965014831824896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955700064015540720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tang_1019 蹭热度这一块/."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924965014831824896",
+        "conversation_id": "1955700064015540720",
+        "created_at": "2025-08-13T18:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T19:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955700064015540720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drug_artist/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/drug_artist/status/1955394406804230303",
+              "start": 5,
+              "url": "https://t.co/VxlXXGC9VX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955700064015540720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 803,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955394406804230303",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "罪有应得 https://t.co/VxlXXGC9VX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od | 自伤 | 中文/Eng/Ita🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 35,
+                "tag": "shtwt"
+              },
+              {
+                "end": 50,
+                "start": 42,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1954639888181252378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 252,
+          "like_count": 1207,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 1489
+        },
+        "username": "CY_Mystica",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-20T23:06:47.000Z",
+        "description": "19th.10.2009 Made in PRC/14岁\n可能有点抑郁焦虑躁狂\n我爱大家\n交朋友🚪无，但是考验人品道德三观\n里推:@familyGZTY\n反跨，不接线下\n超偶尔发黄，一般是日常和碎碎念\n老婆是 @zhishi_cook\n狗子是 @wowo_yz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 65,
+                "username": "familyGZTY"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "zhishi_cook"
+              },
+              {
+                "end": 130,
+                "start": 122,
+                "username": "wowo_yz"
+              }
+            ]
+          }
+        },
+        "id": "1924965014831824896",
+        "location": "猫本",
+        "name": "唐毓文",
+        "pinned_tweet_id": "1953002407438500108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927263457914626048/eyYG0xKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1997,
+          "following_count": 94,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 242,
+          "tweet_count": 2226
+        },
+        "username": "Tang_1019",
+        "verified": true
+      }
+    ]
+  }
+}

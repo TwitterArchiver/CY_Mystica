@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1902769391772872837",
+    "created_at": "2025-03-20T17:09:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T18:09:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1902769391772872837"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1902769391772872837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人可能对苯二氮卓类有超强抗性吗…为什么所有bzds我吃个两三次就完全无效了，艾司唑仑奥沙西泮这种第一次吃就无效，氯硝吃了四五次完全失效。。真的很烦，这种耐药程度正常吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1902769391772872837",
+        "created_at": "2025-03-20T17:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T18:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902769391772872837"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902769391772872837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人可能对苯二氮卓类有超强抗性吗…为什么所有bzds我吃个两三次就完全无效了，艾司唑仑奥沙西泮这种第一次吃就无效，氯硝吃了四五次完全失效。。真的很烦，这种耐药程度正常吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵可以叫我弦月/小月 | od | 自伤 | 中文/Eng/Ita🩵#shtwt #drugtwt @kagengetsu_1备用",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 34,
+                "tag": "shtwt"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1897574381595017705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896217974630993920/O_bjWnlb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 226,
+          "like_count": 1024,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 1159
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      }
+    ]
+  }
+}

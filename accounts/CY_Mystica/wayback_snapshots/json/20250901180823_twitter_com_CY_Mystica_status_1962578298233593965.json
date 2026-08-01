@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962578287332605952"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "1962578298233593965",
+    "created_at": "2025-09-01T18:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T19:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962578298233593965"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rSNGryACo1",
+          "end": 90,
+          "expanded_url": "https://x.com/CY_Mystica/status/1962578298233593965/photo/1",
+          "media_key": "3_1962578287332605952",
+          "start": 67,
+          "url": "https://t.co/rSNGryACo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962578298233593965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "od一定要适量啊，主播o大了上第四高原了，现在还头晕无力心悸气短呢，第四高原真是很高了大家不要去冲第五高原啊，5000+海拔要憋死的 https://t.co/rSNGryACo1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962578287332605952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzx6jdxawAA0VEi.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962578287332605952"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "conversation_id": "1962578298233593965",
+        "created_at": "2025-09-01T18:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T19:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962578298233593965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rSNGryACo1",
+              "end": 90,
+              "expanded_url": "https://x.com/CY_Mystica/status/1962578298233593965/photo/1",
+              "media_key": "3_1962578287332605952",
+              "start": 67,
+              "url": "https://t.co/rSNGryACo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962578298233593965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "od一定要适量啊，主播o大了上第四高原了，现在还头晕无力心悸气短呢，第四高原真是很高了大家不要去冲第五高原啊，5000+海拔要憋死的 https://t.co/rSNGryACo1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od |ed |自伤 | 中文/Eng/Ita/ESP🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 42,
+                "tag": "shtwt"
+              },
+              {
+                "end": 57,
+                "start": 49,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1960760709765013531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 274,
+          "like_count": 1481,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 1718
+        },
+        "username": "CY_Mystica",
+        "verified": true
+      }
+    ]
+  }
+}

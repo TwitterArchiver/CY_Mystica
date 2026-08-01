@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1809269680001236992"
+      ],
+      "media_source_tweet_id": [
+        "1809269737278652845"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      }
+    ],
+    "conversation_id": "1824039673720701425",
+    "created_at": "2024-08-15T11:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T12:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824039673720701425"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 33,
+          "tag": "媚黑"
+        },
+        {
+          "end": 41,
+          "start": 37,
+          "tag": "BBC"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1256433131747409920",
+          "start": 3,
+          "username": "yad612642"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tij2svdi3u",
+          "end": 66,
+          "expanded_url": "https://twitter.com/TheYtCuck/status/1809269737278652845/video/1",
+          "media_key": "7_1809269680001236992",
+          "start": 43,
+          "url": "https://t.co/TIJ2SvdI3u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824039673720701425",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820744609703579767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yad612642: 黑人的巨大黑屌猛操黄毛萝莉无毛嫩穴\n#媚黑 #BBC\n https://t.co/TIJ2SvdI3u"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1824039673720701425].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1824039673720701425",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1824039673720701425"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 137576,
+        "height": 640,
+        "media_key": "7_1809269680001236992",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1809269680001236992/pu/img/nKkoULuKj-VQo3DQ.jpg",
+        "public_metrics": {
+          "view_count": 69623
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1809269680001236992/pu/vid/avc1/478x270/84IYqK95xqamkuCa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1809269680001236992/pu/vid/avc1/638x360/kIqfrRtvyP4HIUaA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1809269680001236992/pu/vid/avc1/1136x640/JUAUKinxfoof2p0A.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1809269680001236992/pu/pl/n-kJwqjqbWBqODnp.m3u8?tag=12"
+          }
+        ],
+        "width": 1136
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1809269680001236992"
+          ],
+          "media_source_tweet_id": [
+            "1809269737278652845"
+          ]
+        },
+        "author_id": "1256433131747409920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "1820744609703579767",
+        "created_at": "2024-08-06T08:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T09:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820744609703579767"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "媚黑"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "BBC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tij2svdi3u",
+              "end": 51,
+              "expanded_url": "https://twitter.com/TheYtCuck/status/1809269737278652845/video/1",
+              "media_key": "7_1809269680001236992",
+              "start": 28,
+              "url": "https://t.co/TIJ2SvdI3u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820744609703579767",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 5095,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "黑人的巨大黑屌猛操黄毛萝莉无毛嫩穴\n#媚黑 #BBC\n https://t.co/TIJ2SvdI3u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "04年小母狗",
+        "id": "1124658845664653314",
+        "name": "下弦月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 226,
+          "like_count": 97,
+          "listed_count": 0,
+          "tweet_count": 125
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-02T03:59:42.000Z",
+        "description": "喜欢可以点个关注♥️   感谢关注❤️",
+        "id": "1256433131747409920",
+        "name": "aabd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687183352317779968/c5a_5eGU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 156,
+          "like_count": 5905,
+          "listed_count": 1,
+          "tweet_count": 383
+        },
+        "username": "yad612642",
+        "verified": false
+      }
+    ]
+  }
+}

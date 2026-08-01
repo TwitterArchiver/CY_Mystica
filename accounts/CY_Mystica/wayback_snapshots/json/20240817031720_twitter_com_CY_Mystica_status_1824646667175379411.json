@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1824362056893730818",
+        "3_1824362080239226882"
+      ],
+      "media_source_tweet_id": [
+        "1824362336976814198",
+        "1824362336976814198"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "1824646667175379411",
+    "created_at": "2024-08-17T03:17:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-17T04:17:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824646667175379411"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 81,
+          "start": 78,
+          "tag": "双性"
+        },
+        {
+          "end": 85,
+          "start": 82,
+          "tag": "绿帽"
+        },
+        {
+          "end": 89,
+          "start": 86,
+          "tag": "直男"
+        },
+        {
+          "end": 93,
+          "start": 90,
+          "tag": "3P"
+        },
+        {
+          "end": 99,
+          "start": 94,
+          "tag": "带照私信"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1380183939831246854",
+          "start": 3,
+          "username": "Hanii28743075"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6mlytk18pw",
+          "end": 123,
+          "expanded_url": "https://twitter.com/Hanii28743075/status/1824362336976814198/video/1",
+          "media_key": "7_1824362056893730818",
+          "start": 100,
+          "url": "https://t.co/6MlYtK18Pw"
+        },
+        {
+          "display_url": "pic.x.com/6mlytk18pw",
+          "end": 123,
+          "expanded_url": "https://twitter.com/Hanii28743075/status/1824362336976814198/video/1",
+          "media_key": "3_1824362080239226882",
+          "start": 100,
+          "url": "https://t.co/6MlYtK18Pw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824646667175379411",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 194
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824362336976814198",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @Hanii28743075: 再一次遇到被我干爽了，把自己女朋友奉献给我让我干的，还在旁边看着我干，还是很刺激，最后两个一起趴着老公，老婆一起干……#双性 #绿帽 #直男 #3P #带照私信 https://t.co/6MlYtK18Pw"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1824646667175379411].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1824646667175379411",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1824646667175379411"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 121933,
+        "height": 848,
+        "media_key": "7_1824362056893730818",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1824362056893730818/pu/img/A_Pb8cuxtyny-THD.jpg",
+        "public_metrics": {
+          "view_count": 32958
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1824362056893730818/pu/vid/avc1/320x706/LZghkh9n6R6Y63Jq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1824362056893730818/pu/vid/avc1/384x848/M_XSIICkSArRg0aX.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1824362056893730818/pu/pl/oRiiAb6DT_n2gO4N.m3u8?tag=12"
+          }
+        ],
+        "width": 384
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1824362080239226882",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVFvpWZaEAIEoVp.jpg",
+        "width": 825
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1824362056893730818",
+            "3_1824362080239226882"
+          ]
+        },
+        "author_id": "1380183939831246854",
+        "conversation_id": "1824362336976814198",
+        "created_at": "2024-08-16T08:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T09:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824362336976814198"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "双性"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "绿帽"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "直男"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "3P"
+            },
+            {
+              "end": 80,
+              "start": 75,
+              "tag": "带照私信"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6mlytk18pw",
+              "end": 104,
+              "expanded_url": "https://twitter.com/Hanii28743075/status/1824362336976814198/video/1",
+              "media_key": "7_1824362056893730818",
+              "start": 81,
+              "url": "https://t.co/6MlYtK18Pw"
+            },
+            {
+              "display_url": "pic.x.com/6mlytk18pw",
+              "end": 104,
+              "expanded_url": "https://twitter.com/Hanii28743075/status/1824362336976814198/video/1",
+              "media_key": "3_1824362080239226882",
+              "start": 81,
+              "url": "https://t.co/6MlYtK18Pw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824362336976814198",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 255,
+          "impression_count": 107923,
+          "like_count": 1191,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 194
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "再一次遇到被我干爽了，把自己女朋友奉献给我让我干的，还在旁边看着我干，还是很刺激，最后两个一起趴着老公，老婆一起干……#双性 #绿帽 #直男 #3P #带照私信 https://t.co/6MlYtK18Pw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "04年小母狗",
+        "id": "1124658845664653314",
+        "name": "下弦月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 227,
+          "like_count": 97,
+          "listed_count": 0,
+          "tweet_count": 130
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-08T15:41:19.000Z",
+        "description": "黑皮精壮健身爷们，32.185.85.45.1，可私人定制，不是MB，合适可约，小孩勿扰！",
+        "id": "1380183939831246854",
+        "location": "9.75KM",
+        "name": "篮球阿泽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812174321336356864/sQ8KQ6WH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19023,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 20,
+          "tweet_count": 19
+        },
+        "username": "Hanii28743075",
+        "verified": false
+      }
+    ]
+  }
+}

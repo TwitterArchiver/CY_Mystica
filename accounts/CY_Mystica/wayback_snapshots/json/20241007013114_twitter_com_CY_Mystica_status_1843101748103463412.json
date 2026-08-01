@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1842959995991912448"
+      ],
+      "media_source_tweet_id": [
+        "1842959999674544209"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1843101748103463412",
+    "created_at": "2024-10-07T01:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-07T02:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843101748103463412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1695751005122822144",
+          "start": 3,
+          "username": "suihuayu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pNdQaFXYXS",
+          "end": 37,
+          "expanded_url": "https://x.com/suihuayu/status/1842959999674544209/photo/1",
+          "media_key": "3_1842959995991912448",
+          "start": 14,
+          "url": "https://t.co/pNdQaFXYXS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843101748103463412",
+    "lang": "zxx",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842959999674544209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suihuayu: https://t.co/pNdQaFXYXS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1843101748103463412].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1843101748103463412",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1843101748103463412"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1842959995991912448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZOCWhhacAAJGvz.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1842959995991912448"
+          ]
+        },
+        "author_id": "1695751005122822144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1842959999674544209",
+        "created_at": "2024-10-06T16:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T17:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842959999674544209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pNdQaFXYXS",
+              "end": 23,
+              "expanded_url": "https://x.com/suihuayu/status/1842959999674544209/photo/1",
+              "media_key": "3_1842959995991912448",
+              "start": 0,
+              "url": "https://t.co/pNdQaFXYXS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842959999674544209",
+        "lang": "zxx",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 856,
+          "like_count": 194,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pNdQaFXYXS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵04 | entp | od | 自伤 | 精神病 | 友跨顺女 |互fo| 消费主义 | 中文/Eng/ITA🩵",
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "下弦月🌙",
+        "pinned_tweet_id": "1841420493829840967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841172907072110593/alcfl7zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 345,
+          "like_count": 381,
+          "listed_count": 0,
+          "tweet_count": 400
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-27T10:52:08.000Z",
+        "description": "和你永远幸福倚靠在一起 @yingjingouo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "yingjingouo"
+              }
+            ]
+          }
+        },
+        "id": "1695751005122822144",
+        "location": "撕扯罐头盒子",
+        "name": "碎花雨🧺🍂",
+        "pinned_tweet_id": "1830891768897822813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840979050355179520/hVOXz-WL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1729,
+          "following_count": 1412,
+          "like_count": 2948,
+          "listed_count": 7,
+          "tweet_count": 2392
+        },
+        "username": "suihuayu",
+        "verified": false
+      }
+    ]
+  }
+}

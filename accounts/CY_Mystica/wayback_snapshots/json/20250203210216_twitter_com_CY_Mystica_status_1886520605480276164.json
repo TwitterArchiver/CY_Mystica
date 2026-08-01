@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1886520605480276164",
+    "created_at": "2025-02-03T21:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T22:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886520605480276164"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1886520605480276164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "闲着没事收了个男m，没当过s求教怎么当女s，，需要做什么？高傲充满气势的被草吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1886520605480276164",
+        "created_at": "2025-02-03T21:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T22:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886520605480276164"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886520605480276164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闲着没事收了个男m，没当过s求教怎么当女s，，需要做什么？高傲充满气势的被草吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵 | od | 自伤 | 我想和你交朋友我们互fo吧 | 中文/Eng/ITA🩵#shtwt #drugtwt @kagengetsu_1备用",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 41,
+                "tag": "shtwt"
+              },
+              {
+                "end": 56,
+                "start": 48,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 70,
+                "start": 57,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1883837664627204155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870479498816471040/3RK8JhWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 378,
+          "like_count": 665,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 842
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      }
+    ]
+  }
+}

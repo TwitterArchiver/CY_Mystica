@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1798583872562835575",
+    "created_at": "2024-06-06T05:13:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-06T06:13:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798583872562835575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1306118653583138818",
+          "start": 3,
+          "username": "javzimu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "linktr.ee/91cc",
+          "end": 121,
+          "expanded_url": "http://linktr.ee/91cc",
+          "start": 98,
+          "url": "https://t.co/SZuAfQuazh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798583872562835575",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1183
+    },
+    "referenced_tweets": [
+      {
+        "id": "1755693003698786447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @javzimu: 少妇年轻时候被强奸生了个女儿\n结果那个男人又回来了\n把母女操的都怀孕了\n～～～～～～～～～～～～～～         \n搜索关键词《美人母女》         \n下载网址https://t.co/SZuAfQuazh\n～～～～～～～～～～【中文字幕10…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1798583872562835575].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1798583872562835575",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1798583872562835575"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1755692049918312448"
+          ]
+        },
+        "author_id": "1306118653583138818",
+        "conversation_id": "1755693003698786447",
+        "created_at": "2024-02-08T20:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-02-08T21:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1755693003698786447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "linktr.ee/91cc",
+              "end": 108,
+              "expanded_url": "http://linktr.ee/91cc",
+              "start": 85,
+              "url": "https://t.co/SZuAfQuazh"
+            },
+            {
+              "display_url": "pic.twitter.com/o2BwtbfDa3",
+              "end": 154,
+              "expanded_url": "https://twitter.com/javzimu/status/1755693003698786447/video/1",
+              "media_key": "7_1755692049918312448",
+              "start": 131,
+              "url": "https://t.co/o2BwtbfDa3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1755693003698786447",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3669,
+          "impression_count": 2838653,
+          "like_count": 9108,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 1183
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "少妇年轻时候被强奸生了个女儿\n结果那个男人又回来了\n把母女操的都怀孕了\n～～～～～～～～～～～～～～         \n搜索关键词《美人母女》         \n下载网址https://t.co/SZuAfQuazh\n～～～～～～～～～～【中文字幕1080p】 https://t.co/o2BwtbfDa3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "04年小母狗",
+        "id": "1124658845664653314",
+        "name": "下弦月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 205,
+          "like_count": 95,
+          "listed_count": 0,
+          "tweet_count": 103
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-16T06:32:15.000Z",
+        "description": "主打｜中文字幕｜高清無碼｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/91cc",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/91cc",
+                "start": 0,
+                "url": "https://t.co/BJ3FTRoSHb"
+              }
+            ]
+          }
+        },
+        "id": "1306118653583138818",
+        "location": "下载官网",
+        "name": "成人導航【中文字幕組】",
+        "pinned_tweet_id": "1682743380500160514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678697435428982785/N---eZKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680489,
+          "following_count": 329,
+          "like_count": 14,
+          "listed_count": 1665,
+          "tweet_count": 18446
+        },
+        "url": "https://t.co/BJ3FTRoSHb",
+        "username": "javzimu",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

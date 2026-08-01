@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883778838058106880"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "1883778848191648175",
+    "created_at": "2025-01-27T07:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T08:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883778848191648175"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WUafyh3rMV",
+          "end": 26,
+          "expanded_url": "https://x.com/CY_Mystica/status/1883778848191648175/photo/1",
+          "media_key": "3_1883778838058106880",
+          "start": 3,
+          "url": "https://t.co/WUafyh3rMV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883778848191648175",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "✌🏻 https://t.co/WUafyh3rMV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1883778838058106880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiSG313aAAA8BRr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883778838058106880"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "conversation_id": "1883778848191648175",
+        "created_at": "2025-01-27T07:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T08:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883778848191648175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WUafyh3rMV",
+              "end": 26,
+              "expanded_url": "https://x.com/CY_Mystica/status/1883778848191648175/photo/1",
+              "media_key": "3_1883778838058106880",
+              "start": 3,
+              "url": "https://t.co/WUafyh3rMV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883778848191648175",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "✌🏻 https://t.co/WUafyh3rMV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵04 | entp |od | 自伤 | 精神病 | 友跨顺女 |互fo| 消费主义 | 中文/Eng/ITA🩵@kagengetsu_1备用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 57,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "下弦月🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870479498816471040/3RK8JhWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 379,
+          "like_count": 638,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 808
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      }
+    ]
+  }
+}

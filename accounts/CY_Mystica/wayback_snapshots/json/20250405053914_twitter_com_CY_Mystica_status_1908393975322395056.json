@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1908149608624369807",
+    "created_at": "2025-04-05T05:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T06:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908393975322395056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1833270666629611520",
+          "start": 0,
+          "username": "Artemis522387"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908393975322395056",
+    "in_reply_to_user_id": "1833270666629611520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908215644975489347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Artemis522387 好＞＜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1908149608624369807",
+        "created_at": "2025-04-05T05:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T06:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908393975322395056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1833270666629611520",
+              "start": 0,
+              "username": "Artemis522387"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908393975322395056",
+        "in_reply_to_user_id": "1833270666629611520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908215644975489347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Artemis522387 好＞＜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833270666629611520",
+        "conversation_id": "1908149608624369807",
+        "created_at": "2025-04-04T17:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T18:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908215644975489347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1124658845664653314",
+              "start": 0,
+              "username": "CY_Mystica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908215644975489347",
+        "in_reply_to_user_id": "1124658845664653314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908149608624369807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CY_Mystica 记得消毒卧槽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵可以叫我弦月/小月 | od | 自伤 | 中文/Eng/Ita🩵#shtwt #drugtwt @kagengetsu_1备用",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 34,
+                "tag": "shtwt"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1897574381595017705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907112349741228033/SPTcOo1Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 226,
+          "like_count": 1046,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1187
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T22:26:15.000Z",
+        "description": "愛我請打錢",
+        "id": "1833270666629611520",
+        "location": "天堂",
+        "name": "Artemis",
+        "pinned_tweet_id": "1879373494875812139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879537319763750912/19UHGRFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 72,
+          "like_count": 812,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 212
+        },
+        "username": "Artemis522387",
+        "verified": false
+      }
+    ]
+  }
+}

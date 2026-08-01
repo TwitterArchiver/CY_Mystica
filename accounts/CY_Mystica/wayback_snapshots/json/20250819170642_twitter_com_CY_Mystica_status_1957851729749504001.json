@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957851712531886084"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "1957851729749504001",
+    "created_at": "2025-08-19T17:06:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T18:06:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957851729749504001"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mr5EdTPj4e",
+          "end": 36,
+          "expanded_url": "https://x.com/CY_Mystica/status/1957851729749504001/photo/1",
+          "media_key": "3_1957851712531886084",
+          "start": 13,
+          "url": "https://t.co/mr5EdTPj4e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957851729749504001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "扣1随机抽两个人送我一盒 https://t.co/mr5EdTPj4e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1957851712531886084",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyuvwmhacAQNGMC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957851712531886084"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "conversation_id": "1957851729749504001",
+        "created_at": "2025-08-19T17:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T18:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957851729749504001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mr5EdTPj4e",
+              "end": 36,
+              "expanded_url": "https://x.com/CY_Mystica/status/1957851729749504001/photo/1",
+              "media_key": "3_1957851712531886084",
+              "start": 13,
+              "url": "https://t.co/mr5EdTPj4e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957851729749504001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "扣1随机抽两个人送我一盒 https://t.co/mr5EdTPj4e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od |ed |自伤 | 中文/Eng/Ita/ESP🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 42,
+                "tag": "shtwt"
+              },
+              {
+                "end": 57,
+                "start": 49,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1954639888181252378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 264,
+          "like_count": 1308,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1577
+        },
+        "username": "CY_Mystica",
+        "verified": true
+      }
+    ]
+  }
+}

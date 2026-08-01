@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1831496052891119917",
+    "created_at": "2024-09-06T02:22:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-06T03:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831880532688564618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1811337673866407936",
+          "start": 0,
+          "username": "yizhen100032840"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831880532688564618",
+    "in_reply_to_user_id": "1811337673866407936",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831736195979587909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yizhen100032840 伤脑什么的补药啊😭立刻听劝库"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1831496052891119917",
+        "created_at": "2024-09-06T02:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T03:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831880532688564618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1811337673866407936",
+              "start": 0,
+              "username": "yizhen100032840"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831880532688564618",
+        "in_reply_to_user_id": "1811337673866407936",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831736195979587909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yizhen100032840 伤脑什么的补药啊😭立刻听劝库"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811337673866407936",
+        "conversation_id": "1831496052891119917",
+        "created_at": "2024-09-05T16:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T17:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831736195979587909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1124658845664653314",
+              "start": 0,
+              "username": "CY_Mystica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831736195979587909",
+        "in_reply_to_user_id": "1124658845664653314",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831496052891119917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CY_Mystica 感觉会伤脑，少o了宝宝可以吃点吡拉西坦试试，脑子会清醒一些"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "04 | entp | od | 自伤 | 精神病 | 友跨顺女 | 热衷于互fo和交朋友 | 消费主义 | 无🚪纯绿 中文/Eng",
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "下弦月",
+        "pinned_tweet_id": "1831302581404008939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 315,
+          "like_count": 113,
+          "listed_count": 0,
+          "tweet_count": 143
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T09:52:16.000Z",
+        "description": "",
+        "id": "1811337673866407936",
+        "name": "TJ23",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813177684345626624/KHSiWV5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 39,
+          "like_count": 70,
+          "listed_count": 0,
+          "tweet_count": 30
+        },
+        "username": "yizhen100032840",
+        "verified": false
+      }
+    ]
+  }
+}

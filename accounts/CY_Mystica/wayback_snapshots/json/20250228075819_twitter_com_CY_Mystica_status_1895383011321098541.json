@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895100966019715072"
+      ],
+      "media_source_tweet_id": [
+        "1895101104607879340"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1895383011321098541",
+    "created_at": "2025-02-28T07:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T08:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895383011321098541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "324391547",
+          "start": 3,
+          "username": "avogado6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yp7pO0XSWw",
+          "end": 41,
+          "expanded_url": "https://x.com/avogado6/status/1895101104607879340/photo/1",
+          "media_key": "3_1895100966019715072",
+          "start": 18,
+          "url": "https://t.co/yp7pO0XSWw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895383011321098541",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4973
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895101104607879340",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @avogado6: ルート https://t.co/yp7pO0XSWw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3300,
+        "media_key": "3_1895100966019715072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkzASbUa0AAzrq2.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895100966019715072"
+          ],
+          "media_source_tweet_id": [
+            "1895101104607879340"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1895383011321098541",
+        "created_at": "2025-02-28T07:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T08:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895383011321098541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "324391547",
+              "start": 3,
+              "username": "avogado6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yp7pO0XSWw",
+              "end": 41,
+              "expanded_url": "https://x.com/avogado6/status/1895101104607879340/photo/1",
+              "media_key": "3_1895100966019715072",
+              "start": 18,
+              "url": "https://t.co/yp7pO0XSWw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895383011321098541",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4973
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895101104607879340",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @avogado6: ルート https://t.co/yp7pO0XSWw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895100966019715072"
+          ]
+        },
+        "author_id": "324391547",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1895101104607879340",
+        "created_at": "2025-02-27T13:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T14:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895101104607879340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yp7pO0XSWw",
+              "end": 27,
+              "expanded_url": "https://x.com/avogado6/status/1895101104607879340/photo/1",
+              "media_key": "3_1895100966019715072",
+              "start": 4,
+              "url": "https://t.co/yp7pO0XSWw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895101104607879340",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2998,
+          "impression_count": 2910208,
+          "like_count": 88868,
+          "quote_count": 317,
+          "reply_count": 125,
+          "retweet_count": 4973
+        },
+        "reply_settings": "everyone",
+        "text": "ルート https://t.co/yp7pO0XSWw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵可以叫我弦月/小月 | od | 自伤 | 中文/Eng/Ita🩵#shtwt #drugtwt @kagengetsu_1备用",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 34,
+                "tag": "shtwt"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1894233038655295624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889935829856038912/G_-6TXsi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 408,
+          "like_count": 956,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1068
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-26T14:46:50.000Z",
+        "description": "化学が好きな一般人です。映像作品とか創ってます。https://t.co/lMOTGT5AX4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/mylist/28725264",
+                "end": 47,
+                "expanded_url": "http://nicovideo.jp/mylist/28725264",
+                "start": 24,
+                "url": "https://t.co/lMOTGT5AX4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "avogado6.com",
+                "end": 23,
+                "expanded_url": "https://www.avogado6.com/",
+                "start": 0,
+                "url": "https://t.co/C6ykDstxlb"
+              }
+            ]
+          }
+        },
+        "id": "324391547",
+        "name": "アボガド6",
+        "pinned_tweet_id": "1697145165679653046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/982977860804554753/2TGsjSo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2491350,
+          "following_count": 22,
+          "like_count": 35,
+          "listed_count": 9136,
+          "media_count": 3248,
+          "tweet_count": 3919
+        },
+        "url": "https://t.co/C6ykDstxlb",
+        "username": "avogado6",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "2000255155489702078",
+    "created_at": "2025-12-14T17:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T18:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000255155489702078"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Manglesuki/sta…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/Manglesuki/status/1996632430036635741",
+          "start": 72,
+          "url": "https://t.co/fL4fuFQyvu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000255155489702078",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996632430036635741",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "此为真，判断方式是具体情况官方告知我了。一切所谓的小道消息均为谣言，请不要随意讨论传播谣言。我不会自证，一年零八个月后我们在世界的另一边再见吧 https://t.co/fL4fuFQyvu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "2000255155489702078",
+        "created_at": "2025-12-14T17:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T18:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000255155489702078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Manglesuki/sta…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/Manglesuki/status/1996632430036635741",
+              "start": 72,
+              "url": "https://t.co/fL4fuFQyvu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000255155489702078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996632430036635741",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "此为真，判断方式是具体情况官方告知我了。一切所谓的小道消息均为谣言，请不要随意讨论传播谣言。我不会自证，一年零八个月后我们在世界的另一边再见吧 https://t.co/fL4fuFQyvu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1996632430036635741",
+        "created_at": "2025-12-04T17:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T18:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996632430036635741"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996632430036635741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 203672,
+          "like_count": 338,
+          "quote_count": 44,
+          "reply_count": 110,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：药物百科wiki主沐雨因严重的肺部感染，于2025.11.25不幸病逝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月——中推药圈全网素质最差脾气最烂第一人，背景最深最神秘第一人，反所有wiki个人崇拜反中立阵营第一人🩵里账：@kagengetsu_1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1623,
+          "following_count": 272,
+          "like_count": 1739,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 2012
+        },
+        "username": "CY_Mystica",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科副wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X 凯越450RR｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968414430628290560/1MKf2N9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 76,
+          "like_count": 334,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 305
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      }
+    ]
+  }
+}

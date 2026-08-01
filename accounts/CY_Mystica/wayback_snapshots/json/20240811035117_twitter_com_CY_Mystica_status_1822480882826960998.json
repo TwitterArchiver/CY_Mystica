@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1232828648685654016"
+      ],
+      "media_source_tweet_id": [
+        "1232828692742557701"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "1822480882826960998",
+    "created_at": "2024-08-11T03:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T04:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822480882826960998"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 47,
+          "tag": "溜冰"
+        },
+        {
+          "end": 56,
+          "start": 51,
+          "tag": "嗨fun"
+        },
+        {
+          "end": 60,
+          "start": 57,
+          "tag": "嗨肏"
+        },
+        {
+          "end": 64,
+          "start": 61,
+          "tag": "冰妹"
+        },
+        {
+          "end": 69,
+          "start": 65,
+          "tag": "溜猪肉"
+        },
+        {
+          "end": 81,
+          "start": 70,
+          "tag": "一口浓烟吐出美好明天"
+        },
+        {
+          "end": 85,
+          "start": 82,
+          "tag": "嗨操"
+        },
+        {
+          "end": 91,
+          "start": 86,
+          "tag": "男女嗨操"
+        },
+        {
+          "end": 98,
+          "start": 92,
+          "tag": "咕噜咕噜爱"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1115133895878385664",
+          "start": 3,
+          "username": "lookingshemale"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hsukydama7",
+          "end": 122,
+          "expanded_url": "https://twitter.com/lookingshemale/status/1232828692742557701/video/1",
+          "media_key": "7_1232828648685654016",
+          "start": 99,
+          "url": "https://t.co/hsuKydAma7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822480882826960998",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 290
+    },
+    "referenced_tweets": [
+      {
+        "id": "1232828692742557701",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lookingshemale: 出肉\n量少勿扰\nvx；shunlipingan668\n#溜冰 #嗨fun #嗨肏 #冰妹 #溜猪肉 #一口浓烟吐出美好明天 #嗨操 #男女嗨操 #咕噜咕噜爱 https://t.co/hsuKydAma7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1822480882826960998].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1822480882826960998",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1822480882826960998"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 140000,
+        "height": 368,
+        "media_key": "7_1232828648685654016",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1232828648685654016/pu/img/lhfDm-NoXNGfaeKT.jpg",
+        "public_metrics": {
+          "view_count": 68005
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1232828648685654016/pu/vid/352x270/Ar6EIiDT6U3uDu25.mp4?tag=10"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1232828648685654016/pu/vid/480x368/NVjuxWzU6nN-p2VP.mp4?tag=10"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1232828648685654016/pu/pl/AUVLncdhx1DDfyV2.m3u8?tag=10"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1232828648685654016"
+          ]
+        },
+        "author_id": "1115133895878385664",
+        "conversation_id": "1232828692742557701",
+        "created_at": "2020-02-27T00:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2020-02-27T01:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1232828692742557701"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "溜冰"
+            },
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "嗨fun"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "嗨肏"
+            },
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "冰妹"
+            },
+            {
+              "end": 49,
+              "start": 45,
+              "tag": "溜猪肉"
+            },
+            {
+              "end": 61,
+              "start": 50,
+              "tag": "一口浓烟吐出美好明天"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "嗨操"
+            },
+            {
+              "end": 71,
+              "start": 66,
+              "tag": "男女嗨操"
+            },
+            {
+              "end": 78,
+              "start": 72,
+              "tag": "咕噜咕噜爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hsukydama7",
+              "end": 102,
+              "expanded_url": "https://twitter.com/lookingshemale/status/1232828692742557701/video/1",
+              "media_key": "7_1232828648685654016",
+              "start": 79,
+              "url": "https://t.co/hsuKydAma7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1232828692742557701",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 0,
+          "like_count": 901,
+          "quote_count": 9,
+          "reply_count": 14,
+          "retweet_count": 290
+        },
+        "reply_settings": "everyone",
+        "text": "出肉\n量少勿扰\nvx；shunlipingan668\n#溜冰 #嗨fun #嗨肏 #冰妹 #溜猪肉 #一口浓烟吐出美好明天 #嗨操 #男女嗨操 #咕噜咕噜爱 https://t.co/hsuKydAma7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "04年小母狗",
+        "id": "1124658845664653314",
+        "name": "下弦月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 211,
+          "like_count": 95,
+          "listed_count": 0,
+          "tweet_count": 108
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-08T06:06:53.000Z",
+        "description": "小窗口",
+        "id": "1115133895878385664",
+        "location": "壶里",
+        "name": "冰泡泡Tina肉",
+        "pinned_tweet_id": "1503565885755207682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1234465537079443456/5FBNPS2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4928,
+          "following_count": 730,
+          "like_count": 193,
+          "listed_count": 16,
+          "tweet_count": 821
+        },
+        "username": "lookingshemale",
+        "verified": false
+      }
+    ]
+  }
+}

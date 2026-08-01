@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1909119443701293293",
+    "created_at": "2025-04-07T20:35:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T21:35:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909344252309782583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1164388321545449472",
+          "start": 0,
+          "username": "imwsl90"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909344252309782583",
+    "in_reply_to_user_id": "1164388321545449472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909119443701293293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imwsl90 草他妈的老子前两天前面的车突然异常害我出车祸是不是就因为有这种傻逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1076,
+        "media_key": "3_1909119435849584640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn6OAw-b0AA6t9s.jpg",
+        "width": 528
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1909119443701293293",
+        "created_at": "2025-04-07T20:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T21:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909344252309782583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1164388321545449472",
+              "start": 0,
+              "username": "imwsl90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909344252309782583",
+        "in_reply_to_user_id": "1164388321545449472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909119443701293293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imwsl90 草他妈的老子前两天前面的车突然异常害我出车祸是不是就因为有这种傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909119435849584640"
+          ]
+        },
+        "author_id": "1164388321545449472",
+        "conversation_id": "1909119443701293293",
+        "created_at": "2025-04-07T05:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T06:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909119443701293293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MNEPc9JlWX",
+              "end": 45,
+              "expanded_url": "https://x.com/imwsl90/status/1909119443701293293/photo/1",
+              "media_key": "3_1909119435849584640",
+              "start": 22,
+              "url": "https://t.co/MNEPc9JlWX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909119443701293293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 21528,
+          "like_count": 221,
+          "quote_count": 1,
+          "reply_count": 35,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "好他么吓人... \n\n某电动车车友群的群聊 https://t.co/MNEPc9JlWX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵可以叫我弦月/小月 | od | 自伤 | 中文/Eng/Ita🤍#shtwt #drugtwt @kagengetsu_1备用🩵 提问箱https://t.co/sixisLLcgo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 34,
+                "tag": "shtwt"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "kagengetsu_1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pome.vip/201852e34b",
+                "end": 93,
+                "expanded_url": "https://pome.vip/201852e34b",
+                "start": 70,
+                "url": "https://t.co/sixisLLcgo"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1909306355841957952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909306831178194944/cenS1HtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 232,
+          "like_count": 1062,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 1228
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-22T04:06:29.000Z",
+        "description": "支付产品经理 & 前端程序员 如何联系我？Tg: https://t.co/qhzcXicBvG 个人博客 - https://t.co/jkPrQuSVQg 互联网分享群：https://t.co/ayVotWorzO 联系微信: wesley6020 我的AI资讯channel: https://t.co/hAI3dbLkDc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/imwsl90",
+                "end": 48,
+                "expanded_url": "https://t.me/imwsl90",
+                "start": 25,
+                "url": "https://t.co/qhzcXicBvG"
+              },
+              {
+                "display_url": "imwsl.com",
+                "end": 79,
+                "expanded_url": "https://imwsl.com",
+                "start": 56,
+                "url": "https://t.co/jkPrQuSVQg"
+              },
+              {
+                "display_url": "t.me/lwshare",
+                "end": 110,
+                "expanded_url": "https://t.me/lwshare",
+                "start": 87,
+                "url": "https://t.co/ayVotWorzO"
+              },
+              {
+                "display_url": "t.me/ainews1024",
+                "end": 166,
+                "expanded_url": "https://t.me/ainews1024",
+                "start": 143,
+                "url": "https://t.co/hAI3dbLkDc"
+              }
+            ]
+          }
+        },
+        "id": "1164388321545449472",
+        "name": "衛斯理",
+        "pinned_tweet_id": "1909062909394874650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770626410606141440/HFy0Ibg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62455,
+          "following_count": 7313,
+          "like_count": 39467,
+          "listed_count": 417,
+          "media_count": 9881,
+          "tweet_count": 65837
+        },
+        "username": "imwsl90",
+        "verified": true
+      }
+    ]
+  }
+}

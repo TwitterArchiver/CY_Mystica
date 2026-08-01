@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1840015815078490115"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "1840015834254848143",
+    "created_at": "2024-09-28T13:08:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-28T14:08:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1840015834254848143"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bkxcpqu2lb",
+          "end": 43,
+          "expanded_url": "https://twitter.com/CY_Mystica/status/1840015834254848143/video/1",
+          "media_key": "13_1840015815078490115",
+          "start": 20,
+          "url": "https://t.co/bKXCpQU2lB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840015834254848143",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "蓝贝印割开肉的声音滋滋滋🎶好听好听呀🩵 https://t.co/bKXCpQU2lB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6463,
+        "height": 720,
+        "media_key": "13_1840015815078490115",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1840015815078490115/img/6M_1KGyRPduAddrb.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1840015815078490115/vid/avc1/480x270/qEFoytpQI0xyzmMO.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1840015815078490115/vid/avc1/640x360/f43QFHdlIGrTqlz6.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1840015815078490115/vid/avc1/1280x720/DlVJKd-MiNpCfmEz.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1840015815078490115/pl/uxOjko3CsK6v_q4T.m3u8?tag=16"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1840015815078490115"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "conversation_id": "1840015834254848143",
+        "created_at": "2024-09-28T13:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T14:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840015834254848143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bkxcpqu2lb",
+              "end": 43,
+              "expanded_url": "https://twitter.com/CY_Mystica/status/1840015834254848143/video/1",
+              "media_key": "13_1840015815078490115",
+              "start": 20,
+              "url": "https://t.co/bKXCpQU2lB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840015834254848143",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝贝印割开肉的声音滋滋滋🎶好听好听呀🩵 https://t.co/bKXCpQU2lB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵04 | entp | od | 自伤 | 精神病 | 友跨顺女 |互fo| 消费主义 | 中文/Eng/ITA🩵",
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "下弦月",
+        "pinned_tweet_id": "1838939455534903709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 341,
+          "like_count": 302,
+          "listed_count": 0,
+          "tweet_count": 344
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      }
+    ]
+  }
+}

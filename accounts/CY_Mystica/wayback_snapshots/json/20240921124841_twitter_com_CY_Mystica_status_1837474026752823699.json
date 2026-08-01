@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1837140104231669762"
+      ],
+      "media_source_tweet_id": [
+        "1837140166504304725"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "1837474026752823699",
+    "created_at": "2024-09-21T12:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T13:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837474026752823699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1677226211314118656",
+          "start": 3,
+          "username": "TheeDarkCircle"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gbf36fu8t6",
+          "end": 43,
+          "expanded_url": "https://twitter.com/TheeDarkCircle/status/1837140166504304725/video/1",
+          "media_key": "7_1837140104231669762",
+          "start": 20,
+          "url": "https://t.co/Gbf36fU8T6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837474026752823699",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 305
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837140166504304725",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheeDarkCircle: https://t.co/Gbf36fU8T6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15464,
+        "height": 864,
+        "media_key": "7_1837140104231669762",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1837140104231669762/pu/img/7iZWGKZbfit1NGkc.jpg",
+        "public_metrics": {
+          "view_count": 340518
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1837140104231669762/pu/vid/avc1/320x576/WLb6VJ1M3O2Nf5XH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1837140104231669762/pu/vid/avc1/480x864/BEVOiUcTXA7UJqwm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1837140104231669762/pu/pl/76iXIvoNilMUcVIw.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1837140104231669762"
+          ],
+          "media_source_tweet_id": [
+            "1837140166504304725"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "conversation_id": "1837474026752823699",
+        "created_at": "2024-09-21T12:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T13:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837474026752823699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1677226211314118656",
+              "start": 3,
+              "username": "TheeDarkCircle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gbf36fu8t6",
+              "end": 43,
+              "expanded_url": "https://twitter.com/TheeDarkCircle/status/1837140166504304725/video/1",
+              "media_key": "7_1837140104231669762",
+              "start": 20,
+              "url": "https://t.co/Gbf36fU8T6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837474026752823699",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 305
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837140166504304725",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheeDarkCircle: https://t.co/Gbf36fU8T6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1837140104231669762"
+          ]
+        },
+        "author_id": "1677226211314118656",
+        "conversation_id": "1837140166504304725",
+        "created_at": "2024-09-20T14:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T15:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837140166504304725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gbf36fu8t6",
+              "end": 23,
+              "expanded_url": "https://twitter.com/TheeDarkCircle/status/1837140166504304725/video/1",
+              "media_key": "7_1837140104231669762",
+              "start": 0,
+              "url": "https://t.co/Gbf36fU8T6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837140166504304725",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 755,
+          "impression_count": 751316,
+          "like_count": 6306,
+          "quote_count": 56,
+          "reply_count": 116,
+          "retweet_count": 305
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Gbf36fU8T6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "04 | entp | od | 自伤 | 精神病 | 友跨顺女 | 热衷于互fo和交朋友 | 消费主义 | 无🚪纯绿 中文/Eng",
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "下弦月",
+        "pinned_tweet_id": "1836662977665339678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 342,
+          "like_count": 259,
+          "listed_count": 0,
+          "tweet_count": 293
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T08:01:28.000Z",
+        "description": "Follow to see the dark side of nature. Owns no content. DM for credit-removal.",
+        "id": "1677226211314118656",
+        "name": "Wildlife Uncensored",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798260984660033536/0w9Pu2D0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443496,
+          "following_count": 21,
+          "like_count": 1105,
+          "listed_count": 509,
+          "tweet_count": 761
+        },
+        "username": "TheeDarkCircle",
+        "verified": true
+      }
+    ]
+  }
+}

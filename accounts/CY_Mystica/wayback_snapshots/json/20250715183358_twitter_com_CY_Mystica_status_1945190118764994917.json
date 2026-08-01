@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945081146083053568"
+      ],
+      "media_source_tweet_id": [
+        "1945081154954002588"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "1945190118764994917",
+    "created_at": "2025-07-15T18:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T19:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945190118764994917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1867358316877242368",
+          "start": 3,
+          "username": "cutsp0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Je2tbPGn41",
+          "end": 35,
+          "expanded_url": "https://x.com/cutsp0/status/1945081154954002588/photo/1",
+          "media_key": "3_1945081146083053568",
+          "start": 12,
+          "url": "https://t.co/Je2tbPGn41"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945190118764994917",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 93
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945081154954002588",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cutsp0: https://t.co/Je2tbPGn41"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 555,
+        "media_key": "3_1945081146083053568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv5Q_zOXEAAg_5B.png",
+        "width": 418
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945081146083053568"
+          ],
+          "media_source_tweet_id": [
+            "1945081154954002588"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "conversation_id": "1945190118764994917",
+        "created_at": "2025-07-15T18:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T19:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945190118764994917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1867358316877242368",
+              "start": 3,
+              "username": "cutsp0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Je2tbPGn41",
+              "end": 35,
+              "expanded_url": "https://x.com/cutsp0/status/1945081154954002588/photo/1",
+              "media_key": "3_1945081146083053568",
+              "start": 12,
+              "url": "https://t.co/Je2tbPGn41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945190118764994917",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 93
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945081154954002588",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cutsp0: https://t.co/Je2tbPGn41"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945081146083053568"
+          ]
+        },
+        "author_id": "1867358316877242368",
+        "conversation_id": "1945081154954002588",
+        "created_at": "2025-07-15T11:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T12:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945081154954002588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Je2tbPGn41",
+              "end": 23,
+              "expanded_url": "https://x.com/cutsp0/status/1945081154954002588/photo/1",
+              "media_key": "3_1945081146083053568",
+              "start": 0,
+              "url": "https://t.co/Je2tbPGn41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945081154954002588",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 7846,
+          "like_count": 723,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Je2tbPGn41"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od | 自伤 | 中文/Eng/Ita🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 35,
+                "tag": "shtwt"
+              },
+              {
+                "end": 50,
+                "start": 42,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "kagengetsu_1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/3odqfj904d"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1909306355841957952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 251,
+          "like_count": 1132,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1412
+        },
+        "url": "https://t.co/3odqfj904d",
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T23:58:23.000Z",
+        "description": "𝙥𝙞𝙘𝙩𝙪𝙧𝙚𝙨 𝙣𝙤𝙩 𝙢𝙞𝙣𝙚𝙨 𝙪𝙣𝙡𝙚𝙨𝙨 𝙨𝙖𝙞𝙙 𝙤𝙩𝙝𝙚𝙧𝙬𝙞𝙨𝙚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "triggerwarning.com",
+                "end": 23,
+                "expanded_url": "http://triggerwarning.com",
+                "start": 0,
+                "url": "https://t.co/PLq6avVdPh"
+              }
+            ]
+          }
+        },
+        "id": "1867358316877242368",
+        "location": "♥F♥",
+        "name": "aiko tanaka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939144999561502720/0XQVYJkl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4632,
+          "following_count": 238,
+          "like_count": 1929,
+          "listed_count": 7,
+          "media_count": 214,
+          "tweet_count": 838
+        },
+        "url": "https://t.co/PLq6avVdPh",
+        "username": "cutsp0",
+        "verified": false
+      }
+    ]
+  }
+}

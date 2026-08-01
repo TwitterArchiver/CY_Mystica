@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1890686272718475312",
+    "created_at": "2025-02-16T10:04:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T11:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891066065922236919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1852941114036334593",
+          "start": 0,
+          "username": "5PmkYZMfzw52434"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891066065922236919",
+    "in_reply_to_user_id": "1852941114036334593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890686272718475312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5PmkYZMfzw52434 那很有实力了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1890686272718475312",
+        "created_at": "2025-02-16T10:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T11:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891066065922236919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852941114036334593",
+              "start": 0,
+              "username": "5PmkYZMfzw52434"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891066065922236919",
+        "in_reply_to_user_id": "1852941114036334593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890686272718475312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5PmkYZMfzw52434 那很有实力了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890686270487326720"
+          ]
+        },
+        "author_id": "1852941114036334593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1890686272718475312",
+        "created_at": "2025-02-15T08:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T09:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890686272718475312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qlh9pjgR38",
+              "end": 79,
+              "expanded_url": "https://x.com/5PmkYZMfzw52434/status/1890686272718475312/photo/1",
+              "media_key": "3_1890686270487326720",
+              "start": 56,
+              "url": "https://t.co/Qlh9pjgR38"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890686272718475312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 313,
+          "impression_count": 494699,
+          "like_count": 4860,
+          "quote_count": 18,
+          "reply_count": 275,
+          "retweet_count": 195
+        },
+        "reply_settings": "everyone",
+        "text": "草泥马我翻墙是来看黄的，不是来看你们聊政治的。每次黄看一半蹦出个习近平，搞得我现在看到习近平就硬了，草泥马的。 https://t.co/Qlh9pjgR38"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵可以叫我弦月/小月 | od | 自伤 | 中文/Eng/Ita🩵#shtwt #drugtwt @kagengetsu_1备用",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 34,
+                "tag": "shtwt"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889935829856038912/G_-6TXsi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 390,
+          "like_count": 746,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 956
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T05:09:34.000Z",
+        "description": "我是自动回复机器人流浪鸭鸭，欢迎给鸭鸭打赏。 要和我对话请在发言中带上“鸭鸭”",
+        "id": "1852941114036334593",
+        "name": "大种鸭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852945660313792512/Luf8Qwa1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 139,
+          "like_count": 3886,
+          "listed_count": 4,
+          "media_count": 206,
+          "tweet_count": 1991
+        },
+        "username": "5PmkYZMfzw52434",
+        "verified": false
+      }
+    ]
+  }
+}

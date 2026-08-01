@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1882449989735215368",
+    "created_at": "2025-01-23T21:13:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T22:13:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882537171099541767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1833270666629611520",
+          "start": 0,
+          "username": "Artemis522387"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882537171099541767",
+    "in_reply_to_user_id": "1833270666629611520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882522100747173901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Artemis522387 好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1882449989735215368",
+        "created_at": "2025-01-23T21:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T22:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882537171099541767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1833270666629611520",
+              "start": 0,
+              "username": "Artemis522387"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882537171099541767",
+        "in_reply_to_user_id": "1833270666629611520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882522100747173901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Artemis522387 好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833270666629611520",
+        "conversation_id": "1882449989735215368",
+        "created_at": "2025-01-23T20:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T21:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882522100747173901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1124658845664653314",
+              "start": 0,
+              "username": "CY_Mystica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882522100747173901",
+        "in_reply_to_user_id": "1124658845664653314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882449989735215368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CY_Mystica 让我们小月独美，亲戚都死一边去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵04 | entp |od | 自伤 | 精神病 | 友跨顺女 |互fo| 消费主义 | 中文/Eng/ITA🩵@kagengetsu_1备用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 57,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "下弦月🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870479498816471040/3RK8JhWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 379,
+          "like_count": 634,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 799
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T22:26:15.000Z",
+        "description": "一個09的小女孩……愛我請打錢",
+        "id": "1833270666629611520",
+        "location": "天堂",
+        "name": "Artemis",
+        "pinned_tweet_id": "1879373494875812139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879537319763750912/19UHGRFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 47,
+          "like_count": 353,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 118
+        },
+        "username": "Artemis522387",
+        "verified": false
+      }
+    ]
+  }
+}

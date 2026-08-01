@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080364556376018944"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080364571299373250",
+    "created_at": "2026-07-23T18:48:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T19:48:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080364571299373250"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IXFtk8uRd6",
+          "end": 28,
+          "expanded_url": "https://x.com/CY_Mystica/status/2080364571299373250/photo/1",
+          "media_key": "3_2080364556376018944",
+          "start": 5,
+          "url": "https://t.co/IXFtk8uRd6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080364571299373250",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👁️👁️ https://t.co/IXFtk8uRd6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2080364556376018944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7wirIbEAAi8nh.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080364556376018944"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080364571299373250",
+        "created_at": "2026-07-23T18:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T19:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080364571299373250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IXFtk8uRd6",
+              "end": 28,
+              "expanded_url": "https://x.com/CY_Mystica/status/2080364571299373250/photo/1",
+              "media_key": "3_2080364556376018944",
+              "start": 5,
+              "url": "https://t.co/IXFtk8uRd6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080364571299373250",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👁️👁️ https://t.co/IXFtk8uRd6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵万恶之源下弦月🌙",
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 249,
+          "like_count": 1666,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 2010
+        },
+        "url": "",
+        "username": "CY_Mystica",
+        "verified": true
+      }
+    ]
+  }
+}

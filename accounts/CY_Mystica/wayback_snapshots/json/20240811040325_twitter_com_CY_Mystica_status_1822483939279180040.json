@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1819608956580646913"
+      ],
+      "media_source_tweet_id": [
+        "1819609038822560103"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "1822483939279180040",
+    "created_at": "2024-08-11T04:03:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T05:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822483939279180040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1070155163753635842",
+          "start": 3,
+          "username": "DopamineLI"
+        },
+        {
+          "end": 73,
+          "id": "1534903698500907008",
+          "start": 66,
+          "username": "ies744"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lopdj5fbm7",
+          "end": 97,
+          "expanded_url": "https://twitter.com/DopamineLI/status/1819609038822560103/video/1",
+          "media_key": "7_1819608956580646913",
+          "start": 74,
+          "url": "https://t.co/lOPDJ5FbM7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822483939279180040",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819609038822560103",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DopamineLI: 通过撕碎尊严换来的屈辱快感\n是能让你的烂逼极限发情到可以通过排尿爽到高潮哦\n羡慕她吗？\n\n视频来源:@ies744 https://t.co/lOPDJ5FbM7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1822483939279180040].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1822483939279180040",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1822483939279180040"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30370,
+        "height": 1280,
+        "media_key": "7_1819608956580646913",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1819608956580646913/pu/img/ohyibdv9tGRajnVM.jpg",
+        "public_metrics": {
+          "view_count": 8244
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1819608956580646913/pu/vid/avc1/320x568/SdsOtHfLCIGF418r.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1819608956580646913/pu/vid/avc1/480x852/V8yfuyNgQsH7-ftZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1819608956580646913/pu/vid/avc1/720x1280/lz0CaqDY8UnE1JG-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1819608956580646913/pu/pl/kZbHurwGl_5FWtMg.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1819608956580646913"
+          ]
+        },
+        "author_id": "1070155163753635842",
+        "conversation_id": "1819609038822560103",
+        "created_at": "2024-08-03T05:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T06:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819609038822560103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 57,
+              "id": "1534903698500907008",
+              "start": 50,
+              "username": "ies744"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lopdj5fbm7",
+              "end": 81,
+              "expanded_url": "https://twitter.com/DopamineLI/status/1819609038822560103/video/1",
+              "media_key": "7_1819608956580646913",
+              "start": 58,
+              "url": "https://t.co/lOPDJ5FbM7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819609038822560103",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 17119,
+          "like_count": 280,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "通过撕碎尊严换来的屈辱快感\n是能让你的烂逼极限发情到可以通过排尿爽到高潮哦\n羡慕她吗？\n\n视频来源:@ies744 https://t.co/lOPDJ5FbM7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "04年小母狗",
+        "id": "1124658845664653314",
+        "name": "下弦月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 215,
+          "like_count": 95,
+          "listed_count": 0,
+          "tweet_count": 113
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-05T03:17:28.000Z",
+        "description": "屈辱创造自由 ｜ 不定期屏蔽粉丝 谨慎关注",
+        "id": "1070155163753635842",
+        "name": "多巴胺",
+        "pinned_tweet_id": "1809840605205324255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1242155390407712771/2gWodOlt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10321,
+          "following_count": 797,
+          "like_count": 1112,
+          "listed_count": 46,
+          "tweet_count": 364
+        },
+        "username": "DopamineLI",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-09T14:22:23.000Z",
+        "description": "22♀148cm 下品交尾が大好きなオホ声マゾ便器のいちかです♡見かけたら使って下さい︎♡ myfans➡️https://t.co/KzVPbI0l8a Candfans➡️ https://t.co/cVbD6eR0Y0 ※単独男性募集の際はファンクラブ会員様・検査済みの方・SNS等掲載可能な方優先です♡",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "myfans.jp/ies744",
+                "end": 77,
+                "expanded_url": "https://myfans.jp/ies744",
+                "start": 54,
+                "url": "https://t.co/KzVPbI0l8a"
+              },
+              {
+                "display_url": "candfans.jp/ies744",
+                "end": 112,
+                "expanded_url": "https://candfans.jp/ies744",
+                "start": 89,
+                "url": "https://t.co/cVbD6eR0Y0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "myfans.jp/ies744",
+                "end": 23,
+                "expanded_url": "https://myfans.jp/ies744",
+                "start": 0,
+                "url": "https://t.co/KzVPbI0l8a"
+              }
+            ]
+          }
+        },
+        "id": "1534903698500907008",
+        "location": "東京",
+        "name": "いちか",
+        "pinned_tweet_id": "1751944325486018823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725134301887598592/r2CFxgQM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105356,
+          "following_count": 630,
+          "like_count": 1226,
+          "listed_count": 519,
+          "tweet_count": 382
+        },
+        "url": "https://t.co/KzVPbI0l8a",
+        "username": "ies744",
+        "verified": true
+      }
+    ]
+  }
+}

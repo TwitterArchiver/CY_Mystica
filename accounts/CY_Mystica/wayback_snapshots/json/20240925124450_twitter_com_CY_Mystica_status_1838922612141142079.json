@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1838922612141142079",
+    "created_at": "2024-09-25T12:44:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T13:44:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1838922612141142079"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/love1027w/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/love1027w/status/1838739691451171032",
+          "start": 9,
+          "url": "https://t.co/L7Nd2M3dBH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838922612141142079",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838739691451171032",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "天呐这简直就是我 https://t.co/L7Nd2M3dBH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1838922612141142079",
+        "created_at": "2024-09-25T12:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T13:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838922612141142079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/love1027w/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/love1027w/status/1838739691451171032",
+              "start": 9,
+              "url": "https://t.co/L7Nd2M3dBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838922612141142079",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838739691451171032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天呐这简直就是我 https://t.co/L7Nd2M3dBH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838739684157198336"
+          ]
+        },
+        "author_id": "1527308255927492609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1838739691451171032",
+        "created_at": "2024-09-25T00:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T01:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838739691451171032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/06slgpqyqx",
+              "end": 26,
+              "expanded_url": "https://twitter.com/love1027w/status/1838739691451171032/photo/1",
+              "media_key": "3_1838739684157198336",
+              "start": 3,
+              "url": "https://t.co/06SLgpQyQx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838739691451171032",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6631,
+          "like_count": 122,
+          "quote_count": 6,
+          "reply_count": 8,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "我： https://t.co/06SLgpQyQx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "04 | entp | od | 自伤 | 精神病 | 友跨顺女 | 热衷于互fo和交朋友 | 消费主义 | 无🚪纯绿 中文/Eng",
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "下弦月",
+        "pinned_tweet_id": "1836662977665339678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 343,
+          "like_count": 286,
+          "listed_count": 0,
+          "tweet_count": 321
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-19T15:20:47.000Z",
+        "description": "⚠️‼️无敏感血图/OD/负能量，注意避雷，善用屏蔽，谨慎关注，被误b可联系@Yuzumi0211 ⚠️NSFW 🏳️‍⚧️Non-binary（they/he/she）🌈pan | grey-aro #shtwt #od",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 107,
+                "start": 101,
+                "tag": "shtwt"
+              },
+              {
+                "end": 111,
+                "start": 108,
+                "tag": "od"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 49,
+                "start": 38,
+                "username": "Yuzumi0211"
+              }
+            ]
+          }
+        },
+        "id": "1527308255927492609",
+        "location": "白云山制药厂",
+        "name": "兮柚用西柚在吸右",
+        "pinned_tweet_id": "1832125547960471576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765012568337432576/CKVTZuPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11350,
+          "following_count": 467,
+          "like_count": 38498,
+          "listed_count": 15,
+          "tweet_count": 21610
+        },
+        "username": "love1027w",
+        "verified": false
+      }
+    ]
+  }
+}

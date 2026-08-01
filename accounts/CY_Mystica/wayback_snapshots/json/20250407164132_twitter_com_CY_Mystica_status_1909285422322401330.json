@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1908852132339695801",
+    "created_at": "2025-04-07T16:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T17:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909285422322401330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1237561930530709507",
+          "start": 0,
+          "username": "xingnaiz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909285422322401330",
+    "in_reply_to_user_id": "1237561930530709507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909253612553056731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingnaiz 上面那个淘宝就有，下面的买不到的国外偷摸带回来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1908852132339695801",
+        "created_at": "2025-04-07T16:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T17:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909285422322401330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1237561930530709507",
+              "start": 0,
+              "username": "xingnaiz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909285422322401330",
+        "in_reply_to_user_id": "1237561930530709507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909253612553056731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingnaiz 上面那个淘宝就有，下面的买不到的国外偷摸带回来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1237561930530709507",
+        "conversation_id": "1908852132339695801",
+        "created_at": "2025-04-07T14:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T15:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909253612553056731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1124658845664653314",
+              "start": 0,
+              "username": "CY_Mystica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909253612553056731",
+        "in_reply_to_user_id": "1124658845664653314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908852132339695801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CY_Mystica 我靠在哪里买的啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵可以叫我弦月/小月 | od | 自伤 | 中文/Eng/Ita🩵#shtwt #drugtwt @kagengetsu_1备用",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 34,
+                "tag": "shtwt"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1897574381595017705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907112349741228033/SPTcOo1Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 228,
+          "like_count": 1051,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 1211
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-11T02:12:18.000Z",
+        "description": "全名贝璃尔 星奈丨大学在读丨04年男娘coser丨抖m｜坐标成都/上海丨身高体重172/60丨会伪声丨私信请直接表明来意｜门槛50 zfb口令红包 过🚪可线下丨接 #线下 全国可飞丨不卖图包视频不接推广！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 82,
+                "tag": "线下"
+              }
+            ]
+          }
+        },
+        "id": "1237561930530709507",
+        "location": "常驻成都丨全国可✈️",
+        "name": "星奈不是星怒",
+        "pinned_tweet_id": "1816475038868230487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807165649254551552/_2pAXIBU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19073,
+          "following_count": 159,
+          "like_count": 368,
+          "listed_count": 76,
+          "media_count": 134,
+          "tweet_count": 507
+        },
+        "username": "xingnaiz",
+        "verified": false
+      }
+    ]
+  }
+}

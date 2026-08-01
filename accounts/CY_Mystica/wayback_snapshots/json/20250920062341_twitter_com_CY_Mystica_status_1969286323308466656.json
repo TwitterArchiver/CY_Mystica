@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1969286323308466656",
+    "created_at": "2025-09-20T06:23:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T07:23:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969286323308466656"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rcwikixyz/stat…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/rcwikixyz/status/1968957170365469033",
+          "start": 25,
+          "url": "https://t.co/VLcwEALj3L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969286323308466656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968957170365469033",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "顺便也支持直接找我购买真相🤓👆比打谱便宜一点🤓👆 https://t.co/VLcwEALj3L"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1969286323308466656",
+        "created_at": "2025-09-20T06:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T07:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969286323308466656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rcwikixyz/stat…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/rcwikixyz/status/1968957170365469033",
+              "start": 25,
+              "url": "https://t.co/VLcwEALj3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969286323308466656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968957170365469033",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "顺便也支持直接找我购买真相🤓👆比打谱便宜一点🤓👆 https://t.co/VLcwEALj3L"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826984800390889472",
+        "conversation_id": "1968957170365469033",
+        "created_at": "2025-09-19T08:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T09:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968957170365469033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968957170365469033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 398,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "支持打谱所有药商"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od | ed |自伤 | 中文/Eng/Ita/ESP🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "shtwt"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1641,
+          "following_count": 283,
+          "like_count": 1754,
+          "listed_count": 2,
+          "media_count": 154,
+          "tweet_count": 2000
+        },
+        "username": "CY_Mystica",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-23T14:08:22.000Z",
+        "description": "rcwiki官方账号｜ 化学品科普 https://t.co/qKJUyDNO1y ｜ 前高四爱博主合作私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "rcwiki.xyz",
+                "end": 41,
+                "expanded_url": "https://rcwiki.xyz/",
+                "start": 18,
+                "url": "https://t.co/qKJUyDNO1y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rcwiki.xyz",
+                "end": 23,
+                "expanded_url": "https://rcwiki.xyz/",
+                "start": 0,
+                "url": "https://t.co/qKJUyDNO1y"
+              }
+            ]
+          }
+        },
+        "id": "1826984800390889472",
+        "location": "天下社",
+        "name": "前列腺高潮大王（rcwiki.xyz）",
+        "pinned_tweet_id": "1943169008829944010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954620994288795648/ZuM-Pxtk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2605,
+          "following_count": 99,
+          "like_count": 323,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 234
+        },
+        "url": "https://t.co/qKJUyDNO1y",
+        "username": "rcwikixyz",
+        "verified": false
+      }
+    ]
+  }
+}

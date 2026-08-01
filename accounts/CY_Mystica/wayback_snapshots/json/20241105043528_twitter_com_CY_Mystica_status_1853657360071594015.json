@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1853657360071594015",
+    "created_at": "2024-11-05T04:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-05T05:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1853657360071594015"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nankyuseiichi/…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/nankyuseiichi/status/1853040890807292228",
+          "start": 52,
+          "url": "https://t.co/Zt0mDxWsB5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853657360071594015",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853040890807292228",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "差不多好多年前听说蓝鲸游戏，心想我才不会交往用刀在手上画画的极端人，结果到了今天发现自己就是这种货色… https://t.co/Zt0mDxWsB5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1853657360071594015",
+        "created_at": "2024-11-05T04:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T05:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853657360071594015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nankyuseiichi/…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/nankyuseiichi/status/1853040890807292228",
+              "start": 52,
+              "url": "https://t.co/Zt0mDxWsB5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853657360071594015",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853040890807292228",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "差不多好多年前听说蓝鲸游戏，心想我才不会交往用刀在手上画画的极端人，结果到了今天发现自己就是这种货色… https://t.co/Zt0mDxWsB5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815649539057201152",
+        "conversation_id": "1853040890807292228",
+        "created_at": "2024-11-03T11:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T12:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853040890807292228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1853040890807292228",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 12845,
+          "like_count": 211,
+          "quote_count": 6,
+          "reply_count": 12,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "差不多好多年前听说蓝鲸游戏，心想我才不会交往用刀在手上画画的极端人，结果到了今天发现关系好的人几乎全是这种货色..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵04 | entp | od | 自伤 | 精神病 | 友跨顺女 |互fo| 消费主义 | 中文/Eng/ITA🩵",
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "下弦月🌙",
+        "pinned_tweet_id": "1845440801246970366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841172907072110593/alcfl7zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 340,
+          "like_count": 528,
+          "listed_count": 0,
+          "tweet_count": 545
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "加速南墙/幻觉游泳/历史进程/沼泽浮木/非常感谢/为时不晚",
+        "id": "1815649539057201152",
+        "name": "南宫清一（戒色第0天）",
+        "pinned_tweet_id": "1849645849363804304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815652365674160128/rokkTcsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 567,
+          "like_count": 5222,
+          "listed_count": 2,
+          "tweet_count": 3043
+        },
+        "username": "NankyuSeiichi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1953884510841618607",
+    "created_at": "2025-08-08T18:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T19:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953884510841618607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1893688350076542976",
+          "start": 3,
+          "username": "drug_artist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953884510841618607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953873678942248966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @drug_artist: Sakura你真是烂到底了，请问那到底是谁的号？我注册了一年的的号，给你分享共同使用，你给改密码改邮箱抢走跑路了，而且租房是谁给你租的忘了？我出没出钱？我帮你找工作帮你租房成坑你了？拿你号卖药不给你分钱？那不是你自己不要的？你真是晚安吃多了吃疯…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 423,
+        "media_key": "3_1953873675478085633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx2NwXrbsAE0PFU.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1953884510841618607",
+        "created_at": "2025-08-08T18:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T19:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953884510841618607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1893688350076542976",
+              "start": 3,
+              "username": "drug_artist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953884510841618607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953873678942248966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @drug_artist: Sakura你真是烂到底了，请问那到底是谁的号？我注册了一年的的号，给你分享共同使用，你给改密码改邮箱抢走跑路了，而且租房是谁给你租的忘了？我出没出钱？我帮你找工作帮你租房成坑你了？拿你号卖药不给你分钱？那不是你自己不要的？你真是晚安吃多了吃疯…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953873675478085633"
+          ]
+        },
+        "author_id": "1893688350076542976",
+        "conversation_id": "1953873678942248966",
+        "created_at": "2025-08-08T17:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T18:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953873678942248966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VGDABG1QSm",
+              "end": 163,
+              "expanded_url": "https://x.com/drug_artist/status/1953873678942248966/photo/1",
+              "media_key": "3_1953873675478085633",
+              "start": 140,
+              "url": "https://t.co/VGDABG1QSm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953873678942248966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Sakura你真是烂到底了，请问那到底是谁的号？我注册了一年的的号，给你分享共同使用，你给改密码改邮箱抢走跑路了，而且租房是谁给你租的忘了？我出没出钱？我帮你找工作帮你租房成坑你了？拿你号卖药不给你分钱？那不是你自己不要的？你真是晚安吃多了吃疯了精分了背刺别人背刺习惯了是不是啊 https://t.co/VGDABG1QSm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od | 自伤 | 中文/Eng/Ita🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 35,
+                "tag": "shtwt"
+              },
+              {
+                "end": 50,
+                "start": 42,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "kagengetsu_1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/3odqfj904d"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1909306355841957952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 252,
+          "like_count": 1159,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 1440
+        },
+        "url": "https://t.co/3odqfj904d",
+        "username": "CY_Mystica",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-23T15:44:29.000Z",
+        "description": "药物百科wiki主\n投稿请私信我\n愿每一位药物滥用者都能脱离深渊\n提供药物咨询\nim crazy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/hLxQwrcSWN"
+              }
+            ]
+          }
+        },
+        "id": "1893688350076542976",
+        "location": "Xanax天国2mg省",
+        "name": "沐雨",
+        "pinned_tweet_id": "1928368769098788885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923304720611024896/ImSJUBEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2477,
+          "following_count": 148,
+          "like_count": 317,
+          "listed_count": 4,
+          "media_count": 27,
+          "tweet_count": 534
+        },
+        "url": "https://t.co/hLxQwrcSWN",
+        "username": "drug_artist",
+        "verified": false
+      }
+    ]
+  }
+}

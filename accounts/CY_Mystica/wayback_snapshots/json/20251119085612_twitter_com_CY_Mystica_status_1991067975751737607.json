@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1991067975751737607",
+    "created_at": "2025-11-19T08:56:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T09:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991067975751737607"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/overdose_dbd/s…",
+          "end": 97,
+          "expanded_url": "https://twitter.com/overdose_dbd/status/1991062218981670971",
+          "start": 74,
+          "url": "https://t.co/mJ2K2Ha4mP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991067975751737607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991062218981670971",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真当药圈皇帝当上瘾了，沐雨算他妈什么玩意来管我？你想考证不会直接问？没昨晚直接骂你个不会说人话的是因为忍着等着你提供线索，现在你们两个极品傻逼都滚 https://t.co/mJ2K2Ha4mP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1991067975751737607",
+        "created_at": "2025-11-19T08:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T09:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991067975751737607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overdose_dbd/s…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/overdose_dbd/status/1991062218981670971",
+              "start": 74,
+              "url": "https://t.co/mJ2K2Ha4mP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991067975751737607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991062218981670971",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真当药圈皇帝当上瘾了，沐雨算他妈什么玩意来管我？你想考证不会直接问？没昨晚直接骂你个不会说人话的是因为忍着等着你提供线索，现在你们两个极品傻逼都滚 https://t.co/mJ2K2Ha4mP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700948552078467072",
+        "conversation_id": "1991062218981670971",
+        "created_at": "2025-11-19T08:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T09:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991062218981670971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overdosewiki/s…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/overdosewiki/status/1991056690066940121",
+              "start": 62,
+              "url": "https://t.co/qbce2KPOc6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991062218981670971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991056690066940121",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "由于先前沐雨一些言论，弦月的此番话会显得特别可疑吊诡目的难匡，只能说沐雨你应该管好你的小伙伴，我在尝试考证事实，这位却急了 https://t.co/qbce2KPOc6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | ed |自伤 | 中文/Eng/Ita/ESP🩵熟人移步里账：@kagengetsu_1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1980529286131118485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1599,
+          "following_count": 278,
+          "like_count": 1738,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 1998
+        },
+        "username": "CY_Mystica",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "谁的附庸？\n高原整活观景台 https://t.co/WnyZ64LosE\n有事请点击https://t.co/UdJgE8LpGT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 37,
+                "expanded_url": "https://t.me/HWA_FK1",
+                "start": 14,
+                "url": "https://t.co/WnyZ64LosE"
+              },
+              {
+                "display_url": "t.me/SuperGogogotou",
+                "end": 66,
+                "expanded_url": "https://t.me/SuperGogogotou",
+                "start": 43,
+                "url": "https://t.co/UdJgE8LpGT"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984623073275125760/eoadOp59_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4154,
+          "following_count": 57,
+          "like_count": 22,
+          "listed_count": 11,
+          "media_count": 507,
+          "tweet_count": 6161
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1967903126167621666",
+    "created_at": "2025-09-16T11:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T12:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967907690870608286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1855690027034128384",
+          "start": 0,
+          "username": "tingxialaibai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967907690870608286",
+    "in_reply_to_user_id": "1855690027034128384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967907297402949957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tingxialaibai 封你为营销天才"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1967903126167621666",
+        "created_at": "2025-09-16T11:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T12:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967907690870608286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1855690027034128384",
+              "start": 0,
+              "username": "tingxialaibai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967907690870608286",
+        "in_reply_to_user_id": "1855690027034128384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967907297402949957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxialaibai 封你为营销天才"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855690027034128384",
+        "conversation_id": "1967903126167621666",
+        "created_at": "2025-09-16T11:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T12:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967907297402949957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1124658845664653314",
+              "start": 0,
+              "username": "CY_Mystica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967907297402949957",
+        "in_reply_to_user_id": "1124658845664653314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967906505946210413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CY_Mystica 开出安非他命 芬太尼算中头奖了🤗\n然后用美金刚之类金刚烷胺之类的当垫子\n十发保底一个紫的月尘之类的策划药\n美美上天堂咯👼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od | ed |自伤 | 中文/Eng/Ita/ESP🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "shtwt"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1618,
+          "following_count": 283,
+          "like_count": 1728,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 1918
+        },
+        "username": "CY_Mystica",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-10T19:13:04.000Z",
+        "description": "持证AS",
+        "id": "1855690027034128384",
+        "name": "fny",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955061237374652418/EnQ5E9iP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 27,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 364
+        },
+        "username": "tingxialaibai",
+        "verified": false
+      }
+    ]
+  }
+}

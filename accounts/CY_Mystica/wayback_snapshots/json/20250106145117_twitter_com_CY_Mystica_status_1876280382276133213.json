@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876280370938679296"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "1876280382276133213",
+    "created_at": "2025-01-06T14:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T15:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1876280382276133213"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sDRdxhhdfp",
+          "end": 28,
+          "expanded_url": "https://x.com/CY_Mystica/status/1876280382276133213/photo/1",
+          "media_key": "3_1876280370938679296",
+          "start": 5,
+          "url": "https://t.co/sDRdxhhdfp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876280382276133213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "开心:) https://t.co/sDRdxhhdfp"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1876280382276133213].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1876280382276133213",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1876280382276133213"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1876280370938679296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgnjDnDWkAAZBWh.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵04 | entp |暂时od | 暂时不自伤 | 精神病 | 友跨顺女 |互fo| 消费主义 | 中文/Eng/ITA🩵",
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "下弦月🌙",
+        "pinned_tweet_id": "1873062187616616859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870479498816471040/3RK8JhWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 366,
+          "like_count": 568,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 703
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      }
+    ]
+  }
+}

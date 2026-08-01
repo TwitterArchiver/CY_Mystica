@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1959341695914606838",
+    "created_at": "2025-08-23T19:47:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T20:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959341695914606838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1893688350076542976",
+          "start": 3,
+          "username": "drug_artist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959341695914606838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959341312076853573",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @drug_artist: 药物百科wiki重建中\n我们的前端后端工程师正在努力\n药物百科才是正统\n我们的视角将不止于od药物与精神活性物质\n我们将成为类似药典的存在\n包括但不限于 抗生素 生物药 消炎药\n即将发布全新药物百科wiki\n大家敬请期待 官号也即将注册\n我们没…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_1959341307887046656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzD6idpbUAAxLkN.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1959341695914606838",
+        "created_at": "2025-08-23T19:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T20:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959341695914606838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1893688350076542976",
+              "start": 3,
+              "username": "drug_artist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959341695914606838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959341312076853573",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @drug_artist: 药物百科wiki重建中\n我们的前端后端工程师正在努力\n药物百科才是正统\n我们的视角将不止于od药物与精神活性物质\n我们将成为类似药典的存在\n包括但不限于 抗生素 生物药 消炎药\n即将发布全新药物百科wiki\n大家敬请期待 官号也即将注册\n我们没…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959341307887046656"
+          ]
+        },
+        "author_id": "1893688350076542976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1959341312076853573",
+        "created_at": "2025-08-23T19:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T20:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959341312076853573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S6dnddmtR2",
+              "end": 179,
+              "expanded_url": "https://x.com/drug_artist/status/1959341312076853573/photo/1",
+              "media_key": "3_1959341307887046656",
+              "start": 156,
+              "url": "https://t.co/S6dnddmtR2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959341312076853573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "药物百科wiki重建中\n我们的前端后端工程师正在努力\n药物百科才是正统\n我们的视角将不止于od药物与精神活性物质\n我们将成为类似药典的存在\n包括但不限于 抗生素 生物药 消炎药\n即将发布全新药物百科wiki\n大家敬请期待 官号也即将注册\n我们没有立场 我们只是帮助需要帮助的人\n\nby.药物百科wiki主 沐雨 https://t.co/S6dnddmtR2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od |ed |自伤 | 中文/Eng/Ita/ESP🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 42,
+                "tag": "shtwt"
+              },
+              {
+                "end": 57,
+                "start": 49,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1954639888181252378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1225,
+          "following_count": 272,
+          "like_count": 1380,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1645
+        },
+        "username": "CY_Mystica",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-23T15:44:29.000Z",
+        "description": "药物百科wiki主\n投稿请私信我\n愿每一位药物滥用者都能脱离深渊\n提供药物咨询\nim crazy",
+        "id": "1893688350076542976",
+        "location": "Xanax天国2mg省",
+        "name": "沐雨",
+        "pinned_tweet_id": "1949973611667759422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923304720611024896/ImSJUBEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2708,
+          "following_count": 149,
+          "like_count": 377,
+          "listed_count": 5,
+          "media_count": 33,
+          "tweet_count": 620
+        },
+        "username": "drug_artist",
+        "verified": false
+      }
+    ]
+  }
+}

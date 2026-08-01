@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1878395162524848128"
+      ],
+      "media_source_tweet_id": [
+        "1878395166643695956"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "1878886852222198014",
+    "created_at": "2025-01-13T19:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-13T20:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878886852222198014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1484102911307042819",
+          "start": 3,
+          "username": "hateeveryonefku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NydcZ37VL9",
+          "end": 44,
+          "expanded_url": "https://x.com/hateeveryonefku/status/1878395166643695956/photo/1",
+          "media_key": "3_1878395162524848128",
+          "start": 21,
+          "url": "https://t.co/NydcZ37VL9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878886852222198014",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878395166643695956",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hateeveryonefku: https://t.co/NydcZ37VL9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1574,
+        "media_key": "3_1878395162524848128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhFmcrobEAA-MrZ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878395162524848128"
+          ],
+          "media_source_tweet_id": [
+            "1878395166643695956"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "conversation_id": "1878886852222198014",
+        "created_at": "2025-01-13T19:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T20:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878886852222198014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1484102911307042819",
+              "start": 3,
+              "username": "hateeveryonefku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NydcZ37VL9",
+              "end": 44,
+              "expanded_url": "https://x.com/hateeveryonefku/status/1878395166643695956/photo/1",
+              "media_key": "3_1878395162524848128",
+              "start": 21,
+              "url": "https://t.co/NydcZ37VL9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878886852222198014",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878395166643695956",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hateeveryonefku: https://t.co/NydcZ37VL9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878395162524848128"
+          ]
+        },
+        "author_id": "1484102911307042819",
+        "conversation_id": "1878395166643695956",
+        "created_at": "2025-01-12T10:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T11:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878395166643695956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NydcZ37VL9",
+              "end": 23,
+              "expanded_url": "https://x.com/hateeveryonefku/status/1878395166643695956/photo/1",
+              "media_key": "3_1878395162524848128",
+              "start": 0,
+              "url": "https://t.co/NydcZ37VL9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878395166643695956",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 711,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NydcZ37VL9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵04 | entp |od | 自伤 | 精神病 | 友跨顺女 |互fo| 消费主义 | 中文/Eng/ITA🩵@kagengetsu_1备用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 57,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "下弦月🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870479498816471040/3RK8JhWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 372,
+          "like_count": 605,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 743
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T09:58:21.000Z",
+        "description": "shedtwt.",
+        "id": "1484102911307042819",
+        "location": "🚪288",
+        "name": "•~•̀",
+        "pinned_tweet_id": "1868656147592548601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871139949866864640/-Q9eveeS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1912,
+          "following_count": 567,
+          "like_count": 53419,
+          "listed_count": 8,
+          "media_count": 401,
+          "tweet_count": 7640
+        },
+        "username": "hateeveryonefku",
+        "verified": false
+      }
+    ]
+  }
+}

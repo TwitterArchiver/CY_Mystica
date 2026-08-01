@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1967903126167621666",
+    "created_at": "2025-09-16T12:06:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T13:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967922926981988445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1674596151671283714",
+          "start": 0,
+          "username": "sansnb173435"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967922926981988445",
+    "in_reply_to_user_id": "1674596151671283714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967921461680804163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sansnb173435 害算了，没有理论的必要了，你不想听到任何解释也好辩驳也好，你只是出于某些原因确定了自己讨厌药物百科然后要从一万个角度兜着圈子骂，你我之间你和药物百科直接本身也没有仇怨，不想做出任何回应了，请离开我们的评论区吧。当然如果你想买点“正统策划药”还是欢迎找我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1967903126167621666",
+        "created_at": "2025-09-16T12:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T13:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967922926981988445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1674596151671283714",
+              "start": 0,
+              "username": "sansnb173435"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967922926981988445",
+        "in_reply_to_user_id": "1674596151671283714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967921461680804163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sansnb173435 害算了，没有理论的必要了，你不想听到任何解释也好辩驳也好，你只是出于某些原因确定了自己讨厌药物百科然后要从一万个角度兜着圈子骂，你我之间你和药物百科直接本身也没有仇怨，不想做出任何回应了，请离开我们的评论区吧。当然如果你想买点“正统策划药”还是欢迎找我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674596151671283714",
+        "conversation_id": "1967903126167621666",
+        "created_at": "2025-09-16T12:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T13:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967921461680804163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1124658845664653314",
+              "start": 0,
+              "username": "CY_Mystica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967921461680804163",
+        "in_reply_to_user_id": "1124658845664653314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967917565000499380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CY_Mystica 我正想说呢 为什么不喷凌驾 为什么不喷叶经理 甚至不喷pd 为什么要喷你 原因我已经说了 你们刚开始就是打着做wiki的名义 然后套娃出来一个wiki 就开始打着wiki的名义卖策划药了 不令人恶心吗? 不喷凌驾是因为人家开始就是药商 坦坦荡荡的 后面做了个wiki给人科普 这点甚至要表扬呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od | ed |自伤 | 中文/Eng/Ita/ESP🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "shtwt"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 284,
+          "like_count": 1728,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 1925
+        },
+        "username": "CY_Mystica",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-30T01:50:23.000Z",
+        "description": "",
+        "id": "1674596151671283714",
+        "location": "❤️",
+        "name": "Nee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904952514824613888/jrkbLiZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 82,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 89
+        },
+        "username": "sansnb173435",
+        "verified": false
+      }
+    ]
+  }
+}

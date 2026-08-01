@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1889372311402529168",
+    "created_at": "2025-02-11T17:53:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T18:53:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889372311402529168"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1889372311402529168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家普瑞都o多少t啊？20t没什么药效好崩溃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1889372311402529168",
+        "created_at": "2025-02-11T17:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T18:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889372311402529168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889372311402529168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家普瑞都o多少t啊？20t没什么药效好崩溃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵可以叫我弦月/小月 | od | 自伤 | 我想和你交朋友我们互fo吧 | 中文/Eng/ITA🩵#shtwt #drugtwt @kagengetsu_1备用",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 50,
+                "tag": "shtwt"
+              },
+              {
+                "end": 65,
+                "start": 57,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 79,
+                "start": 66,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870479498816471040/3RK8JhWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 384,
+          "like_count": 699,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 889
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      }
+    ]
+  }
+}

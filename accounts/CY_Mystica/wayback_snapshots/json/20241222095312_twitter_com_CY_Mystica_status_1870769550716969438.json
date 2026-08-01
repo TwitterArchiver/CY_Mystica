@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1870769550716969438",
+    "created_at": "2024-12-22T09:53:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-22T10:53:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870769550716969438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1836276354041495553",
+          "start": 3,
+          "username": "CABR_Lies"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870769550716969438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869201059912282381",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CABR_Lies: 给我FreeHug不如给我FreeDrug"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1870769550716969438",
+        "created_at": "2024-12-22T09:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T10:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870769550716969438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1836276354041495553",
+              "start": 3,
+              "username": "CABR_Lies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870769550716969438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869201059912282381",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CABR_Lies: 给我FreeHug不如给我FreeDrug"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836276354041495553",
+        "conversation_id": "1869201059912282381",
+        "created_at": "2024-12-18T02:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T03:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869201059912282381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1869201059912282381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2299,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "给我FreeHug不如给我FreeDrug"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵04 | entp |暂时od | 暂时不自伤 | 精神病 | 友跨顺女 |互fo| 消费主义 | 中文/Eng/ITA🩵",
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "下弦月🌙",
+        "pinned_tweet_id": "1868995992714096957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870479498816471040/3RK8JhWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 361,
+          "like_count": 568,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 671
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T05:29:42.000Z",
+        "description": "𝑊𝑜𝑛'𝑡 𝑌𝑜𝑢 𝑃𝑙𝑒𝑎𝑠𝑒 𝑇𝑎𝑘𝑒 𝑀𝑒 𝐻𝑜𝑚𝑒?｜精神分裂毒瘾婊的QQ空间DLC｜#shtwt #drugtwt #goretwt ｜自残吸毒od碎碎念情绪垃圾桶｜嗑大了会乱讲话｜非单 女朋友 @Primrose_NB｜除了原味什么都不卖｜⚠分清毒枭和Dizzy",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 71,
+                "start": 63,
+                "tag": "goretwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 115,
+                "start": 103,
+                "username": "Primrose_NB"
+              }
+            ]
+          }
+        },
+        "id": "1836276354041495553",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "1869201059912282381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869802433930768385/ocpcKyf2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 74,
+          "like_count": 4748,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2238
+        },
+        "username": "CABR_Lies",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1833838358075940864"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1833838366275887197",
+    "created_at": "2024-09-11T12:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-11T13:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1833838366275887197"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rmuwwjjxn2",
+          "end": 27,
+          "expanded_url": "https://twitter.com/CY_Mystica/status/1833838366275887197/photo/1",
+          "media_key": "3_1833838358075940864",
+          "start": 4,
+          "url": "https://t.co/RmuWwjJXN2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833838366275887197",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "去死呀 https://t.co/RmuWwjJXN2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1128,
+        "media_key": "3_1833838358075940864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXMaRUSaIAA_88W.jpg",
+        "width": 1113
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833838358075940864"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1833838366275887197",
+        "created_at": "2024-09-11T12:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T13:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833838366275887197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rmuwwjjxn2",
+              "end": 27,
+              "expanded_url": "https://twitter.com/CY_Mystica/status/1833838366275887197/photo/1",
+              "media_key": "3_1833838358075940864",
+              "start": 4,
+              "url": "https://t.co/RmuWwjJXN2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833838366275887197",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去死呀 https://t.co/RmuWwjJXN2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "04 | entp | od | 自伤 | 精神病 | 友跨顺女 | 热衷于互fo和交朋友 | 消费主义 | 无🚪纯绿 中文/Eng",
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "下弦月",
+        "pinned_tweet_id": "1831302581404008939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 332,
+          "like_count": 193,
+          "listed_count": 0,
+          "tweet_count": 210
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      }
+    ]
+  }
+}

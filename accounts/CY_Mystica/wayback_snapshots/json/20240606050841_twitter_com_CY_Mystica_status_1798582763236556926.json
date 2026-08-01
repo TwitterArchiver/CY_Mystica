@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1798582763236556926",
+    "created_at": "2024-06-06T05:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-06T06:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798582763236556926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1306118653583138818",
+          "start": 3,
+          "username": "javzimu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "linktr.ee/91cc",
+          "end": 107,
+          "expanded_url": "http://linktr.ee/91cc",
+          "start": 84,
+          "url": "https://t.co/SZuAfQuazh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798582763236556926",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 569
+    },
+    "referenced_tweets": [
+      {
+        "id": "1781729995397955815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @javzimu: 极品护士被轮奸 疯狂抽插起白沫\n集体射入小穴中 极限阴道存精量\n～～～～～～～～～～～～～～   \nApp搜索关键词《射护士》   \n下载网址https://t.co/SZuAfQuazh\n～～～～～～～【1080p超清无码】 https://t.co…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1798582763236556926].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1798582763236556926",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1798582763236556926"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1781726635336900608"
+          ]
+        },
+        "author_id": "1306118653583138818",
+        "conversation_id": "1781729995397955815",
+        "created_at": "2024-04-20T17:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-04-20T18:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1781729995397955815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "linktr.ee/91cc",
+              "end": 94,
+              "expanded_url": "http://linktr.ee/91cc",
+              "start": 71,
+              "url": "https://t.co/SZuAfQuazh"
+            },
+            {
+              "display_url": "pic.twitter.com/uPQliWddR4",
+              "end": 137,
+              "expanded_url": "https://twitter.com/javzimu/status/1781729995397955815/video/1",
+              "media_key": "7_1781726635336900608",
+              "start": 114,
+              "url": "https://t.co/uPQliWddR4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1781729995397955815",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1503,
+          "impression_count": 911575,
+          "like_count": 3682,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 569
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "极品护士被轮奸 疯狂抽插起白沫\n集体射入小穴中 极限阴道存精量\n～～～～～～～～～～～～～～   \nApp搜索关键词《射护士》   \n下载网址https://t.co/SZuAfQuazh\n～～～～～～～【1080p超清无码】 https://t.co/uPQliWddR4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "04年小母狗",
+        "id": "1124658845664653314",
+        "name": "下弦月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 205,
+          "like_count": 95,
+          "listed_count": 0,
+          "tweet_count": 102
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-16T06:32:15.000Z",
+        "description": "主打｜中文字幕｜高清無碼｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/91cc",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/91cc",
+                "start": 0,
+                "url": "https://t.co/BJ3FTRoSHb"
+              }
+            ]
+          }
+        },
+        "id": "1306118653583138818",
+        "location": "下载官网",
+        "name": "成人導航【中文字幕組】",
+        "pinned_tweet_id": "1682743380500160514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678697435428982785/N---eZKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680480,
+          "following_count": 329,
+          "like_count": 14,
+          "listed_count": 1665,
+          "tweet_count": 18446
+        },
+        "url": "https://t.co/BJ3FTRoSHb",
+        "username": "javzimu",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

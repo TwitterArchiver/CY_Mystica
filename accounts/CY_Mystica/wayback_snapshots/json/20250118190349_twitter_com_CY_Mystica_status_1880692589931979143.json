@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1880621625525284864"
+      ],
+      "media_source_tweet_id": [
+        "1880621970074800570"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1880692589931979143",
+    "created_at": "2025-01-18T19:03:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T20:03:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880692589931979143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1622093052557811713",
+          "start": 3,
+          "username": "rain_0586"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mFM9epAcUg",
+          "end": 38,
+          "expanded_url": "https://x.com/rain_0586/status/1880621970074800570/video/1",
+          "media_key": "13_1880621625525284864",
+          "start": 15,
+          "url": "https://t.co/mFM9epAcUg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880692589931979143",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880621970074800570",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rain_0586: https://t.co/mFM9epAcUg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35664,
+        "height": 956,
+        "media_key": "13_1880621625525284864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1880621625525284864/img/Qe1Elr6Cvq1OFvvW.jpg",
+        "public_metrics": {
+          "view_count": 921
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1880621625525284864/vid/avc1/320x424/BvQD7VhBb3b_59Lo.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1880621625525284864/vid/avc1/480x636/Y5Xhot4FkIgKAqMq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1880621625525284864/vid/avc1/720x956/QJs9mqUSSNV03mqw.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1880621625525284864/pl/2Hg7yCADaDxaIxKh.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1880621625525284864"
+          ],
+          "media_source_tweet_id": [
+            "1880621970074800570"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1880692589931979143",
+        "created_at": "2025-01-18T19:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T20:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880692589931979143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1622093052557811713",
+              "start": 3,
+              "username": "rain_0586"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mFM9epAcUg",
+              "end": 38,
+              "expanded_url": "https://x.com/rain_0586/status/1880621970074800570/video/1",
+              "media_key": "13_1880621625525284864",
+              "start": 15,
+              "url": "https://t.co/mFM9epAcUg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880692589931979143",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880621970074800570",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rain_0586: https://t.co/mFM9epAcUg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1880621625525284864"
+          ]
+        },
+        "author_id": "1622093052557811713",
+        "conversation_id": "1880621970074800570",
+        "created_at": "2025-01-18T14:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T15:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880621970074800570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mFM9epAcUg",
+              "end": 23,
+              "expanded_url": "https://x.com/rain_0586/status/1880621970074800570/video/1",
+              "media_key": "13_1880621625525284864",
+              "start": 0,
+              "url": "https://t.co/mFM9epAcUg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880621970074800570",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 1772,
+          "like_count": 306,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mFM9epAcUg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵04 | entp |od | 自伤 | 精神病 | 友跨顺女 |互fo| 消费主义 | 中文/Eng/ITA🩵@kagengetsu_1备用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 57,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "下弦月🌙",
+        "pinned_tweet_id": "1877771042858385796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870479498816471040/3RK8JhWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 376,
+          "like_count": 628,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 769
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T04:41:52.000Z",
+        "description": "@sukidayou_p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "sukidayou_p"
+              }
+            ]
+          }
+        },
+        "id": "1622093052557811713",
+        "location": "𝕨𝕙𝕚𝕥𝕖 𝕤𝕡𝕒𝕔𝕖 ",
+        "name": "陳",
+        "pinned_tweet_id": "1642389415048908806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880625940159664128/fUBgHnkH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5025,
+          "following_count": 155,
+          "like_count": 44221,
+          "listed_count": 4,
+          "media_count": 283,
+          "tweet_count": 973
+        },
+        "username": "rain_0586",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1903162229744074752",
+        "3_1903162230092468227",
+        "3_1903162229941473281"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1903162245439537571",
+    "created_at": "2025-03-21T19:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T20:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903162245439537571"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fSf81ezjUI",
+          "end": 36,
+          "expanded_url": "https://x.com/CY_Mystica/status/1903162245439537571/photo/1",
+          "media_key": "3_1903162229744074752",
+          "start": 13,
+          "url": "https://t.co/fSf81ezjUI"
+        },
+        {
+          "display_url": "pic.x.com/fSf81ezjUI",
+          "end": 36,
+          "expanded_url": "https://x.com/CY_Mystica/status/1903162245439537571/photo/1",
+          "media_key": "3_1903162230092468227",
+          "start": 13,
+          "url": "https://t.co/fSf81ezjUI"
+        },
+        {
+          "display_url": "pic.x.com/fSf81ezjUI",
+          "end": 36,
+          "expanded_url": "https://x.com/CY_Mystica/status/1903162245439537571/photo/1",
+          "media_key": "3_1903162229941473281",
+          "start": 13,
+          "url": "https://t.co/fSf81ezjUI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903162245439537571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的好爱脂肪层切切切开 https://t.co/fSf81ezjUI"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1903162245439537571].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1903162245439537571",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1903162245439537571"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 555,
+        "media_key": "3_1903162229744074752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmlj9u3WAAAZ-WR.jpg",
+        "width": 813
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1903162230092468227",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmlj9wKaEAMwjWa.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1903162229941473281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmlj9vmaEAEdwbA.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵可以叫我弦月/小月 | od | 自伤 | 中文/Eng/Ita🩵#shtwt #drugtwt @kagengetsu_1备用",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 34,
+                "tag": "shtwt"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1897574381595017705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896217974630993920/O_bjWnlb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 225,
+          "like_count": 1025,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1163
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      }
+    ]
+  }
+}

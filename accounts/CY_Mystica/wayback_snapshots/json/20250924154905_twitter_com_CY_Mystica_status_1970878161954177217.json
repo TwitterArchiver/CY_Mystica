@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1970878161954177217",
+    "created_at": "2025-09-24T15:49:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T16:49:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970878161954177217"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/drug_artist1/s…",
+          "end": 140,
+          "expanded_url": "https://twitter.com/drug_artist1/status/1970866415512310233",
+          "start": 117,
+          "url": "https://t.co/jqv8dGGeyK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970878161954177217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970866415512310233",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉事已至此，沐雨永远是我重要的好朋友，有仇有怨的我也跟你道个歉吧，疯狂的几个月过去我也找到我的意义了，友谊地久天长，以后这个号就还是抱怨日常，慢慢淡了，可惜了了好多囤积的策划药了，我独自狂欢去啦♡也不知道未来如何，还会有人记得我吗🥰 https://t.co/jqv8dGGeyK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1970878161954177217",
+        "created_at": "2025-09-24T15:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T16:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970878161954177217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drug_artist1/s…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/drug_artist1/status/1970866415512310233",
+              "start": 117,
+              "url": "https://t.co/jqv8dGGeyK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970878161954177217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970866415512310233",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉事已至此，沐雨永远是我重要的好朋友，有仇有怨的我也跟你道个歉吧，疯狂的几个月过去我也找到我的意义了，友谊地久天长，以后这个号就还是抱怨日常，慢慢淡了，可惜了了好多囤积的策划药了，我独自狂欢去啦♡也不知道未来如何，还会有人记得我吗🥰 https://t.co/jqv8dGGeyK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963867793776070656",
+        "conversation_id": "1970866415512310233",
+        "created_at": "2025-09-24T15:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T16:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970866415512310233"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970866415512310233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 278,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "最后一条推文 我没死但你们可以当我死了 从即日起本账号将永久停止使用 我沐雨也不会再以任何其他身份回到推上wiki里和药圈了 或许只会跟极少数老朋友偶尔聊聊日常了 55555也好小猫也好sakura或是曾经跟我有过恩怨情仇的人也好我在此公开一并道歉 麻烦看到的相互转告 去探索未知的世界啦 勿念\nby.沐雨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | ed |自伤 | 中文/Eng/Ita/ESP🩵",
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1969677222442111038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 285,
+          "like_count": 1772,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 1991
+        },
+        "username": "CY_Mystica",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-05T07:32:46.000Z",
+        "description": "已退圈 本账号25.9.24起停止使用 愿每一位药物滥用者都能脱离深渊 提供药物咨询 im crazy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/N4ZvRTnSIg"
+              }
+            ]
+          }
+        },
+        "id": "1963867793776070656",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨（秽土转生）",
+        "pinned_tweet_id": "1970866415512310233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963871523082735616/Bl-ILJS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 48,
+          "like_count": 216,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 242
+        },
+        "url": "https://t.co/N4ZvRTnSIg",
+        "username": "drug_artist1",
+        "verified": false
+      }
+    ]
+  }
+}

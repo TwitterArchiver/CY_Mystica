@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1942180292338569449",
+    "created_at": "2025-07-07T11:14:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T12:14:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942180292338569449"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/x_overdose_day…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/x_overdose_day/status/1942173043889184900",
+          "start": 8,
+          "url": "https://t.co/KwM6KAHJkB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942180292338569449",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942173043889184900",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "又被资本做局了 https://t.co/KwM6KAHJkB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1942180292338569449",
+        "created_at": "2025-07-07T11:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T12:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942180292338569449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/x_overdose_day…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/x_overdose_day/status/1942173043889184900",
+              "start": 8,
+              "url": "https://t.co/KwM6KAHJkB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942180292338569449",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942173043889184900",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又被资本做局了 https://t.co/KwM6KAHJkB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894359849812856834",
+        "conversation_id": "1942173043889184900",
+        "created_at": "2025-07-07T10:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T11:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942173043889184900"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942173043889184900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 216,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "药物百科旧官号被冻结\n\n这是新的官号，请持续关注"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od | 自伤 | 中文/Eng/Ita🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 35,
+                "tag": "shtwt"
+              },
+              {
+                "end": 50,
+                "start": 42,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "kagengetsu_1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/3odqfj904d"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1909306355841957952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 246,
+          "like_count": 1089,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 1380
+        },
+        "url": "https://t.co/3odqfj904d",
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T12:12:45.000Z",
+        "description": "药物百科\nwiki主沐雨:@drug_artist\n副wiki主:Sakura\n投稿请私信我\n欢迎访问https://t.co/kpcYDRTGSo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "drug_artist"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 74,
+                "expanded_url": "http://overdose.day",
+                "start": 51,
+                "url": "https://t.co/kpcYDRTGSo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/kpcYDRTGSo"
+              }
+            ]
+          }
+        },
+        "id": "1894359849812856834",
+        "location": "Xanax天国",
+        "name": "drug百科",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942170925098536960/cpWSRmjm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 10,
+          "like_count": 28,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "url": "https://t.co/kpcYDRTGSo",
+        "username": "x_overdose_day",
+        "verified": false
+      }
+    ]
+  }
+}

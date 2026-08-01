@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1956919110987616728",
+    "created_at": "2025-08-18T20:31:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T21:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957540994284712260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1833270666629611520",
+          "start": 0,
+          "username": "Artemis522387"
+        },
+        {
+          "end": 28,
+          "id": "1866458229527764992",
+          "start": 15,
+          "username": "Citrus_amara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957540994284712260",
+    "in_reply_to_user_id": "1833270666629611520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957408558925951328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Artemis522387 @Citrus_amara 呜呜呜宝宝不要在外面od呀好危险"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1956919110987616728",
+        "created_at": "2025-08-18T20:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T21:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957540994284712260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1833270666629611520",
+              "start": 0,
+              "username": "Artemis522387"
+            },
+            {
+              "end": 28,
+              "id": "1866458229527764992",
+              "start": 15,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957540994284712260",
+        "in_reply_to_user_id": "1833270666629611520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957408558925951328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Artemis522387 @Citrus_amara 呜呜呜宝宝不要在外面od呀好危险"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833270666629611520",
+        "conversation_id": "1956919110987616728",
+        "created_at": "2025-08-18T11:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T12:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957408558925951328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1124658845664653314",
+              "start": 0,
+              "username": "CY_Mystica"
+            },
+            {
+              "end": 25,
+              "id": "1866458229527764992",
+              "start": 12,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957408558925951328",
+        "in_reply_to_user_id": "1124658845664653314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956941787584487449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CY_Mystica @Citrus_amara 呜呜小月，我之前o大了闭眼幻弄的我想哭，我在外面一睁开眼就摔，然后没过多久就又是幻，一睁开眼就再摔，摔了几十跤摔的我想哭，有时候直接脸对着摔下去了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od |ed |自伤 | 中文/Eng/Ita/ESP🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 42,
+                "tag": "shtwt"
+              },
+              {
+                "end": 57,
+                "start": 49,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1954639888181252378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 262,
+          "like_count": 1298,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 1567
+        },
+        "username": "CY_Mystica",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-09T22:26:15.000Z",
+        "description": "小萱｜ENTP｜brat｜163/44｜双相｜od｜白傷｜ed｜小女孩互fo大歡迎｜地雷糸｜愛我請打錢｜",
+        "id": "1833270666629611520",
+        "location": "天堂",
+        "name": "Artemis",
+        "pinned_tweet_id": "1879373494875812139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932828641777549312/_b9Heipt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 151,
+          "like_count": 2497,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 465
+        },
+        "username": "Artemis522387",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 357,
+          "like_count": 3474,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1476
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1959013967659245927",
+    "created_at": "2025-08-23T04:48:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T05:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959115439365398945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1421738675273076736",
+          "start": 0,
+          "username": "nervewing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959115439365398945",
+    "in_reply_to_user_id": "1421738675273076736",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959013967659245927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nervewing epic report that helped a ton🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 802,
+        "media_key": "3_1959013770124021760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy_QpQZXUAAPrVC.jpg",
+        "width": 774
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1959013967659245927",
+        "created_at": "2025-08-23T04:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T05:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959115439365398945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1421738675273076736",
+              "start": 0,
+              "username": "nervewing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959115439365398945",
+        "in_reply_to_user_id": "1421738675273076736",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959013967659245927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nervewing epic report that helped a ton🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959013770124021760"
+          ]
+        },
+        "author_id": "1421738675273076736",
+        "conversation_id": "1959013967659245927",
+        "created_at": "2025-08-22T22:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T23:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959013967659245927"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 51,
+              "normalized_text": "MXPCP",
+              "probability": 0.8242,
+              "start": 47,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Age: 30 Weight: 140 lbs Dosage: 170 mg intransal Setting: At home by myself. In a good mood.   [Please note: I have developed a di...",
+              "display_url": "nervewing.blogspot.com/2025/08/mxpcp.…",
+              "end": 151,
+              "expanded_url": "https://nervewing.blogspot.com/2025/08/mxpcp.html",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1959013973153783808/Wkeq5yDH?format=jpg&name=orig",
+                  "width": 774
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1959013973153783808/Wkeq5yDH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 128,
+              "status": 200,
+              "title": "MXPCP",
+              "unwound_url": "https://nervewing.blogspot.com/2025/08/mxpcp.html",
+              "url": "https://t.co/TMDv15HEre"
+            },
+            {
+              "display_url": "pic.x.com/VNXYTq6uRo",
+              "end": 175,
+              "expanded_url": "https://x.com/nervewing/status/1959013967659245927/photo/1",
+              "media_key": "3_1959013770124021760",
+              "start": 152,
+              "url": "https://t.co/VNXYTq6uRo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959013967659245927",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 3228,
+          "like_count": 119,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "Finished my report for the novel dissociative \"MXPCP\". Shallow but sure is a lot of fun. The ultimate hedonist's dissociative.\n\nhttps://t.co/TMDv15HEre https://t.co/VNXYTq6uRo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od |ed |自伤 | 中文/Eng/Ita/ESP🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 42,
+                "tag": "shtwt"
+              },
+              {
+                "end": 57,
+                "start": 49,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1954639888181252378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1219,
+          "following_count": 272,
+          "like_count": 1366,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1637
+        },
+        "username": "CY_Mystica",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-01T07:45:06.000Z",
+        "description": "The world should be enhanced | ex drug chemist| I write a lot about novel drugs and their effects| #1 contributor to erowid exp vaults| they/them",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nervewing.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://nervewing.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/oy6twsH52V"
+              }
+            ]
+          }
+        },
+        "id": "1421738675273076736",
+        "location": "up",
+        "name": "nervewing",
+        "pinned_tweet_id": "1421922170582839305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1421739092740612100/t1m2XlXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5861,
+          "following_count": 1282,
+          "like_count": 5973,
+          "listed_count": 22,
+          "media_count": 327,
+          "tweet_count": 3707
+        },
+        "url": "https://t.co/oy6twsH52V",
+        "username": "nervewing",
+        "verified": false
+      }
+    ]
+  }
+}

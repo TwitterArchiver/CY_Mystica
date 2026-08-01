@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1823076610259714394",
+    "created_at": "2024-08-12T19:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T20:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823076610259714394"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 81,
+          "start": 78,
+          "tag": "调教"
+        },
+        {
+          "end": 85,
+          "start": 82,
+          "tag": "母畜"
+        },
+        {
+          "end": 89,
+          "start": 86,
+          "tag": "骚货"
+        },
+        {
+          "end": 93,
+          "start": 90,
+          "tag": "羞辱"
+        },
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "羞耻"
+        },
+        {
+          "end": 101,
+          "start": 98,
+          "tag": "母狗"
+        },
+        {
+          "end": 105,
+          "start": 102,
+          "tag": "高潮"
+        },
+        {
+          "end": 109,
+          "start": 106,
+          "tag": "婊子"
+        },
+        {
+          "end": 113,
+          "start": 110,
+          "tag": "妓女"
+        },
+        {
+          "end": 117,
+          "start": 114,
+          "tag": "烂逼"
+        },
+        {
+          "end": 121,
+          "start": 118,
+          "tag": "烂货"
+        },
+        {
+          "end": 125,
+          "start": 122,
+          "tag": "母人"
+        },
+        {
+          "end": 129,
+          "start": 126,
+          "tag": "母猪"
+        },
+        {
+          "end": 135,
+          "start": 130,
+          "tag": "电击调教"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1117129408601448448",
+          "start": 3,
+          "username": "cabinyellow"
+        },
+        {
+          "end": 76,
+          "id": "1813766117342756864",
+          "start": 69,
+          "username": "ccyysm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823076610259714394",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 114
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822506376729645063",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cabinyellow: 05年郑州重口母狗返场投稿，电击棒捅烂逼，她说被虐的非常过瘾，电完逼都是麻木的没知觉了，嗓子也喊哑了。 @ccyysm \n#调教 #母畜 #骚货 #羞辱 #羞耻 #母狗 #高潮 #婊子 #妓女 #烂逼 #烂货 #母人 #母猪 #电击调教  #虐…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1823076610259714394].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1823076610259714394",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1823076610259714394"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1822506284194930688"
+          ]
+        },
+        "author_id": "1117129408601448448",
+        "conversation_id": "1822506376729645063",
+        "created_at": "2024-08-11T05:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T06:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822506376729645063"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "调教"
+            },
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "母畜"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "骚货"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "羞辱"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "羞耻"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "母狗"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "高潮"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "婊子"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "妓女"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "烂逼"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "烂货"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "母人"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "母猪"
+            },
+            {
+              "end": 118,
+              "start": 113,
+              "tag": "电击调教"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "虐待"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "sm"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "性虐"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "骚逼"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "狗逼"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "下贱"
+            },
+            {
+              "end": 148,
+              "start": 144,
+              "tag": "重口味"
+            },
+            {
+              "end": 155,
+              "start": 149,
+              "tag": "pussy"
+            },
+            {
+              "end": 161,
+              "start": 156,
+              "tag": "母狗调教"
+            },
+            {
+              "end": 166,
+              "start": 162,
+              "tag": "不当人"
+            },
+            {
+              "end": 173,
+              "start": 167,
+              "tag": "bitch"
+            },
+            {
+              "end": 177,
+              "start": 174,
+              "tag": "母驴"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 59,
+              "id": "1813766117342756864",
+              "start": 52,
+              "username": "ccyysm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b0uu2jzmug",
+              "end": 201,
+              "expanded_url": "https://twitter.com/cabinyellow/status/1822506376729645063/video/1",
+              "media_key": "7_1822506284194930688",
+              "start": 178,
+              "url": "https://t.co/B0uU2jZmUG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822506376729645063",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 37994,
+          "like_count": 896,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 114
+        },
+        "reply_settings": "everyone",
+        "text": "05年郑州重口母狗返场投稿，电击棒捅烂逼，她说被虐的非常过瘾，电完逼都是麻木的没知觉了，嗓子也喊哑了。 @ccyysm \n#调教 #母畜 #骚货 #羞辱 #羞耻 #母狗 #高潮 #婊子 #妓女 #烂逼 #烂货 #母人 #母猪 #电击调教  #虐待 #sm #性虐 #骚逼 #狗逼 #下贱 #重口味 #pussy #母狗调教 #不当人 #bitch #母驴 https://t.co/B0uU2jZmUG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "04年小母狗",
+        "id": "1124658845664653314",
+        "name": "下弦月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 219,
+          "like_count": 95,
+          "listed_count": 0,
+          "tweet_count": 117
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-13T18:16:21.000Z",
+        "description": "一个变态，还接投稿",
+        "id": "1117129408601448448",
+        "location": "China",
+        "name": "水无常形",
+        "pinned_tweet_id": "1808928573736001624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1590201850237571072/7RirAV10_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66038,
+          "following_count": 556,
+          "like_count": 206,
+          "listed_count": 312,
+          "tweet_count": 171
+        },
+        "username": "cabinyellow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T02:42:38.000Z",
+        "description": "05年乖狗狗，喜欢拳交，穿刺，性虐，捆绑，sm，尿道，喝尿，越重口越喜欢，口令🧧66🚪才会回复私信，166🚪可加vx和私信闲聊，🉑定制视频，纯原创，请加入我的电报群～⇩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xxxxsmsm",
+                "end": 23,
+                "expanded_url": "https://t.me/xxxxsmsm",
+                "start": 0,
+                "url": "https://t.co/9JNhYBx9xc"
+              }
+            ]
+          }
+        },
+        "id": "1813766117342756864",
+        "name": "ccyysm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819767817711046656/JNpHwZA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 44,
+          "like_count": 11,
+          "listed_count": 14,
+          "tweet_count": 31
+        },
+        "url": "https://t.co/9JNhYBx9xc",
+        "username": "ccyysm",
+        "verified": false
+      }
+    ]
+  }
+}

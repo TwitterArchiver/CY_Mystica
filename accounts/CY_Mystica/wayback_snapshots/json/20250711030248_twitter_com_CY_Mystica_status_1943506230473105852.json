@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943223423699681280"
+      ],
+      "media_source_tweet_id": [
+        "1943223427621323086"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "1943506230473105852",
+    "created_at": "2025-07-11T03:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T04:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943506230473105852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1817144107174957056",
+          "start": 3,
+          "username": "trydothebetter"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YWh9uIb3up",
+          "end": 43,
+          "expanded_url": "https://x.com/trydothebetter/status/1943223427621323086/photo/1",
+          "media_key": "3_1943223423699681280",
+          "start": 20,
+          "url": "https://t.co/YWh9uIb3up"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943506230473105852",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 107
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943223427621323086",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @trydothebetter: https://t.co/YWh9uIb3up"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 959,
+        "media_key": "3_1943223423699681280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gve3aIDWgAAGN64.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943223423699681280"
+          ],
+          "media_source_tweet_id": [
+            "1943223427621323086"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "conversation_id": "1943506230473105852",
+        "created_at": "2025-07-11T03:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T04:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943506230473105852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1817144107174957056",
+              "start": 3,
+              "username": "trydothebetter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YWh9uIb3up",
+              "end": 43,
+              "expanded_url": "https://x.com/trydothebetter/status/1943223427621323086/photo/1",
+              "media_key": "3_1943223423699681280",
+              "start": 20,
+              "url": "https://t.co/YWh9uIb3up"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943506230473105852",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943223427621323086",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @trydothebetter: https://t.co/YWh9uIb3up"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943223423699681280"
+          ]
+        },
+        "author_id": "1817144107174957056",
+        "conversation_id": "1943223427621323086",
+        "created_at": "2025-07-10T08:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T09:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943223427621323086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YWh9uIb3up",
+              "end": 23,
+              "expanded_url": "https://x.com/trydothebetter/status/1943223427621323086/photo/1",
+              "media_key": "3_1943223423699681280",
+              "start": 0,
+              "url": "https://t.co/YWh9uIb3up"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943223427621323086",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 58121,
+          "like_count": 884,
+          "quote_count": 5,
+          "reply_count": 40,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YWh9uIb3up"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od | 自伤 | 中文/Eng/Ita🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 35,
+                "tag": "shtwt"
+              },
+              {
+                "end": 50,
+                "start": 42,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "kagengetsu_1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/3odqfj904d"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1909306355841957952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 247,
+          "like_count": 1105,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1389
+        },
+        "url": "https://t.co/3odqfj904d",
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T10:25:00.000Z",
+        "description": "09年生人丨身高180丨性别男丨音游人丨喜欢可爱的事物丨十分偶尔有腰照掉落丨Q群721460654丨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/12656805…",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/1265680561?from=search",
+                "start": 0,
+                "url": "https://t.co/F4f36RgkLU"
+              }
+            ]
+          }
+        },
+        "id": "1817144107174957056",
+        "location": "云南",
+        "name": "永雏塔菲喵喵喵喵喵喵喵喵喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922765981077606400/_FYIsboS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2016,
+          "following_count": 1631,
+          "like_count": 7835,
+          "listed_count": 1,
+          "media_count": 400,
+          "tweet_count": 1431
+        },
+        "url": "https://t.co/F4f36RgkLU",
+        "username": "trydothebetter",
+        "verified": false
+      }
+    ]
+  }
+}

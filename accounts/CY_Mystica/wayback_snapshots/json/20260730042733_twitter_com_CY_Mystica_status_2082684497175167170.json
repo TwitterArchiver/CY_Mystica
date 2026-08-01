@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082119000038002688"
+      ],
+      "media_source_tweet_id": [
+        "2082119025082216508"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "2082684497175167170",
+    "created_at": "2026-07-30T04:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T05:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082684497175167170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2005241276778856448",
+          "start": 3,
+          "username": "yueqi1101"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wEvIKxWKJX",
+          "end": 51,
+          "expanded_url": "https://x.com/yueqi1101/status/2082119025082216508/photo/1",
+          "media_key": "3_2082119000038002688",
+          "start": 28,
+          "url": "https://t.co/wEvIKxWKJX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082684497175167170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082119025082216508",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yueqi1101: 什么世道我脱个毛也要被骂 https://t.co/wEvIKxWKJX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082119000038002688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUsMvFbUAAy92P.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082119000038002688"
+          ]
+        },
+        "author_id": "2005241276778856448",
+        "conversation_id": "2082119025082216508",
+        "created_at": "2026-07-28T15:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082119025082216508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wEvIKxWKJX",
+              "end": 36,
+              "expanded_url": "https://x.com/yueqi1101/status/2082119025082216508/photo/1",
+              "media_key": "3_2082119000038002688",
+              "start": 13,
+              "url": "https://t.co/wEvIKxWKJX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082119025082216508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 747849,
+          "like_count": 4549,
+          "quote_count": 27,
+          "reply_count": 1110,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "什么世道我脱个毛也要被骂 https://t.co/wEvIKxWKJX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082119000038002688"
+          ],
+          "media_source_tweet_id": [
+            "2082119025082216508"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "conversation_id": "2082684497175167170",
+        "created_at": "2026-07-30T04:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T05:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082684497175167170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2005241276778856448",
+              "start": 3,
+              "username": "yueqi1101"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wEvIKxWKJX",
+              "end": 51,
+              "expanded_url": "https://x.com/yueqi1101/status/2082119025082216508/photo/1",
+              "media_key": "3_2082119000038002688",
+              "start": 28,
+              "url": "https://t.co/wEvIKxWKJX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082684497175167170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082119025082216508",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yueqi1101: 什么世道我脱个毛也要被骂 https://t.co/wEvIKxWKJX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵我是下弦月丨中文/ENG/ITA/ESP丨💊🔪🩸丨创世神🌙",
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 259,
+          "like_count": 1711,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 2036
+        },
+        "url": "",
+        "username": "CY_Mystica",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-28T11:36:01.000Z",
+        "description": "不要关注我，我只是一个傻逼这软件是我用来发泄的",
+        "id": "2005241276778856448",
+        "name": "月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009646181157322752/Vzc5BygG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1296,
+          "following_count": 0,
+          "like_count": 83,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 137
+        },
+        "url": "",
+        "username": "yueqi1101",
+        "verified": false
+      }
+    ]
+  }
+}

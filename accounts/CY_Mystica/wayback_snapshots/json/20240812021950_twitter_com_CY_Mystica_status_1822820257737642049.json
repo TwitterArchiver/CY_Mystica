@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1822820257737642049",
+    "created_at": "2024-08-12T02:19:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T03:19:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822820257737642049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1777768747387998208",
+          "start": 3,
+          "username": "erinn37607"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822820257737642049",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822774483356369148",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @erinn37607: 和哥哥一起过的七夕~\n\n他大我十分钟、有人说我才是哥哥、因为我出生就比他重一点比他高一点、\n\n你们看，是不是鸡吧都比他大一点、弟弟偏1，偶尔做0，哥哥0.5喜欢开火车、\n\n腻了来这里找新鲜感、希望不要让我们失望、兄弟俩可同时约，前提是你顶得住…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1822820257737642049].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1822820257737642049",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1822820257737642049"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822773709633093632",
+            "7_1822773918803128320",
+            "7_1822773988994801664"
+          ]
+        },
+        "author_id": "1777768747387998208",
+        "conversation_id": "1822774483356369148",
+        "created_at": "2024-08-11T23:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T00:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822774483356369148"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 131,
+              "start": 123,
+              "tag": "喜欢的点个关注"
+            },
+            {
+              "end": 139,
+              "start": 134,
+              "tag": "近距离约"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h6demil1ic",
+              "end": 163,
+              "expanded_url": "https://twitter.com/erinn37607/status/1822774483356369148/video/1",
+              "media_key": "3_1822773709633093632",
+              "start": 140,
+              "url": "https://t.co/H6DEmIl1iC"
+            },
+            {
+              "display_url": "pic.x.com/h6demil1ic",
+              "end": 163,
+              "expanded_url": "https://twitter.com/erinn37607/status/1822774483356369148/video/1",
+              "media_key": "7_1822773918803128320",
+              "start": 140,
+              "url": "https://t.co/H6DEmIl1iC"
+            },
+            {
+              "display_url": "pic.x.com/h6demil1ic",
+              "end": 163,
+              "expanded_url": "https://twitter.com/erinn37607/status/1822774483356369148/video/1",
+              "media_key": "7_1822773988994801664",
+              "start": 140,
+              "url": "https://t.co/H6DEmIl1iC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822774483356369148",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 9403,
+          "like_count": 152,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "和哥哥一起过的七夕~\n\n他大我十分钟、有人说我才是哥哥、因为我出生就比他重一点比他高一点、\n\n你们看，是不是鸡吧都比他大一点、弟弟偏1，偶尔做0，哥哥0.5喜欢开火车、\n\n腻了来这里找新鲜感、希望不要让我们失望、兄弟俩可同时约，前提是你顶得住\n\n#喜欢的点个关注   #近距离约 https://t.co/H6DEmIl1iC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "04年小母狗",
+        "id": "1124658845664653314",
+        "name": "下弦月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 216,
+          "like_count": 95,
+          "listed_count": 0,
+          "tweet_count": 116
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T18:41:19.000Z",
+        "description": "双胞胎兄弟：29/182/75喜欢各种刺激运动，喜欢自驾，旅游，拍照🐔不小，性瘾大，我是大猛1，弟弟0.5，“美丽的皮囊千篇一律，有趣的灵魂万里挑一”，现实中我们也有不为人知的一面，请大家多多关注~",
+        "id": "1777768747387998208",
+        "name": "双胞胎大牛和小牛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818600918465773568/o6QZ8qDc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7257,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 11,
+          "tweet_count": 30
+        },
+        "username": "erinn37607",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "2082117349549937089",
+    "created_at": "2026-07-29T16:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T17:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082505978591715452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1798398358882603008",
+          "start": 0,
+          "username": "DarlingAyanami"
+        },
+        {
+          "end": 25,
+          "id": "1858703297403908097",
+          "start": 16,
+          "username": "Ecco2k07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082505978591715452",
+    "in_reply_to_user_id": "1798398358882603008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082259649223377336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DarlingAyanami @Ecco2k07 ？你想死吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "2082117349549937089",
+        "created_at": "2026-07-29T16:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082505978591715452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1798398358882603008",
+              "start": 0,
+              "username": "DarlingAyanami"
+            },
+            {
+              "end": 25,
+              "id": "1858703297403908097",
+              "start": 16,
+              "username": "Ecco2k07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082505978591715452",
+        "in_reply_to_user_id": "1798398358882603008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082259649223377336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DarlingAyanami @Ecco2k07 ？你想死吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798398358882603008",
+        "conversation_id": "2082117349549937089",
+        "created_at": "2026-07-29T00:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T01:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082259649223377336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1858703297403908097",
+              "start": 0,
+              "username": "Ecco2k07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082259649223377336",
+        "in_reply_to_user_id": "1858703297403908097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082117349549937089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ecco2k07 咪呜好萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵我是下弦月丨中文/ENG/ITA/ESP丨💊🔪🩸丨创世神🌙",
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 256,
+          "like_count": 1697,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 2029
+        },
+        "url": "",
+        "username": "CY_Mystica",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-05T16:56:05.000Z",
+        "description": "Toronto-Canada  友跨顺直男 亓神です",
+        "id": "1798398358882603008",
+        "location": "在你心里",
+        "name": "Rei",
+        "pinned_tweet_id": "1955118962947096669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839265620757467136/Ofmc1VZ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 5347,
+          "like_count": 1386,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 3179
+        },
+        "url": "",
+        "username": "DarlingAyanami",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T02:46:23.000Z",
+        "description": "你这人满脑子都想着自己呢",
+        "id": "1858703297403908097",
+        "name": "Ecco2k",
+        "pinned_tweet_id": "2044976479872692279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954822094031814656/CntVsfng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4855,
+          "following_count": 7,
+          "like_count": 1649,
+          "listed_count": 16,
+          "media_count": 214,
+          "tweet_count": 1571
+        },
+        "url": "",
+        "username": "Ecco2k07",
+        "verified": false
+      }
+    ]
+  }
+}

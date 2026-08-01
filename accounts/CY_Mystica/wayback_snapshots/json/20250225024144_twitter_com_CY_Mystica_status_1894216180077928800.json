@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1894216173413437440"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "1894216180077928800",
+    "created_at": "2025-02-25T02:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T03:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894216180077928800"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YaVkvF83bk",
+          "end": 36,
+          "expanded_url": "https://x.com/CY_Mystica/status/1894216180077928800/photo/1",
+          "media_key": "3_1894216173413437440",
+          "start": 13,
+          "url": "https://t.co/YaVkvF83bk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894216180077928800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每次想要集中精神做某事时 https://t.co/YaVkvF83bk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 884,
+        "media_key": "3_1894216173413437440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkmbkuAbkAAVy2Q.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894216173413437440"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "conversation_id": "1894216180077928800",
+        "created_at": "2025-02-25T02:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T03:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894216180077928800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YaVkvF83bk",
+              "end": 36,
+              "expanded_url": "https://x.com/CY_Mystica/status/1894216180077928800/photo/1",
+              "media_key": "3_1894216173413437440",
+              "start": 13,
+              "url": "https://t.co/YaVkvF83bk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894216180077928800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次想要集中精神做某事时 https://t.co/YaVkvF83bk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵可以叫我弦月/小月 | od | 自伤 | 中文/Eng/Ita🩵#shtwt #drugtwt @kagengetsu_1备用",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 34,
+                "tag": "shtwt"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1894057511042326766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889935829856038912/G_-6TXsi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 407,
+          "like_count": 889,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1046
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,530 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1966575821256356049",
+    "created_at": "2025-09-13T08:44:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T09:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966785142057562207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1917988927409143812",
+          "start": 0,
+          "username": "OverSpeed_Wiki2"
+        },
+        {
+          "end": 26,
+          "id": "522147771",
+          "start": 17,
+          "username": "DET_GOOD"
+        },
+        {
+          "end": 40,
+          "id": "1798724969695977472",
+          "start": 27,
+          "username": "overdosewiki"
+        },
+        {
+          "end": 52,
+          "id": "1962425480612851712",
+          "start": 41,
+          "username": "yaowubaike"
+        },
+        {
+          "end": 64,
+          "id": "1943704460813041665",
+          "start": 53,
+          "username": "kasaikoxyg"
+        },
+        {
+          "end": 80,
+          "id": "1804587925805596672",
+          "start": 65,
+          "username": "OverSpeed_Wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966785142057562207",
+    "in_reply_to_user_id": "1917988927409143812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966784317063143735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OverSpeed_Wiki2 @DET_GOOD @overdosewiki @yaowubaike @kasaikoxyg @OverSpeed_Wiki 不用了喔已经声明了不想跟任何再吵一句了，也不想扯上关系，血流成河也流不到我这里了，麻烦删掉吧谢谢喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1966575821256356049",
+        "created_at": "2025-09-13T08:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T09:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966785142057562207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1917988927409143812",
+              "start": 0,
+              "username": "OverSpeed_Wiki2"
+            },
+            {
+              "end": 26,
+              "id": "522147771",
+              "start": 17,
+              "username": "DET_GOOD"
+            },
+            {
+              "end": 40,
+              "id": "1798724969695977472",
+              "start": 27,
+              "username": "overdosewiki"
+            },
+            {
+              "end": 52,
+              "id": "1962425480612851712",
+              "start": 41,
+              "username": "yaowubaike"
+            },
+            {
+              "end": 64,
+              "id": "1943704460813041665",
+              "start": 53,
+              "username": "kasaikoxyg"
+            },
+            {
+              "end": 80,
+              "id": "1804587925805596672",
+              "start": 65,
+              "username": "OverSpeed_Wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966785142057562207",
+        "in_reply_to_user_id": "1917988927409143812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966784317063143735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpeed_Wiki2 @DET_GOOD @overdosewiki @yaowubaike @kasaikoxyg @OverSpeed_Wiki 不用了喔已经声明了不想跟任何再吵一句了，也不想扯上关系，血流成河也流不到我这里了，麻烦删掉吧谢谢喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917988927409143812",
+        "conversation_id": "1966575821256356049",
+        "created_at": "2025-09-13T08:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T09:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966784317063143735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1124658845664653314",
+              "start": 0,
+              "username": "CY_Mystica"
+            },
+            {
+              "end": 21,
+              "id": "522147771",
+              "start": 12,
+              "username": "DET_GOOD"
+            },
+            {
+              "end": 35,
+              "id": "1798724969695977472",
+              "start": 22,
+              "username": "overdosewiki"
+            },
+            {
+              "end": 57,
+              "id": "1962425480612851712",
+              "start": 46,
+              "username": "yaowubaike"
+            },
+            {
+              "end": 83,
+              "id": "1943704460813041665",
+              "start": 72,
+              "username": "kasaikoxyg"
+            },
+            {
+              "end": 135,
+              "id": "1804587925805596672",
+              "start": 120,
+              "username": "OverSpeed_Wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966784317063143735",
+        "in_reply_to_user_id": "1124658845664653314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966575821256356049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CY_Mystica @DET_GOOD @overdosewiki \n帮你cue了不谢\n@yaowubaike \n你看看沐雨能不能帮你什么\n@kasaikoxyg \n如果沐雨帮不了你，请联系三崎\n\n一物降一物，药圈有事就是OSwiki @OverSpeed_Wiki 有事\n等血流成河了各位记得叫我回来看戏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od | ed |自伤 | 中文/Eng/Ita/ESP🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "shtwt"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1966781907607396804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1596,
+          "following_count": 285,
+          "like_count": 1698,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 1897
+        },
+        "username": "CY_Mystica",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "此号为娱乐推，科学药物知识请关注一代目  @OverSpeed_Wiki（原账号）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "OverSpeed_Wiki"
+              }
+            ]
+          }
+        },
+        "id": "1917988927409143812",
+        "name": "OverSpeed_Wiki（2.0）",
+        "pinned_tweet_id": "1928781798773072159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917989340153880576/2tmSXWVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 177,
+          "like_count": 4466,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1294
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-12T10:46:19.000Z",
+        "description": "主号: @overdose_dxm\n交流群:https://t.co/FJhZhgg6cY\n化学极乐百科:https://t.co/pYOLeaidWM\n博客：https://t.co/KtrQvROgFR\ngalgame资源站：https://t.co/WlcdxebtRf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "overdose_dxm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/nVUqUkwW",
+                "end": 45,
+                "expanded_url": "https://discord.gg/nVUqUkwW",
+                "start": 22,
+                "url": "https://t.co/FJhZhgg6cY"
+              },
+              {
+                "display_url": "overdose.day",
+                "end": 76,
+                "expanded_url": "https://www.overdose.day",
+                "start": 53,
+                "url": "https://t.co/pYOLeaidWM"
+              },
+              {
+                "display_url": "blog.pr80.bid",
+                "end": 103,
+                "expanded_url": "https://blog.pr80.bid",
+                "start": 80,
+                "url": "https://t.co/KtrQvROgFR"
+              },
+              {
+                "display_url": "pr80.bid",
+                "end": 138,
+                "expanded_url": "https://www.pr80.bid/",
+                "start": 115,
+                "url": "https://t.co/WlcdxebtRf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/c6WOvYAeM8"
+              }
+            ]
+          }
+        },
+        "id": "522147771",
+        "location": "天国",
+        "name": "N,N-二乙基色胺🔯",
+        "pinned_tweet_id": "1962440355783307598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951933777049165825/lU5YAFYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 1280,
+          "like_count": 489,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 750
+        },
+        "url": "https://t.co/c6WOvYAeM8",
+        "username": "DET_GOOD",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T14:33:54.000Z",
+        "description": "https://t.co/6fVCD4QQ92 官方站点\nhttps://t.co/AMQ3wZ2ZaM 官方tg群\n有关问题可以联系我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4QQ92"
+              },
+              {
+                "display_url": "t.me/o_d_wiki",
+                "end": 52,
+                "expanded_url": "https://t.me/o_d_wiki",
+                "start": 29,
+                "url": "https://t.co/AMQ3wZ2ZaM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4QQ92"
+              }
+            ]
+          }
+        },
+        "id": "1798724969695977472",
+        "location": "但愿世间人无病 何妨架上药生尘",
+        "name": "Overdosewiki_offiziell",
+        "pinned_tweet_id": "1962876603295485963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965374943165816832/HYecxADQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3630,
+          "following_count": 12,
+          "like_count": 379,
+          "listed_count": 4,
+          "media_count": 82,
+          "tweet_count": 501
+        },
+        "url": "https://t.co/6fVCD4QQ92",
+        "username": "overdosewiki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 由药物百科多位编辑共同运营 我们会是最好的药物wiki 有报告欢迎私信投稿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1965996323834048562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 23,
+          "like_count": 40,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 25
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T16:10:40.000Z",
+        "description": "新人药娘hrt三个月，偶尔od，请多关照，没有脑子想到什么说什么",
+        "id": "1943704460813041665",
+        "name": "浅羽笠井子",
+        "pinned_tweet_id": "1948640428825231453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943704888426582016/8p8MdfCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1660,
+          "following_count": 527,
+          "like_count": 10572,
+          "listed_count": 3,
+          "media_count": 91,
+          "tweet_count": 3212
+        },
+        "username": "kasaikoxyg",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T18:51:15.000Z",
+        "description": "本号为Oswiki编辑组人员多人共同使用",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 23,
+                "expanded_url": "https://overspeed.wiki/",
+                "start": 0,
+                "url": "https://t.co/YS4b5CWFxU"
+              }
+            ]
+          }
+        },
+        "id": "1804587925805596672",
+        "location": "Transhumanism Paradise",
+        "name": "OverSpeed Wiki",
+        "pinned_tweet_id": "1921226097288458568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849769703323115520/zFJO4jWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3979,
+          "following_count": 570,
+          "like_count": 13718,
+          "listed_count": 8,
+          "media_count": 254,
+          "tweet_count": 3200
+        },
+        "url": "https://t.co/YS4b5CWFxU",
+        "username": "OverSpeed_Wiki",
+        "verified": false
+      }
+    ]
+  }
+}

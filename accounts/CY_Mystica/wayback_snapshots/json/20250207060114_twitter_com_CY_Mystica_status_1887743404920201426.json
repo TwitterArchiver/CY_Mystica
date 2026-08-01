@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887561243743166466"
+      ],
+      "media_source_tweet_id": [
+        "1887561248113651942"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "1887743404920201426",
+    "created_at": "2025-02-07T06:01:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T07:01:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887743404920201426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1660638443192369152",
+          "start": 3,
+          "username": "euphoriaUx_qU"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xtz97tgyx3",
+          "end": 44,
+          "expanded_url": "https://x.com/euphoriaUx_qU/status/1887561248113651942/photo/1",
+          "media_key": "3_1887561243743166466",
+          "start": 21,
+          "url": "https://t.co/Xtz97tgyx3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887743404920201426",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 545
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887561248113651942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @euphoriaUx_qU: 🐶 https://t.co/Xtz97tgyx3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1887561243743166466",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjH281EbIAIV7Wb.jpg",
+        "width": 1488
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887561243743166466"
+          ],
+          "media_source_tweet_id": [
+            "1887561248113651942"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "conversation_id": "1887743404920201426",
+        "created_at": "2025-02-07T06:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T07:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887743404920201426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1660638443192369152",
+              "start": 3,
+              "username": "euphoriaUx_qU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xtz97tgyx3",
+              "end": 44,
+              "expanded_url": "https://x.com/euphoriaUx_qU/status/1887561248113651942/photo/1",
+              "media_key": "3_1887561243743166466",
+              "start": 21,
+              "url": "https://t.co/Xtz97tgyx3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887743404920201426",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 545
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887561248113651942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @euphoriaUx_qU: 🐶 https://t.co/Xtz97tgyx3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887561243743166466"
+          ]
+        },
+        "author_id": "1660638443192369152",
+        "conversation_id": "1887561248113651942",
+        "created_at": "2025-02-06T17:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T18:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887561248113651942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xtz97tgyx3",
+              "end": 25,
+              "expanded_url": "https://x.com/euphoriaUx_qU/status/1887561248113651942/photo/1",
+              "media_key": "3_1887561243743166466",
+              "start": 2,
+              "url": "https://t.co/Xtz97tgyx3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887561248113651942",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 597,
+          "impression_count": 31873,
+          "like_count": 4601,
+          "quote_count": 14,
+          "reply_count": 3,
+          "retweet_count": 545
+        },
+        "reply_settings": "everyone",
+        "text": "🐶 https://t.co/Xtz97tgyx3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵可以叫我弦月/小月 | od | 自伤 | 我想和你交朋友我们互fo吧 | 中文/Eng/ITA🩵#shtwt #drugtwt @kagengetsu_1备用",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 50,
+                "tag": "shtwt"
+              },
+              {
+                "end": 65,
+                "start": 57,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 79,
+                "start": 66,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870479498816471040/3RK8JhWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 379,
+          "like_count": 677,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 860
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T13:28:17.000Z",
+        "description": "あなたの描く絵が好きです🐛💘icon♡@ ronetsu♡ スロダメ大好きです💝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/euphoriaux_qu/…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/euphoriaux_qu/profilecard/?igsh=eHBxbHZvMzlkdHlw",
+                "start": 0,
+                "url": "https://t.co/upwQwVj6hi"
+              }
+            ]
+          }
+        },
+        "id": "1660638443192369152",
+        "location": "Love♡タクトワ",
+        "name": "にゃんぽ🍓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876222968327778305/3MBnjYCH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 59,
+          "like_count": 3656,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 258
+        },
+        "url": "https://t.co/upwQwVj6hi",
+        "username": "euphoriaUx_qU",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1879289918016692320",
+    "created_at": "2025-01-15T13:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-15T14:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879522688416584120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750329917252976640",
+          "start": 0,
+          "username": "yueyue8964"
+        },
+        {
+          "end": 25,
+          "id": "1807349006508691456",
+          "start": 12,
+          "username": "Yangzixingfu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879522688416584120",
+    "in_reply_to_user_id": "1750329917252976640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879295832190804047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yueyue8964 @Yangzixingfu 不是清空了，是一直设置的三天可见"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1879289918016692320",
+        "created_at": "2025-01-15T13:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T14:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879522688416584120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750329917252976640",
+              "start": 0,
+              "username": "yueyue8964"
+            },
+            {
+              "end": 25,
+              "id": "1807349006508691456",
+              "start": 12,
+              "username": "Yangzixingfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879522688416584120",
+        "in_reply_to_user_id": "1750329917252976640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879295832190804047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueyue8964 @Yangzixingfu 不是清空了，是一直设置的三天可见"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750329917252976640",
+        "conversation_id": "1879289918016692320",
+        "created_at": "2025-01-14T22:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T23:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879295832190804047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1807349006508691456",
+              "start": 0,
+              "username": "Yangzixingfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879295832190804047",
+        "in_reply_to_user_id": "1807349006508691456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879289918016692320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yangzixingfu 有人说小鸟朋友圈清空了也可能没死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵04 | entp |od | 自伤 | 精神病 | 友跨顺女 |互fo| 消费主义 | 中文/Eng/ITA🩵@kagengetsu_1备用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 57,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "下弦月🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870479498816471040/3RK8JhWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 375,
+          "like_count": 625,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 757
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T01:29:16.000Z",
+        "description": "我的世界是阴湿的雨天🌧️(υ . . υ)",
+        "id": "1750329917252976640",
+        "location": "无声的寂静海",
+        "name": "小榆",
+        "pinned_tweet_id": "1865899514122666310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807218968463327232/_cUbucHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7841,
+          "following_count": 422,
+          "like_count": 8538,
+          "listed_count": 14,
+          "media_count": 151,
+          "tweet_count": 7187
+        },
+        "username": "yueyue8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T09:42:46.000Z",
+        "description": "小小怏@yangzihuozhe小号和媒体有验证",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "yangzihuozhe"
+              }
+            ]
+          }
+        },
+        "id": "1807349006508691456",
+        "location": "🚪128/288/520/1314…",
+        "name": "怏子",
+        "pinned_tweet_id": "1857081521510748565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819795586591412224/ydzNoxI__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4702,
+          "following_count": 183,
+          "like_count": 2306,
+          "listed_count": 6,
+          "media_count": 182,
+          "tweet_count": 831
+        },
+        "username": "Yangzixingfu",
+        "verified": false
+      }
+    ]
+  }
+}

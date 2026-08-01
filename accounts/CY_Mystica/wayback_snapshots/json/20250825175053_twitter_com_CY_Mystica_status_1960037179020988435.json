@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1960037179020988435",
+    "created_at": "2025-08-25T17:50:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T18:50:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960037179020988435"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1960037179020988435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又在研究即将胜出的完美🍄平替致幻剂，看起来太诱人了，把我这个讨厌致幻剂的家伙看馋了🤤果然好东西就是好东西吗跟垃圾化工原料不是一个量级🤤好饿🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1960037179020988435",
+        "created_at": "2025-08-25T17:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T18:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960037179020988435"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960037179020988435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又在研究即将胜出的完美🍄平替致幻剂，看起来太诱人了，把我这个讨厌致幻剂的家伙看馋了🤤果然好东西就是好东西吗跟垃圾化工原料不是一个量级🤤好饿🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od |ed |自伤 | 中文/Eng/Ita/ESP🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 42,
+                "tag": "shtwt"
+              },
+              {
+                "end": 57,
+                "start": 49,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1959692453222780986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 273,
+          "like_count": 1410,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1670
+        },
+        "username": "CY_Mystica",
+        "verified": true
+      }
+    ]
+  }
+}

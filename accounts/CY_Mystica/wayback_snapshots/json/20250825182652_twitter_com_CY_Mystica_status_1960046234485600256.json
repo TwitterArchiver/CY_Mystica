@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1960037179020988435",
+    "created_at": "2025-08-25T18:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T19:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960046234485600256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1839719957464264705",
+          "start": 0,
+          "username": "he_nan76934"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960046234485600256",
+    "in_reply_to_user_id": "1839719957464264705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960042166010683718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@he_nan76934 甲氧氯普胺/昂丹司琼止吐很重要啊！愈美右美的呕吐感会让你比赤石还难受的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1960037179020988435",
+        "created_at": "2025-08-25T18:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T19:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960046234485600256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1839719957464264705",
+              "start": 0,
+              "username": "he_nan76934"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960046234485600256",
+        "in_reply_to_user_id": "1839719957464264705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960042166010683718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@he_nan76934 甲氧氯普胺/昂丹司琼止吐很重要啊！愈美右美的呕吐感会让你比赤石还难受的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839719957464264705",
+        "conversation_id": "1960037179020988435",
+        "created_at": "2025-08-25T18:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T19:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960042166010683718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1124658845664653314",
+              "start": 0,
+              "username": "CY_Mystica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960042166010683718",
+        "in_reply_to_user_id": "1124658845664653314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960037179020988435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CY_Mystica 请问新手第一次嗑药推荐什么药，可以吃多少，最好不要吐的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od |ed |自伤 | 中文/Eng/Ita/ESP🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 42,
+                "tag": "shtwt"
+              },
+              {
+                "end": 57,
+                "start": 49,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1959692453222780986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 273,
+          "like_count": 1413,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1673
+        },
+        "username": "CY_Mystica",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-27T17:33:23.000Z",
+        "description": "11双鱼",
+        "id": "1839719957464264705",
+        "location": "能和我聊天吗好无聊",
+        "name": "28",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912267616065892352/_Y7BNzo4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 13,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 77
+        },
+        "username": "he_nan76934",
+        "verified": false
+      }
+    ]
+  }
+}

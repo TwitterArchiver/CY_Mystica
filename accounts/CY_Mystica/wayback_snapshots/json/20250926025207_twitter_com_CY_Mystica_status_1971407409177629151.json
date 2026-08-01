@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1971397135989145911",
+    "created_at": "2025-09-26T02:52:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T03:52:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971407409177629151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1538709117597937664",
+          "start": 0,
+          "username": "hunbaobis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971407409177629151",
+    "in_reply_to_user_id": "1538709117597937664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971401079935074566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hunbaobis 医院……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1971397135989145911",
+        "created_at": "2025-09-26T02:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T03:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971407409177629151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1538709117597937664",
+              "start": 0,
+              "username": "hunbaobis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971407409177629151",
+        "in_reply_to_user_id": "1538709117597937664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971401079935074566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hunbaobis 医院……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1538709117597937664",
+        "conversation_id": "1971397135989145911",
+        "created_at": "2025-09-26T02:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T03:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971401079935074566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1124658845664653314",
+              "start": 0,
+              "username": "CY_Mystica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971401079935074566",
+        "in_reply_to_user_id": "1124658845664653314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971397135989145911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CY_Mystica 喵的天 主播在哪里购入  我也想吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | ed |自伤 | 中文/Eng/Ita/ESP🩵",
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1970878161954177217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 284,
+          "like_count": 1769,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 1994
+        },
+        "username": "CY_Mystica",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-20T02:23:43.000Z",
+        "description": "",
+        "id": "1538709117597937664",
+        "location": "眼睛里",
+        "name": "Zacharyliou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684232711580553216/5hor4QEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 207,
+          "like_count": 1222,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 112
+        },
+        "username": "hunbaobis",
+        "verified": false
+      }
+    ]
+  }
+}

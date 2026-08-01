@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1841937563218542592"
+      ],
+      "media_source_tweet_id": [
+        "1841937570139197459"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "1842045878586245367",
+    "created_at": "2024-10-04T03:35:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-04T04:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842045878586245367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "778390999215267840",
+          "start": 3,
+          "username": "OddOblivion"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7lBzRxOYCD",
+          "end": 84,
+          "expanded_url": "https://x.com/OddOblivion/status/1841937570139197459/photo/1",
+          "media_key": "3_1841937563218542592",
+          "start": 61,
+          "url": "https://t.co/7lBzRxOYCD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842045878586245367",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1724
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841937570139197459",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OddOblivion: Cute commission. Acrylic on 16”x20” canvas. https://t.co/7lBzRxOYCD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1841937563218542592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GY_gdGoXAAAnoLN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841937563218542592"
+          ],
+          "media_source_tweet_id": [
+            "1841937570139197459"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1842045878586245367",
+        "created_at": "2024-10-04T03:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T04:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842045878586245367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "778390999215267840",
+              "start": 3,
+              "username": "OddOblivion"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7lBzRxOYCD",
+              "end": 84,
+              "expanded_url": "https://x.com/OddOblivion/status/1841937570139197459/photo/1",
+              "media_key": "3_1841937563218542592",
+              "start": 61,
+              "url": "https://t.co/7lBzRxOYCD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842045878586245367",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1724
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841937570139197459",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OddOblivion: Cute commission. Acrylic on 16”x20” canvas. https://t.co/7lBzRxOYCD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841937563218542592"
+          ]
+        },
+        "author_id": "778390999215267840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1841937570139197459",
+        "created_at": "2024-10-03T20:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T21:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841937570139197459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7lBzRxOYCD",
+              "end": 67,
+              "expanded_url": "https://x.com/OddOblivion/status/1841937570139197459/photo/1",
+              "media_key": "3_1841937563218542592",
+              "start": 44,
+              "url": "https://t.co/7lBzRxOYCD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841937570139197459",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 810,
+          "impression_count": 98199,
+          "like_count": 12454,
+          "quote_count": 20,
+          "reply_count": 54,
+          "retweet_count": 1724
+        },
+        "reply_settings": "everyone",
+        "text": "Cute commission. Acrylic on 16”x20” canvas. https://t.co/7lBzRxOYCD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵04 | entp | od | 自伤 | 精神病 | 友跨顺女 |互fo| 消费主义 | 中文/Eng/ITA🩵",
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "下弦月🌙",
+        "pinned_tweet_id": "1841420493829840967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841172907072110593/alcfl7zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 341,
+          "like_count": 358,
+          "listed_count": 0,
+          "tweet_count": 386
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-21T00:30:50.000Z",
+        "description": "29|He/Him|🏳️‍⚧️| Spooky doodler | Future corpse | Married irl to @sirfopdoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "sirfopdoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/0ddoblivion",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/0ddoblivion",
+                "start": 0,
+                "url": "https://t.co/PEJS7idpIp"
+              }
+            ]
+          }
+        },
+        "id": "778390999215267840",
+        "name": "🪱Enoch🪱",
+        "pinned_tweet_id": "1646015805648191489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1688344121012838400/nq2DW2T-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141066,
+          "following_count": 1336,
+          "like_count": 79838,
+          "listed_count": 739,
+          "tweet_count": 23137
+        },
+        "url": "https://t.co/PEJS7idpIp",
+        "username": "OddOblivion",
+        "verified": false
+      }
+    ]
+  }
+}

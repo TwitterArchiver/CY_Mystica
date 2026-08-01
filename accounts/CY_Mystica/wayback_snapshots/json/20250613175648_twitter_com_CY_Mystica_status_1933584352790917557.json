@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933584344775606272"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1933584352790917557",
+    "created_at": "2025-06-13T17:56:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T18:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933584352790917557"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IjmhpAIQjF",
+          "end": 39,
+          "expanded_url": "https://x.com/CY_Mystica/status/1933584352790917557/photo/1",
+          "media_key": "3_1933584344775606272",
+          "start": 16,
+          "url": "https://t.co/IjmhpAIQjF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933584352790917557",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真的好喜欢这四个 好干净好漂亮 https://t.co/IjmhpAIQjF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1933584352790917557].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1933584352790917557",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1933584352790917557"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 555,
+        "media_key": "3_1933584344775606272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtV4t42bQAAc0oL.jpg",
+        "width": 813
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od | 自伤 | 中文/Eng/Ita🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 35,
+                "tag": "shtwt"
+              },
+              {
+                "end": 50,
+                "start": 42,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1909306355841957952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 230,
+          "like_count": 1131,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1350
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      }
+    ]
+  }
+}

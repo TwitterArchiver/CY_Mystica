@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1839319928618496159",
+    "created_at": "2024-09-27T11:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-27T12:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839632760316555292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1593905954575171584",
+          "start": 0,
+          "username": "198964dsfws"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839632760316555292",
+    "in_reply_to_user_id": "1593905954575171584",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839319928618496159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@198964dsfws 刷到了，令人作呕的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1839319928618496159",
+        "created_at": "2024-09-27T11:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T12:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839632760316555292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1593905954575171584",
+              "start": 0,
+              "username": "198964dsfws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839632760316555292",
+        "in_reply_to_user_id": "1593905954575171584",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839319928618496159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@198964dsfws 刷到了，令人作呕的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839319924633907208"
+          ]
+        },
+        "author_id": "1593905954575171584",
+        "conversation_id": "1839319928618496159",
+        "created_at": "2024-09-26T15:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T16:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839319928618496159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bfgjbzapej",
+              "end": 34,
+              "expanded_url": "https://twitter.com/198964dsfws/status/1839319928618496159/photo/1",
+              "media_key": "3_1839319924633907208",
+              "start": 11,
+              "url": "https://t.co/bfGjbzaPEj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839319928618496159",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 31817,
+          "like_count": 221,
+          "quote_count": 6,
+          "reply_count": 58,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你闷知道od是什么吗 https://t.co/bfGjbzaPEj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵04 | entp | od | 自伤 | 精神病 | 友跨顺女 |互fo| 消费主义 | 中文/Eng/ITA🩵",
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "下弦月",
+        "pinned_tweet_id": "1838939455534903709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 341,
+          "like_count": 303,
+          "listed_count": 0,
+          "tweet_count": 340
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T09:56:15.000Z",
+        "description": "一个低俗的人，一个混沌的人，一个无道德的人，一个绑定了低级趣味的人，一个有害于人民的人。\n里账号 @dengxiaopi86090",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "dengxiaopi86090"
+              }
+            ]
+          }
+        },
+        "id": "1593905954575171584",
+        "location": "马斯克妈妈的坟墓前",
+        "name": "抽象艺术鉴赏家稻上飞归来（奶龙认妈bot特典2.0）",
+        "pinned_tweet_id": "1810349968504557806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826362514889981952/Pjmeqqa__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4759,
+          "following_count": 1926,
+          "like_count": 43092,
+          "listed_count": 17,
+          "tweet_count": 18211
+        },
+        "username": "198964dsfws",
+        "verified": false
+      }
+    ]
+  }
+}

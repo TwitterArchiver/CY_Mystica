@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1918294540320174343",
+    "created_at": "2025-05-03T01:26:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T02:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918477193971188172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1728798875593654272",
+          "start": 0,
+          "username": "whydoyouwantlsd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918477193971188172",
+    "in_reply_to_user_id": "1728798875593654272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918294540320174343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whydoyouwantlsd 😭前几天磕大了在学校割巨大一个差点被强制休学了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1918294540320174343",
+        "created_at": "2025-05-03T01:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T02:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918477193971188172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1728798875593654272",
+              "start": 0,
+              "username": "whydoyouwantlsd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918477193971188172",
+        "in_reply_to_user_id": "1728798875593654272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918294540320174343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whydoyouwantlsd 😭前几天磕大了在学校割巨大一个差点被强制休学了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728798875593654272",
+        "conversation_id": "1918294540320174343",
+        "created_at": "2025-05-02T13:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T14:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918294540320174343"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918294540320174343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我前几天吃1tsns+2t阿普不仅把愈美片吃的只剩六片还大割特割，并且我还给自己找了个情绪崩溃的理由把割手的图发给几个朋友了，甚至我还把父母给吵醒了据我妈所说当时割手我爸拦都拦不住，我妈也一直在努力想压制我阻止我吃药但也以失败告终，我现在都不敢仔细回想太可怕了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵可以叫我弦月/小月 | od | 自伤 | 中文/Eng/Ita🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 34,
+                "tag": "shtwt"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1909306355841957952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909306831178194944/cenS1HtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 234,
+          "like_count": 1103,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 1284
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-26T15:32:33.000Z",
+        "description": "天空形成的最初形状是纽扣。enby，FTX，碎碎念博主，诗歌，文学，精神医学，ASD。",
+        "id": "1728798875593654272",
+        "name": "纽扣已死(药代版)",
+        "pinned_tweet_id": "1883210749490892983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918322343925190656/yNQg5Qx3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 230,
+          "like_count": 1332,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 492
+        },
+        "username": "whydoyouwantlsd",
+        "verified": false
+      }
+    ]
+  }
+}

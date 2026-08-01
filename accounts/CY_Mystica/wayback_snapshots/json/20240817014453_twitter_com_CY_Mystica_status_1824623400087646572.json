@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1824623400087646572",
+    "created_at": "2024-08-17T01:44:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-17T02:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824623400087646572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1586537226564796416",
+          "start": 3,
+          "username": "jiangjiangovo11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824623400087646572",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 109
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824483820239982604",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiangjiangovo11: 虽然很多人在等一爱男喘推荐，但其实我已经挺久没听男喘了\n俺的xp：粗口、ntr\n这条推文下面会放我喜欢的音频链接\n（不直接艾特的原因是，有些男喘可能我只觉得他某个音频爽）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1824623400087646572",
+        "created_at": "2024-08-17T01:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T02:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824623400087646572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1586537226564796416",
+              "start": 3,
+              "username": "jiangjiangovo11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824623400087646572",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 109
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824483820239982604",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiangjiangovo11: 虽然很多人在等一爱男喘推荐，但其实我已经挺久没听男喘了\n俺的xp：粗口、ntr\n这条推文下面会放我喜欢的音频链接\n（不直接艾特的原因是，有些男喘可能我只觉得他某个音频爽）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586537226564796416",
+        "conversation_id": "1824483820239982604",
+        "created_at": "2024-08-16T16:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T17:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824483820239982604"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1824483820239982604",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 640,
+          "impression_count": 115865,
+          "like_count": 1356,
+          "quote_count": 4,
+          "reply_count": 38,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "虽然很多人在等一爱男喘推荐，但其实我已经挺久没听男喘了\n俺的xp：粗口、ntr\n这条推文下面会放我喜欢的音频链接\n（不直接艾特的原因是，有些男喘可能我只觉得他某个音频爽）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "04年小母狗",
+        "id": "1124658845664653314",
+        "name": "下弦月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 227,
+          "like_count": 97,
+          "listed_count": 0,
+          "tweet_count": 129
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T01:55:31.000Z",
+        "description": "嘴巴一张就是喷，爽就完事了 。\n听营业的自己去  @yaoyaoxingguang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 25,
+                "username": "yaoyaoxingguang"
+              }
+            ]
+          }
+        },
+        "id": "1586537226564796416",
+        "name": "浆浆浆绛",
+        "pinned_tweet_id": "1745805348613787795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765721545328967680/gc7hXGyk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8049,
+          "following_count": 99,
+          "like_count": 9075,
+          "listed_count": 22,
+          "tweet_count": 7502
+        },
+        "username": "jiangjiangovo11",
+        "verified": false
+      }
+    ]
+  }
+}

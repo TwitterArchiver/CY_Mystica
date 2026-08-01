@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957038593639088128"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "1957038608474386938",
+    "created_at": "2025-08-17T11:15:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T12:15:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957038608474386938"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mwx0ql37M3",
+          "end": 40,
+          "expanded_url": "https://x.com/CY_Mystica/status/1957038608474386938/photo/1",
+          "media_key": "3_1957038593639088128",
+          "start": 17,
+          "url": "https://t.co/mwx0ql37M3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957038608474386938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给自己画了个自画像 对我就长这样 https://t.co/mwx0ql37M3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1957038593639088128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyjMO2mWgAAz58f.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957038593639088128"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "conversation_id": "1957038608474386938",
+        "created_at": "2025-08-17T11:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T12:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957038608474386938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mwx0ql37M3",
+              "end": 40,
+              "expanded_url": "https://x.com/CY_Mystica/status/1957038608474386938/photo/1",
+              "media_key": "3_1957038593639088128",
+              "start": 17,
+              "url": "https://t.co/mwx0ql37M3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957038608474386938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给自己画了个自画像 对我就长这样 https://t.co/mwx0ql37M3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od |ed |自伤 | 中文/Eng/Ita/ESP🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 42,
+                "tag": "shtwt"
+              },
+              {
+                "end": 57,
+                "start": 49,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1954639888181252378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 259,
+          "like_count": 1277,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1550
+        },
+        "username": "CY_Mystica",
+        "verified": true
+      }
+    ]
+  }
+}

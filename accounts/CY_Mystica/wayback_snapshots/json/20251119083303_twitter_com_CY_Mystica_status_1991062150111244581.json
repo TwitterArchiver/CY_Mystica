@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1991062150111244581",
+    "created_at": "2025-11-19T08:33:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T09:33:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991062150111244581"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/overdosewiki/s…",
+          "end": 115,
+          "expanded_url": "https://twitter.com/overdosewiki/status/1991060178847121695",
+          "start": 92,
+          "url": "https://t.co/6WimntxUBz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991062150111244581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991060178847121695",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你理性你妈，就你这种傻逼会急着自证，沐雨那傻逼因为个破号被封了就自杀我好心给他开个新号让他醒了能开心点，去医院看看你的疑心病偏执症吧，亏那蠢货还拿你当朋友，也就他一个傻子愿意哄着你了 https://t.co/6WimntxUBz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_1991060175919460353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6GqrlAbMAEPf5k.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1991062150111244581",
+        "created_at": "2025-11-19T08:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T09:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991062150111244581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overdosewiki/s…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/overdosewiki/status/1991060178847121695",
+              "start": 92,
+              "url": "https://t.co/6WimntxUBz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991062150111244581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991060178847121695",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你理性你妈，就你这种傻逼会急着自证，沐雨那傻逼因为个破号被封了就自杀我好心给他开个新号让他醒了能开心点，去医院看看你的疑心病偏执症吧，亏那蠢货还拿你当朋友，也就他一个傻子愿意哄着你了 https://t.co/6WimntxUBz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991060175919460353"
+          ]
+        },
+        "author_id": "1798724969695977472",
+        "conversation_id": "1991056690066940121",
+        "created_at": "2025-11-19T08:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T09:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991060178847121695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lGJ4ziFpNw",
+              "end": 124,
+              "expanded_url": "https://x.com/overdosewiki/status/1991060178847121695/photo/1",
+              "media_key": "3_1991060175919460353",
+              "start": 101,
+              "url": "https://t.co/lGJ4ziFpNw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991060178847121695",
+        "in_reply_to_user_id": "1798724969695977472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991056690066940121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "按照我考证的消息来看，我后藤个人认为沐雨前几天是真自杀去了，然后现代医学救回来了，所以可能不存在假死。但只是我个人推测，至于盖棺定论，得看沐雨日后继续活动前能不能拿账单证明。\n\n我还是太理性了，对吗？ https://t.co/lGJ4ziFpNw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | ed |自伤 | 中文/Eng/Ita/ESP🩵熟人移步里账：@kagengetsu_1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1980529286131118485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 278,
+          "like_count": 1738,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 1997
+        },
+        "username": "CY_Mystica",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-06T14:33:54.000Z",
+        "description": "网站已经被鸡哥的DDoS Bomber炸成筛子了，没有制空权飞不起来。\nhttps://t.co/1UhiZIyBbg —— odwiki直属群。\nhttps://t.co/0rL89Pc8mI —— 后藤直属频道 高原整活观景台。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/o_d_wiki",
+                "end": 59,
+                "expanded_url": "http://t.me/o_d_wiki",
+                "start": 36,
+                "url": "https://t.co/1UhiZIyBbg"
+              },
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 97,
+                "expanded_url": "http://t.me/HWA_FK1",
+                "start": 74,
+                "url": "https://t.co/0rL89Pc8mI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4Qiju"
+              }
+            ]
+          }
+        },
+        "id": "1798724969695977472",
+        "location": "但愿世间人无病 何妨架上药生尘",
+        "name": "Overdosewiki-后藤版",
+        "pinned_tweet_id": "1970498537562742884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988123432157114368/v5c6Wjqz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3894,
+          "following_count": 11,
+          "like_count": 442,
+          "listed_count": 6,
+          "media_count": 132,
+          "tweet_count": 699
+        },
+        "url": "https://t.co/6fVCD4Qiju",
+        "username": "overdosewiki",
+        "verified": false
+      }
+    ]
+  }
+}

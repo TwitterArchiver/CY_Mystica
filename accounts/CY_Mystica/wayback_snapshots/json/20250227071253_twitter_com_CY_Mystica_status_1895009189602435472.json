@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895009182547615748"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "1895009189602435472",
+    "created_at": "2025-02-27T07:12:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T08:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895009189602435472"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/adLaHWnlie",
+          "end": 69,
+          "expanded_url": "https://x.com/CY_Mystica/status/1895009189602435472/photo/1",
+          "media_key": "3_1895009182547615748",
+          "start": 46,
+          "url": "https://t.co/adLaHWnlie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895009189602435472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "穿刺 疼痛 固定 束缚 血腥 金属 异物 金钱交易 人体艺术 装饰 隐忍 器具 针头 拍摄 https://t.co/adLaHWnlie"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1470,
+        "media_key": "3_1895009182547615748",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkxsz7PaoAQB8w5.jpg",
+        "width": 1470
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895009182547615748"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "conversation_id": "1895009189602435472",
+        "created_at": "2025-02-27T07:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T08:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895009189602435472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/adLaHWnlie",
+              "end": 69,
+              "expanded_url": "https://x.com/CY_Mystica/status/1895009189602435472/photo/1",
+              "media_key": "3_1895009182547615748",
+              "start": 46,
+              "url": "https://t.co/adLaHWnlie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895009189602435472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "穿刺 疼痛 固定 束缚 血腥 金属 异物 金钱交易 人体艺术 装饰 隐忍 器具 针头 拍摄 https://t.co/adLaHWnlie"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵可以叫我弦月/小月 | od | 自伤 | 中文/Eng/Ita🩵#shtwt #drugtwt @kagengetsu_1备用",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 34,
+                "tag": "shtwt"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1894233038655295624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889935829856038912/G_-6TXsi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 407,
+          "like_count": 938,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1059
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      }
+    ]
+  }
+}

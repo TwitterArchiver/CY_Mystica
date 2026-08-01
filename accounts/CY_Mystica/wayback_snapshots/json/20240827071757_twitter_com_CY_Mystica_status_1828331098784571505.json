@@ -1,0 +1,85 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1828331098784571505",
+    "created_at": "2024-08-27T07:17:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-27T08:17:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1828331098784571505"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1828331098784571505",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "买点药这么费劲。。。再熬几年赶紧润了妈的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1828331098784571505",
+        "created_at": "2024-08-27T07:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T08:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828331098784571505"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1828331098784571505",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买点药这么费劲。。。再熬几年赶紧润了妈的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "纯疯 | 纯变态 | 纯好色 |",
+        "id": "1124658845664653314",
+        "name": "下弦月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 260,
+          "like_count": 99,
+          "listed_count": 0,
+          "tweet_count": 143
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      }
+    ]
+  }
+}

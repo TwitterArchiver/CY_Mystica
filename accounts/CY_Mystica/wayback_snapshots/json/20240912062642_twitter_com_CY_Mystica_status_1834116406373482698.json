@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1834116398093926402",
+        "3_1834116398089732097"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "1834116406373482698",
+    "created_at": "2024-09-12T06:26:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T07:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1834116406373482698"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/umpmzndinf",
+          "end": 148,
+          "expanded_url": "https://twitter.com/CY_Mystica/status/1834116406373482698/photo/1",
+          "media_key": "3_1834116398093926402",
+          "start": 125,
+          "url": "https://t.co/UmPMZNdinf"
+        },
+        {
+          "display_url": "pic.x.com/umpmzndinf",
+          "end": 148,
+          "expanded_url": "https://twitter.com/CY_Mystica/status/1834116406373482698/photo/1",
+          "media_key": "3_1834116398089732097",
+          "start": 125,
+          "url": "https://t.co/UmPMZNdinf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834116406373482698",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爽爽爽终于开到了断货很久的哌哌，很有必要分享一下关于o哌…\n需要强调的是专注达要剥掉外壳切除缓释剂。这东西的作用机制，效果和副作用很类似cocaine，很伤鼻粘膜，过敏性鼻炎超级加倍。od后戒断反应严重，剂量太大会暴毙。具体剂量效果文献还有待整理。 https://t.co/UmPMZNdinf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1834116398093926402",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXQXJYEbgAIWQ8S.jpg",
+        "width": 442
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1834116398089732097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXQXJYDbgAE15jT.jpg",
+        "width": 528
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834116398093926402",
+            "3_1834116398089732097"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "conversation_id": "1834116406373482698",
+        "created_at": "2024-09-12T06:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T07:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834116406373482698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/umpmzndinf",
+              "end": 148,
+              "expanded_url": "https://twitter.com/CY_Mystica/status/1834116406373482698/photo/1",
+              "media_key": "3_1834116398093926402",
+              "start": 125,
+              "url": "https://t.co/UmPMZNdinf"
+            },
+            {
+              "display_url": "pic.x.com/umpmzndinf",
+              "end": 148,
+              "expanded_url": "https://twitter.com/CY_Mystica/status/1834116406373482698/photo/1",
+              "media_key": "3_1834116398089732097",
+              "start": 125,
+              "url": "https://t.co/UmPMZNdinf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834116406373482698",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爽爽爽终于开到了断货很久的哌哌，很有必要分享一下关于o哌…\n需要强调的是专注达要剥掉外壳切除缓释剂。这东西的作用机制，效果和副作用很类似cocaine，很伤鼻粘膜，过敏性鼻炎超级加倍。od后戒断反应严重，剂量太大会暴毙。具体剂量效果文献还有待整理。 https://t.co/UmPMZNdinf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "04 | entp | od | 自伤 | 精神病 | 友跨顺女 | 热衷于互fo和交朋友 | 消费主义 | 无🚪纯绿 中文/Eng",
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "下弦月",
+        "pinned_tweet_id": "1831302581404008939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 335,
+          "like_count": 192,
+          "listed_count": 0,
+          "tweet_count": 219
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027048428",
+          "name": "Delsym"
+        }
+      }
+    ],
+    "conversation_id": "1943173481123975663",
+    "created_at": "2025-07-11T04:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T05:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943521413211787633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894359849812856834",
+          "start": 0,
+          "username": "x_overdose_day"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943521413211787633",
+    "in_reply_to_user_id": "1894359849812856834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943173481123975663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x_overdose_day 不推荐delsym太弱了没感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027048428",
+              "name": "Delsym"
+            }
+          }
+        ],
+        "conversation_id": "1943173481123975663",
+        "created_at": "2025-07-11T04:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T05:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943521413211787633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894359849812856834",
+              "start": 0,
+              "username": "x_overdose_day"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943521413211787633",
+        "in_reply_to_user_id": "1894359849812856834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943173481123975663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_overdose_day 不推荐delsym太弱了没感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894359849812856834",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027048428",
+              "name": "Delsym"
+            }
+          }
+        ],
+        "conversation_id": "1943173481123975663",
+        "created_at": "2025-07-10T05:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T06:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943173481123975663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sxshuishuimao/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/sxshuishuimao/status/1943110188619436424",
+              "start": 17,
+              "url": "https://t.co/RZFlcmw5d2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943173481123975663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1302,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943110188619436424",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Delsym有用过吗？效果怎么样 https://t.co/RZFlcmw5d2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od | 自伤 | 中文/Eng/Ita🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 35,
+                "tag": "shtwt"
+              },
+              {
+                "end": 50,
+                "start": 42,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "kagengetsu_1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/3odqfj904d"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1909306355841957952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 247,
+          "like_count": 1106,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1391
+        },
+        "url": "https://t.co/3odqfj904d",
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T12:12:45.000Z",
+        "description": "药物百科\nwiki主沐雨:@drug_artist\n副wiki主:Sakura\n投稿请私信我\n欢迎访问https://t.co/kpcYDRTGSo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "drug_artist"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 74,
+                "expanded_url": "http://overdose.day",
+                "start": 51,
+                "url": "https://t.co/kpcYDRTGSo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/kpcYDRTGSo"
+              }
+            ]
+          }
+        },
+        "id": "1894359849812856834",
+        "location": "Xanax天国",
+        "name": "drug百科",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942170925098536960/cpWSRmjm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 45,
+          "like_count": 67,
+          "listed_count": 3,
+          "media_count": 7,
+          "tweet_count": 59
+        },
+        "url": "https://t.co/kpcYDRTGSo",
+        "username": "x_overdose_day",
+        "verified": false
+      }
+    ]
+  }
+}

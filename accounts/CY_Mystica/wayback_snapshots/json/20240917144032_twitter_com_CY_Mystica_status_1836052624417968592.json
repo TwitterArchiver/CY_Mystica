@@ -1,0 +1,87 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1836052624417968592",
+    "created_at": "2024-09-17T14:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-17T15:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1836052624417968592"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1836052624417968592",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一开始我也没上瘾的，是她们跟我说买一只小豆泥不会有事的，很容易戒掉的，我才去试了一下。后来发现不行啊，这一旦断了一天不买小豆泥就痛苦，就难受。结果害我年纪轻轻就染上了小豆泥瘾，现在想戒也戒不了，平静的生活也被打破了，努力赚钱就是为了能够天天买小豆泥。小豆泥。小豆泥小豆泥小豆泥小豆…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1836052624417968592",
+        "created_at": "2024-09-17T14:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T15:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836052624417968592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1836052624417968592",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一开始我也没上瘾的，是她们跟我说买一只小豆泥不会有事的，很容易戒掉的，我才去试了一下。后来发现不行啊，这一旦断了一天不买小豆泥就痛苦，就难受。结果害我年纪轻轻就染上了小豆泥瘾，现在想戒也戒不了，平静的生活也被打破了，努力赚钱就是为了能够天天买小豆泥。小豆泥。小豆泥小豆泥小豆泥小豆…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "04 | entp | od | 自伤 | 精神病 | 友跨顺女 | 热衷于互fo和交朋友 | 消费主义 | 无🚪纯绿 中文/Eng",
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "下弦月",
+        "pinned_tweet_id": "1831302581404008939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 339,
+          "like_count": 235,
+          "listed_count": 0,
+          "tweet_count": 263
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      }
+    ]
+  }
+}

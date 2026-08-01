@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1798808718542262529",
+    "created_at": "2024-06-06T20:06:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-06T21:06:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798808718542262529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1306118653583138818",
+          "start": 3,
+          "username": "javzimu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "linktr.ee/91cc",
+          "end": 112,
+          "expanded_url": "http://linktr.ee/91cc",
+          "start": 89,
+          "url": "https://t.co/SZuAfQtCJJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798808718542262529",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "1772990670799532492",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @javzimu: 能让时间停止的男人！随心所欲\n给幸福的情侣戴绿帽子 给她们射精\n～～～～～～～～～～～～～～～        \nApp搜索关键词《让时间停止》\n下载网址https://t.co/SZuAfQtCJJ\n～～～～～～～【中文字幕1080p】 https:/…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1798808718542262529].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1798808718542262529",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1798808718542262529"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1772989629521965056"
+          ]
+        },
+        "author_id": "1306118653583138818",
+        "conversation_id": "1772990670799532492",
+        "created_at": "2024-03-27T14:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-03-27T15:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1772990670799532492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "linktr.ee/91cc",
+              "end": 99,
+              "expanded_url": "http://linktr.ee/91cc",
+              "start": 76,
+              "url": "https://t.co/SZuAfQtCJJ"
+            },
+            {
+              "display_url": "pic.twitter.com/GoKKE4fkKQ",
+              "end": 142,
+              "expanded_url": "https://twitter.com/javzimu/status/1772990670799532492/video/1",
+              "media_key": "7_1772989629521965056",
+              "start": 119,
+              "url": "https://t.co/GoKKE4fkKQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1772990670799532492",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 381,
+          "impression_count": 266370,
+          "like_count": 768,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "能让时间停止的男人！随心所欲\n给幸福的情侣戴绿帽子 给她们射精\n～～～～～～～～～～～～～～～        \nApp搜索关键词《让时间停止》\n下载网址https://t.co/SZuAfQtCJJ\n～～～～～～～【中文字幕1080p】 https://t.co/GoKKE4fkKQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "04年小母狗",
+        "id": "1124658845664653314",
+        "name": "下弦月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 205,
+          "like_count": 95,
+          "listed_count": 0,
+          "tweet_count": 104
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-16T06:32:15.000Z",
+        "description": "主打｜中文字幕｜高清無碼｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/91cc",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/91cc",
+                "start": 0,
+                "url": "https://t.co/BJ3FTRoSHb"
+              }
+            ]
+          }
+        },
+        "id": "1306118653583138818",
+        "location": "下载官网",
+        "name": "成人導航【中文字幕組】",
+        "pinned_tweet_id": "1682743380500160514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678697435428982785/N---eZKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681792,
+          "following_count": 331,
+          "like_count": 14,
+          "listed_count": 1669,
+          "tweet_count": 18523
+        },
+        "url": "https://t.co/BJ3FTRoSHb",
+        "username": "javzimu",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

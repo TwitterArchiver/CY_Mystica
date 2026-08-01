@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1851580466664783872"
+      ],
+      "media_source_tweet_id": [
+        "1851580493462114620"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1856351177170166162",
+    "created_at": "2024-11-12T14:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-12T15:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856351177170166162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1574018856640618497",
+          "start": 3,
+          "username": "HIKARI_LKC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dMzzqRHYrv",
+          "end": 39,
+          "expanded_url": "https://x.com/HIKARI_LKC/status/1851580493462114620/video/1",
+          "media_key": "7_1851580466664783872",
+          "start": 16,
+          "url": "https://t.co/dMzzqRHYrv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856351177170166162",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 887
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851580493462114620",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HIKARI_LKC: https://t.co/dMzzqRHYrv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1856351177170166162].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1856351177170166162",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1856351177170166162"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20200,
+        "height": 640,
+        "media_key": "7_1851580466664783872",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1851580466664783872/pu/img/bnkO-pwpBGkmD1ZN.jpg",
+        "public_metrics": {
+          "view_count": 13293
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1851580466664783872/pu/vid/avc1/320x320/g61M7kqdVHCuLffA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1851580466664783872/pu/vid/avc1/540x540/isZEzAyoEsqx2Qez.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1851580466664783872/pu/vid/avc1/640x640/35WjfTKKsT9B53tf.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1851580466664783872/pu/pl/Hgfawa6dRvOfy0C-.m3u8?tag=12"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1851580466664783872"
+          ]
+        },
+        "author_id": "1574018856640618497",
+        "conversation_id": "1851580493462114620",
+        "created_at": "2024-10-30T11:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T12:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851580493462114620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dMzzqRHYrv",
+              "end": 23,
+              "expanded_url": "https://x.com/HIKARI_LKC/status/1851580493462114620/video/1",
+              "media_key": "7_1851580466664783872",
+              "start": 0,
+              "url": "https://t.co/dMzzqRHYrv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851580493462114620",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 589,
+          "impression_count": 34460,
+          "like_count": 4040,
+          "quote_count": 11,
+          "reply_count": 7,
+          "retweet_count": 887
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dMzzqRHYrv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵04 | entp |暂时不 od | 暂时不自伤 | 精神病 | 友跨顺女 |互fo| 消费主义 | 中文/Eng/ITA🩵",
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "下弦月🌙",
+        "pinned_tweet_id": "1855348642753974464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841172907072110593/alcfl7zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 346,
+          "like_count": 582,
+          "listed_count": 0,
+          "tweet_count": 602
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-25T12:52:12.000Z",
+        "description": "raison d'être   Kari→ @KARI_DFV",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "KARI_DFV"
+              }
+            ]
+          }
+        },
+        "id": "1574018856640618497",
+        "name": "HIKARI",
+        "pinned_tweet_id": "1738876902759428467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791045595496583168/yGj3HCbb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4844,
+          "following_count": 143,
+          "like_count": 3542,
+          "listed_count": 5,
+          "tweet_count": 4240
+        },
+        "username": "HIKARI_LKC",
+        "verified": false
+      }
+    ]
+  }
+}

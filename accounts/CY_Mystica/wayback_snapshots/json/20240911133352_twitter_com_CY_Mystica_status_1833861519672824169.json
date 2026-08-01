@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1833659230190014464"
+      ],
+      "media_source_tweet_id": [
+        "1833659309508436456"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1833861519672824169",
+    "created_at": "2024-09-11T13:33:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-11T14:33:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833861519672824169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1775153102728900608",
+          "start": 3,
+          "username": "S4mm1dk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y7lbm2k0fy",
+          "end": 79,
+          "expanded_url": "https://twitter.com/S4mm1dk/status/1833659309508436456/photo/1",
+          "media_key": "3_1833659230190014464",
+          "start": 56,
+          "url": "https://t.co/Y7Lbm2k0fy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833861519672824169",
+    "lang": "es",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833659309508436456",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @S4mm1dk: asi le voy a hacer si hace lo q el dijo :3 https://t.co/Y7Lbm2k0fy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1513,
+        "media_key": "3_1833659230190014464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXJ3Ws6XkAAb8-X.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833659230190014464"
+          ],
+          "media_source_tweet_id": [
+            "1833659309508436456"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1833861519672824169",
+        "created_at": "2024-09-11T13:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T14:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833861519672824169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1775153102728900608",
+              "start": 3,
+              "username": "S4mm1dk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y7lbm2k0fy",
+              "end": 79,
+              "expanded_url": "https://twitter.com/S4mm1dk/status/1833659309508436456/photo/1",
+              "media_key": "3_1833659230190014464",
+              "start": 56,
+              "url": "https://t.co/Y7Lbm2k0fy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833861519672824169",
+        "lang": "es",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833659309508436456",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @S4mm1dk: asi le voy a hacer si hace lo q el dijo :3 https://t.co/Y7Lbm2k0fy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833659230190014464"
+          ]
+        },
+        "author_id": "1775153102728900608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1833659309508436456",
+        "created_at": "2024-09-11T00:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T01:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833659309508436456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y7lbm2k0fy",
+              "end": 66,
+              "expanded_url": "https://twitter.com/S4mm1dk/status/1833659309508436456/photo/1",
+              "media_key": "3_1833659230190014464",
+              "start": 43,
+              "url": "https://t.co/Y7Lbm2k0fy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833659309508436456",
+        "lang": "es",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 1931,
+          "like_count": 284,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "asi le voy a hacer si hace lo q el dijo :3 https://t.co/Y7Lbm2k0fy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "04 | entp | od | 自伤 | 精神病 | 友跨顺女 | 热衷于互fo和交朋友 | 消费主义 | 无🚪纯绿 中文/Eng",
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "下弦月",
+        "pinned_tweet_id": "1831302581404008939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 335,
+          "like_count": 194,
+          "listed_count": 0,
+          "tweet_count": 213
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-02T13:27:45.000Z",
+        "description": "_ _              //    ヤ .        @deftones      ◟     ⨯\n           .      ︵︵      .ᐟ     He  .  Him  (ftm)  丶   𐑞",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "deftones"
+              }
+            ]
+          }
+        },
+        "id": "1775153102728900608",
+        "location": "Ed| sh| obslove",
+        "name": "Isaac.",
+        "pinned_tweet_id": "1832096568662733278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833691448677437440/3g9_E0-q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5564,
+          "following_count": 3277,
+          "like_count": 10967,
+          "listed_count": 18,
+          "tweet_count": 8870
+        },
+        "username": "S4mm1dk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1824251154391257331",
+    "created_at": "2024-08-16T01:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-16T02:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824251154391257331"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "重口"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "猎奇"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "扩阴"
+        },
+        {
+          "end": 112,
+          "start": 107,
+          "tag": "异物插入"
+        },
+        {
+          "end": 116,
+          "start": 113,
+          "tag": "异物"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "虐阴"
+        },
+        {
+          "end": 124,
+          "start": 121,
+          "tag": "灌肠"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "虐菊"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1452860484038774784",
+          "start": 3,
+          "username": "Susu8088"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824251154391257331",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 190
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822652718189785499",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Susu8088: 【重口】泥鳅灌肠 往菊花灌入大量泥鳅后再灌入能够刺激泥鳅的液体使其在肠道里翻滚刺激母狗菊花，本身就很鲜活的泥鳅，再用液体刺激可想母狗的大肠一定是波涛汹涌吧🤪🤪\n\n#重口 #猎奇 #扩阴 #异物插入 #异物 #虐阴 #灌肠 #虐菊 \n\n完整版在置顶电报…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1824251154391257331].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1824251154391257331",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1824251154391257331"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1822652593908457472"
+          ]
+        },
+        "author_id": "1452860484038774784",
+        "conversation_id": "1822652718189785499",
+        "created_at": "2024-08-11T15:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T16:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822652718189785499"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "重口"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "猎奇"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "扩阴"
+            },
+            {
+              "end": 98,
+              "start": 93,
+              "tag": "异物插入"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "异物"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "虐阴"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "灌肠"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "虐菊"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tcn2n41acm",
+              "end": 163,
+              "expanded_url": "https://twitter.com/Susu8088/status/1822652718189785499/video/1",
+              "media_key": "7_1822652593908457472",
+              "start": 140,
+              "url": "https://t.co/TcN2n41ACm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822652718189785499",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 386,
+          "impression_count": 103113,
+          "like_count": 1171,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 190
+        },
+        "reply_settings": "everyone",
+        "text": "【重口】泥鳅灌肠 往菊花灌入大量泥鳅后再灌入能够刺激泥鳅的液体使其在肠道里翻滚刺激母狗菊花，本身就很鲜活的泥鳅，再用液体刺激可想母狗的大肠一定是波涛汹涌吧🤪🤪\n\n#重口 #猎奇 #扩阴 #异物插入 #异物 #虐阴 #灌肠 #虐菊 \n\n完整版在置顶电报群【编号群】\n2408111 https://t.co/TcN2n41ACm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "04年小母狗",
+        "id": "1124658845664653314",
+        "name": "下弦月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 227,
+          "like_count": 97,
+          "listed_count": 0,
+          "tweet_count": 127
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-26T04:52:00.000Z",
+        "description": "三千多部猎奇重口18🈲BDSM性虐视频尽在编号群还有刀锋，汉责和茉莉重度sp视频各❗❗❗68💰❗❗❗\n都有上传电报群可以在线观看，需要直接发红包或赞赏截图 我发你邀请链接点击进群就可以了\n电报私信:https://t.co/LyNwaGbnhb（回复快）\n【可帮注册电报】侵权请私信，立马删除！小号: @Arumbudi2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 161,
+                "start": 151,
+                "username": "Arumbudi2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Susu800",
+                "end": 122,
+                "expanded_url": "https://t.me/Susu800",
+                "start": 99,
+                "url": "https://t.co/LyNwaGbnhb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Susu800",
+                "end": 23,
+                "expanded_url": "https://t.me/Susu800",
+                "start": 0,
+                "url": "https://t.co/LyNwaGbnhb"
+              }
+            ]
+          }
+        },
+        "id": "1452860484038774784",
+        "location": "🛰️:DF888SP  🐧:2046358585",
+        "name": "晨曦 ❗看推置顶，再私信喔❗",
+        "pinned_tweet_id": "1776648897840189707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698795752837844992/KwRNehyx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61102,
+          "following_count": 109,
+          "like_count": 490,
+          "listed_count": 217,
+          "tweet_count": 983
+        },
+        "url": "https://t.co/LyNwaGbnhb",
+        "username": "Susu8088",
+        "verified": true
+      }
+    ]
+  }
+}

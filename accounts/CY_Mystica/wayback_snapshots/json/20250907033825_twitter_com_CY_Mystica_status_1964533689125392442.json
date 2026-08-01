@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1964533689125392442",
+    "created_at": "2025-09-07T03:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T04:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964533689125392442"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1964533689125392442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个求助：本人因过敏源太多且过敏症状过于严重，目前苯海拉明/氯苯那敏/氯雷他定/西替利嗪/左西替利嗪/非索非那定/奥洛他定/地氯雷他定/孟鲁司特钠/以及所有类型鼻喷都无法缓解症状，已经完全耐药起到0个作用，医院过敏针试过收效甚微，目前只能用伪麻黄碱的鼻喷or药物能勉强缓解症状我还有救吗😨😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1964533689125392442",
+        "created_at": "2025-09-07T03:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T04:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964533689125392442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964533689125392442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个求助：本人因过敏源太多且过敏症状过于严重，目前苯海拉明/氯苯那敏/氯雷他定/西替利嗪/左西替利嗪/非索非那定/奥洛他定/地氯雷他定/孟鲁司特钠/以及所有类型鼻喷都无法缓解症状，已经完全耐药起到0个作用，医院过敏针试过收效甚微，目前只能用伪麻黄碱的鼻喷or药物能勉强缓解症状我还有救吗😨😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od |ed |自伤 | 中文/Eng/Ita/ESP🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 42,
+                "tag": "shtwt"
+              },
+              {
+                "end": 57,
+                "start": 49,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1963811320752464275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 282,
+          "like_count": 1546,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 1790
+        },
+        "username": "CY_Mystica",
+        "verified": true
+      }
+    ]
+  }
+}

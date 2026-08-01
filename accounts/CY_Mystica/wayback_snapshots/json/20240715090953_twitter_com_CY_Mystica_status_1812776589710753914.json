@@ -1,0 +1,188 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1797442789287841792"
+      ],
+      "media_source_tweet_id": [
+        "1797442824948060268"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "1812776589710753914",
+    "created_at": "2024-07-15T09:09:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-15T10:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812776589710753914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1731414608047464448",
+          "start": 3,
+          "username": "ScotchBeefXxx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/MPnkohpT6j",
+          "end": 42,
+          "expanded_url": "https://twitter.com/ScotchBeefXxx/status/1797442824948060268/video/1",
+          "media_key": "7_1797442789287841792",
+          "start": 19,
+          "url": "https://t.co/MPnkohpT6j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812776589710753914",
+    "lang": "zxx",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 312
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797442824948060268",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ScotchBeefXxx: https://t.co/MPnkohpT6j"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1812776589710753914].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1812776589710753914",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1812776589710753914"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50689,
+        "height": 432,
+        "media_key": "7_1797442789287841792",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1797442789287841792/pu/img/X0ttgtjuM5kGP3nC.jpg",
+        "public_metrics": {
+          "view_count": 51217
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1797442789287841792/pu/vid/avc1/530x270/VzG8F1lXVPLuB1Mr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1797442789287841792/pu/vid/avc1/848x432/94kyapGH6ucH_eZu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1797442789287841792/pu/pl/FomTxolgN3XDvYyB.m3u8?tag=12"
+          }
+        ],
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1797442789287841792"
+          ]
+        },
+        "author_id": "1731414608047464448",
+        "conversation_id": "1797442824948060268",
+        "created_at": "2024-06-03T01:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T02:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797442824948060268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/MPnkohpT6j",
+              "end": 23,
+              "expanded_url": "https://twitter.com/ScotchBeefXxx/status/1797442824948060268/video/1",
+              "media_key": "7_1797442789287841792",
+              "start": 0,
+              "url": "https://t.co/MPnkohpT6j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797442824948060268",
+        "lang": "zxx",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 594,
+          "impression_count": 193449,
+          "like_count": 1428,
+          "quote_count": 7,
+          "reply_count": 11,
+          "retweet_count": 312
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MPnkohpT6j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "04年小母狗",
+        "id": "1124658845664653314",
+        "name": "下弦月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 211,
+          "like_count": 95,
+          "listed_count": 0,
+          "tweet_count": 107
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-03T20:46:56.000Z",
+        "description": "NSFW NO Minors 🚫! Serious cumwhores ONLY,be my princess and my fucktoy 👸 🍆DM for submission/removal/exposure/promo",
+        "id": "1731414608047464448",
+        "name": "Fuck Pigs,Worthless Cunts & Degraded Toilet Whores",
+        "pinned_tweet_id": "1808928348179218496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791985462048923648/lvmXPAlM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53938,
+          "following_count": 1745,
+          "like_count": 8273,
+          "listed_count": 215,
+          "tweet_count": 1508
+        },
+        "username": "ScotchBeefXxx",
+        "verified": false
+      }
+    ]
+  }
+}

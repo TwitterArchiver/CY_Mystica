@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1910373585371496448"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "1910373680884105689",
+    "created_at": "2025-04-10T16:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T17:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1910373680884105689"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uJ42YopnLS",
+          "end": 36,
+          "expanded_url": "https://x.com/CY_Mystica/status/1910373680884105689/video/1",
+          "media_key": "13_1910373585371496448",
+          "start": 13,
+          "url": "https://t.co/uJ42YopnLS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910373680884105689",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "歘歘歘的真好听◍˃ᵕ˂◍ https://t.co/uJ42YopnLS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17845,
+        "height": 1152,
+        "media_key": "13_1910373585371496448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1910373585371496448/img/NbWMPD4HcqH4g7kl.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1910373585371496448/vid/avc1/320x512/zHsitqrcvvvwes7a.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1910373585371496448/vid/avc1/480x768/vW0c_oULmnEtI-GV.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1910373585371496448/vid/avc1/720x1152/gHovOMyu8BElTfAi.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1910373585371496448/pl/Bua7kk65M5zFuG05.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1910373585371496448"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "conversation_id": "1910373680884105689",
+        "created_at": "2025-04-10T16:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T17:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910373680884105689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uJ42YopnLS",
+              "end": 36,
+              "expanded_url": "https://x.com/CY_Mystica/status/1910373680884105689/video/1",
+              "media_key": "13_1910373585371496448",
+              "start": 13,
+              "url": "https://t.co/uJ42YopnLS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910373680884105689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "歘歘歘的真好听◍˃ᵕ˂◍ https://t.co/uJ42YopnLS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵可以叫我弦月/小月 | od | 自伤 | 中文/Eng/Ita🤍#shtwt #drugtwt @kagengetsu_1备用🩵 提问箱https://t.co/sixisLLcgo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 34,
+                "tag": "shtwt"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "kagengetsu_1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pome.vip/201852e34b",
+                "end": 93,
+                "expanded_url": "https://pome.vip/201852e34b",
+                "start": 70,
+                "url": "https://t.co/sixisLLcgo"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1909306355841957952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909306831178194944/cenS1HtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 235,
+          "like_count": 1082,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1246
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      }
+    ]
+  }
+}

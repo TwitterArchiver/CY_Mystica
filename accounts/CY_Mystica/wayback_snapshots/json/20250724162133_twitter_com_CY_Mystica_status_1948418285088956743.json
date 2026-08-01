@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1948418285088956743",
+    "created_at": "2025-07-24T16:21:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T17:21:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948418285088956743"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1948418285088956743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和朋友探讨就业问题，讨论出一个新方向，可以完美解决丧葬方式不够创新，死后会腐烂容颜不保，担心自己遗照太丑的问题：把骨灰重塑成人像，有需要可以把骨架和内脏也捏出来，可以按照死者喜好调整建模，亲属有需要的话加钱可以自己制作。某种意义上自己的骨灰做的人像摆在那也算是永生了，有人入股吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1948418285088956743",
+        "created_at": "2025-07-24T16:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T17:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948418285088956743"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948418285088956743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和朋友探讨就业问题，讨论出一个新方向，可以完美解决丧葬方式不够创新，死后会腐烂容颜不保，担心自己遗照太丑的问题：把骨灰重塑成人像，有需要可以把骨架和内脏也捏出来，可以按照死者喜好调整建模，亲属有需要的话加钱可以自己制作。某种意义上自己的骨灰做的人像摆在那也算是永生了，有人入股吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od | 自伤 | 中文/Eng/Ita🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 35,
+                "tag": "shtwt"
+              },
+              {
+                "end": 50,
+                "start": 42,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "kagengetsu_1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/3odqfj904d"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1909306355841957952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 250,
+          "like_count": 1137,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1417
+        },
+        "url": "https://t.co/3odqfj904d",
+        "username": "CY_Mystica",
+        "verified": false
+      }
+    ]
+  }
+}

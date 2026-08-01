@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1935041363609067534",
+    "created_at": "2025-06-17T18:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T19:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935041596346486817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1833270666629611520",
+          "start": 0,
+          "username": "Artemis522387"
+        },
+        {
+          "end": 31,
+          "id": "1906961807824347136",
+          "start": 15,
+          "username": "xmHB5xoodJ57275"
+        },
+        {
+          "end": 46,
+          "id": "1730235267204747264",
+          "start": 32,
+          "username": "qihainanami23"
+        },
+        {
+          "end": 54,
+          "id": "1507396901594820608",
+          "start": 47,
+          "username": "hgds01"
+        },
+        {
+          "end": 71,
+          "id": "1718357203646664704",
+          "start": 55,
+          "username": "QQ1765156343876"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935041596346486817",
+    "in_reply_to_user_id": "1833270666629611520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935041363609067534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Artemis522387 @xmHB5xoodJ57275 @qihainanami23 @hgds01 @QQ1765156343876 太好了我们是一对🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1935041359800582145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtql3UyaQAEmCn7.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1935041363609067534",
+        "created_at": "2025-06-17T18:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T19:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935041596346486817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1833270666629611520",
+              "start": 0,
+              "username": "Artemis522387"
+            },
+            {
+              "end": 31,
+              "id": "1906961807824347136",
+              "start": 15,
+              "username": "xmHB5xoodJ57275"
+            },
+            {
+              "end": 46,
+              "id": "1730235267204747264",
+              "start": 32,
+              "username": "qihainanami23"
+            },
+            {
+              "end": 54,
+              "id": "1507396901594820608",
+              "start": 47,
+              "username": "hgds01"
+            },
+            {
+              "end": 71,
+              "id": "1718357203646664704",
+              "start": 55,
+              "username": "QQ1765156343876"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935041596346486817",
+        "in_reply_to_user_id": "1833270666629611520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935041363609067534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Artemis522387 @xmHB5xoodJ57275 @qihainanami23 @hgds01 @QQ1765156343876 太好了我们是一对🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935041359800582145"
+          ]
+        },
+        "author_id": "1833270666629611520",
+        "conversation_id": "1935041363609067534",
+        "created_at": "2025-06-17T18:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T19:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935041363609067534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1906961807824347136",
+              "start": 22,
+              "username": "xmHB5xoodJ57275"
+            },
+            {
+              "end": 53,
+              "id": "1730235267204747264",
+              "start": 39,
+              "username": "qihainanami23"
+            },
+            {
+              "end": 71,
+              "id": "1124658845664653314",
+              "start": 60,
+              "username": "CY_Mystica"
+            },
+            {
+              "end": 85,
+              "id": "1507396901594820608",
+              "start": 78,
+              "username": "hgds01"
+            },
+            {
+              "end": 102,
+              "id": "1718357203646664704",
+              "start": 86,
+              "username": "QQ1765156343876"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinityweet.me/family-tree",
+              "end": 130,
+              "expanded_url": "https://infinityweet.me/family-tree",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1934853304238133248/JRzY28BK?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1934853304238133248/JRzY28BK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 107,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinityweet.me/family-tree",
+              "url": "https://t.co/3uv6nZmajw"
+            },
+            {
+              "display_url": "pic.x.com/Iv6BoOnaeo",
+              "end": 154,
+              "expanded_url": "https://x.com/Artemis522387/status/1935041363609067534/photo/1",
+              "media_key": "3_1935041359800582145",
+              "start": 131,
+              "url": "https://t.co/Iv6BoOnaeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935041363609067534",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @xmHB5xoodJ57275 @qihainanami23\n👰 配偶: @CY_Mystica\n👶 孩子: @hgds01 @QQ1765156343876\n\n➡️ https://t.co/3uv6nZmajw https://t.co/Iv6BoOnaeo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od | 自伤 | 中文/Eng/Ita🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 35,
+                "tag": "shtwt"
+              },
+              {
+                "end": 50,
+                "start": 42,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1909306355841957952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 234,
+          "like_count": 1156,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 1362
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T22:26:15.000Z",
+        "description": "愛我請打錢",
+        "id": "1833270666629611520",
+        "location": "天堂",
+        "name": "Artemis",
+        "pinned_tweet_id": "1879373494875812139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932828641777549312/_b9Heipt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 103,
+          "like_count": 1259,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 289
+        },
+        "username": "Artemis522387",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T06:48:48.000Z",
+        "description": "",
+        "id": "1906961807824347136",
+        "name": "饮月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906961929421438976/3hjYK736_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 350,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "xmHB5xoodJ57275",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T14:40:18.000Z",
+        "description": "",
+        "id": "1730235267204747264",
+        "name": "曲云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732102762668883972/X9fiU7Ve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 513,
+          "like_count": 9986,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 9461
+        },
+        "username": "qihainanami23",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "推广自辩/感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1929579130711875675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82425,
+          "following_count": 2909,
+          "like_count": 43580,
+          "listed_count": 102,
+          "media_count": 2474,
+          "tweet_count": 6773
+        },
+        "username": "hgds01",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-28T20:01:22.000Z",
+        "description": "",
+        "id": "1718357203646664704",
+        "name": "QQ湫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718357492474769408/OtF-SZfu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 51,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "QQ1765156343876",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1888646272640327724",
+    "created_at": "2025-02-10T11:50:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T12:50:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888918497188864046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1390652924481527810",
+          "start": 0,
+          "username": "zqtlovekris99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888918497188864046",
+    "in_reply_to_user_id": "1390652924481527810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888646272640327724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zqtlovekris99 爱上了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1888646272640327724",
+        "created_at": "2025-02-10T11:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T12:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888918497188864046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888918497188864046",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888646272640327724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 爱上了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888646268160745472",
+            "3_1888646268613709824",
+            "3_1888646268500561920",
+            "3_1888646263941292033"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1888646272640327724",
+        "created_at": "2025-02-09T17:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T18:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888646272640327724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ul1uZizvzf",
+              "end": 39,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1888646272640327724/photo/1",
+              "media_key": "3_1888646268160745472",
+              "start": 16,
+              "url": "https://t.co/ul1uZizvzf"
+            },
+            {
+              "display_url": "pic.x.com/ul1uZizvzf",
+              "end": 39,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1888646272640327724/photo/1",
+              "media_key": "3_1888646268613709824",
+              "start": 16,
+              "url": "https://t.co/ul1uZizvzf"
+            },
+            {
+              "display_url": "pic.x.com/ul1uZizvzf",
+              "end": 39,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1888646272640327724/photo/1",
+              "media_key": "3_1888646268500561920",
+              "start": 16,
+              "url": "https://t.co/ul1uZizvzf"
+            },
+            {
+              "display_url": "pic.x.com/ul1uZizvzf",
+              "end": 39,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1888646272640327724/photo/1",
+              "media_key": "3_1888646263941292033",
+              "start": 16,
+              "url": "https://t.co/ul1uZizvzf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888646272640327724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2911,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "地雷女和我谈恋爱吧🥺🥺🥺🥰🥰🥰 https://t.co/ul1uZizvzf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵可以叫我弦月/小月 | od | 自伤 | 我想和你交朋友我们互fo吧 | 中文/Eng/ITA🩵#shtwt #drugtwt @kagengetsu_1备用",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 50,
+                "tag": "shtwt"
+              },
+              {
+                "end": 65,
+                "start": 57,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 79,
+                "start": 66,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870479498816471040/3RK8JhWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 380,
+          "like_count": 681,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 866
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | 养tulpa中 | PTSD/OD💊/INFP→INTP | 颜性浪漫倾向无性恋+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（诚聘对象版）",
+        "pinned_tweet_id": "1888515060076892385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5733,
+          "following_count": 522,
+          "like_count": 16474,
+          "listed_count": 7,
+          "media_count": 1698,
+          "tweet_count": 14671
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      }
+    ]
+  }
+}

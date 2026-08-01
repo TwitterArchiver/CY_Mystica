@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1854562704184557633",
+    "created_at": "2024-11-07T16:32:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T17:32:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1854562704184557633"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/glados8964/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/glados8964/status/1854550755853967776",
+          "start": 4,
+          "url": "https://t.co/JCYecUpYBX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854562704184557633",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854550755853967776",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "讨厌🫠 https://t.co/JCYecUpYBX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1854562704184557633",
+        "created_at": "2024-11-07T16:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T17:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854562704184557633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/glados8964/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/glados8964/status/1854550755853967776",
+              "start": 4,
+              "url": "https://t.co/JCYecUpYBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854562704184557633",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854550755853967776",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "讨厌🫠 https://t.co/JCYecUpYBX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748717733569875968",
+        "conversation_id": "1854550755853967776",
+        "created_at": "2024-11-07T15:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T16:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854550755853967776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rabbubble550W/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Rabbubble550W/status/1854094672303694026",
+              "start": 3,
+              "url": "https://t.co/ETmqiUoWWB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854550755853967776",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854094672303694026",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "讨厌 https://t.co/ETmqiUoWWB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵04 | entp | od | 自伤 | 精神病 | 友跨顺女 |互fo| 消费主义 | 中文/Eng/ITA🩵",
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "下弦月🌙",
+        "pinned_tweet_id": "1845440801246970366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841172907072110593/alcfl7zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 341,
+          "like_count": 554,
+          "listed_count": 0,
+          "tweet_count": 572
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T14:43:03.000Z",
+        "description": "友跨，i am here   \n备：@zau743598828677  \nDOS向你问好\n这里是，格拉道斯\n沾负能鉴证经济学哲学思考，理性主义万岁，社会自由主义，右边偏左，反极端主义，反政治宗教化，图腾崇拜化\n\n家庭化学，CS，瓦，各种电脑游戏，经济学本科学习中，键政爱好，伪ADHD，od，一些伪心理疾病",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "zau743598828677"
+              }
+            ]
+          }
+        },
+        "id": "1748717733569875968",
+        "location": "荷兰郑州",
+        "name": "GLaDOS",
+        "pinned_tweet_id": "1838205367186333709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808141941017890816/gINiWXJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 872,
+          "like_count": 29137,
+          "listed_count": 2,
+          "tweet_count": 14884
+        },
+        "username": "GLaDOS8964",
+        "verified": false
+      }
+    ]
+  }
+}

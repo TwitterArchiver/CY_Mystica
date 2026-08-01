@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1809531967773503491"
+      ],
+      "media_source_tweet_id": [
+        "1809555657630306743"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "1823158215028375650",
+    "created_at": "2024-08-13T00:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-13T01:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823158215028375650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "860148805471268865",
+          "start": 3,
+          "username": "caihuaxiaodao"
+        },
+        {
+          "end": 33,
+          "id": "1369056173417172995",
+          "start": 19,
+          "username": "meiridasai321"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wxuuxchick",
+          "end": 83,
+          "expanded_url": "https://twitter.com/i/status/1809555657630306743/video/1",
+          "media_key": "13_1809531967773503491",
+          "start": 60,
+          "url": "https://t.co/wxuuxcHIck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823158215028375650",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 402
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822854170594124031",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @caihuaxiaodao: @meiridasai321 贱母狗很爱主人想给主人生一只小狗，狗洞都被操大了。\nhttps://t.co/wxuuxcHIck"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1823158215028375650].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1823158215028375650",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1823158215028375650"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1307518,
+        "height": 1972,
+        "media_key": "13_1809531967773503491",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1809531967773503491/img/0WuIsZRFPinP9yoX.jpg",
+        "public_metrics": {
+          "view_count": 636057
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1809531967773503491/vid/avc1/480x876/fV7Htx1jsvwVAToV.mp4?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1809531967773503491/vid/avc1/320x584/HLehZMv5CwWUgDBz.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1809531967773503491/pl/AdO8B6msXfH76gmo.m3u8?tag=16&v=fcc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1809531967773503491/vid/avc1/1080x1972/r_lM9yvPgdgZqyP6.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1809531967773503491/vid/avc1/720x1314/pSPw3W63GMDUg227.mp4?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1809531967773503491"
+          ],
+          "media_source_tweet_id": [
+            "1809555657630306743"
+          ]
+        },
+        "author_id": "860148805471268865",
+        "conversation_id": "1822851321306988947",
+        "created_at": "2024-08-12T04:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T05:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822854170594124031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1369056173417172995",
+              "start": 0,
+              "username": "meiridasai321"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wxuuxchick",
+              "end": 64,
+              "expanded_url": "https://twitter.com/i/status/1809555657630306743/video/1",
+              "media_key": "13_1809531967773503491",
+              "start": 41,
+              "url": "https://t.co/wxuuxcHIck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822854170594124031",
+        "in_reply_to_user_id": "1369056173417172995",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2088,
+          "impression_count": 279839,
+          "like_count": 4504,
+          "quote_count": 2,
+          "reply_count": 28,
+          "retweet_count": 402
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822851321306988947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiridasai321 贱母狗很爱主人想给主人生一只小狗，狗洞都被操大了。\nhttps://t.co/wxuuxcHIck"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "04年小母狗",
+        "id": "1124658845664653314",
+        "name": "下弦月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 219,
+          "like_count": 95,
+          "listed_count": 0,
+          "tweet_count": 120
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-04T15:07:10.000Z",
+        "description": "家有骚货，大学女友，本人喜精神控制并有“分享”爱好。目标是让女友为了我变成一只毫无尊严人尽可夫的下贱母狗，有兴致时可以造福我的兄弟们。这个号平时分享贱狗日常。复活归来仅此一个推特号其他均为假冒。谢谢你们喜欢采花小盗！",
+        "id": "860148805471268865",
+        "name": "采花小盗",
+        "pinned_tweet_id": "1822815937265107271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808183877493837825/YxTuj8Wn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57884,
+          "following_count": 90,
+          "like_count": 158,
+          "listed_count": 109,
+          "tweet_count": 121
+        },
+        "username": "caihuaxiaodao",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-08T22:43:31.000Z",
+        "description": "每日大赛",
+        "id": "1369056173417172995",
+        "name": "每日大赛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812160720928219136/1-KsOyJ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23374,
+          "following_count": 0,
+          "like_count": 3,
+          "listed_count": 21,
+          "tweet_count": 47
+        },
+        "username": "meiridasai321",
+        "verified": true
+      }
+    ]
+  }
+}

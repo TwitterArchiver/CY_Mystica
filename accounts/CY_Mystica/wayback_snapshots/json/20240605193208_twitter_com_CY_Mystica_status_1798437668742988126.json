@@ -1,0 +1,290 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1796214316766752768"
+      ],
+      "media_source_tweet_id": [
+        "1796215197990043692"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "1798437668742988126",
+    "created_at": "2024-06-05T19:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-05T20:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798437668742988126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1306118653583138818",
+          "start": 3,
+          "username": "javzimu"
+        },
+        {
+          "end": 29,
+          "id": "1242074168046137344",
+          "start": 13,
+          "username": "DayanSrinivasan"
+        },
+        {
+          "end": 45,
+          "id": "1249573693853843456",
+          "start": 30,
+          "username": "Kimali50802801"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/ztur6o8l4u",
+          "end": 118,
+          "expanded_url": "https://twitter.com/javzimu/status/1796215197990043692/video/1",
+          "media_key": "7_1796214316766752768",
+          "start": 95,
+          "url": "https://t.co/ztur6o8l4u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798437668742988126",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 83
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798253403468112053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @javzimu: @DayanSrinivasan @Kimali50802801 -\n\n中文字幕 无码作品\n\n巨乳女友被不良下春药轮奸拍照威胁\n套子用完女友性欲激发要求无套内射\n https://t.co/ztur6o8l4u"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1798437668742988126].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1798437668742988126",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1798437668742988126"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 408733,
+        "height": 1080,
+        "media_key": "7_1796214316766752768",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1796214316766752768/pu/img/92f6b1tesG8Upf1b.jpg",
+        "public_metrics": {
+          "view_count": 553130
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1796214316766752768/pu/vid/avc1/1280x720/QQwAiG8QL6LadS4Q.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1796214316766752768/pu/vid/avc1/640x360/lO-uBCxEbtw4kY7V.mp4?tag=14"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1796214316766752768/pu/vid/avc1/1920x1080/IAe0UxBqtSComibY.mp4?tag=14"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1796214316766752768/pu/vid/avc1/480x270/CWApvS9JaY3qYtWl.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1796214316766752768/pu/pl/Pl6UNVlGIbgyJLB1.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1796214316766752768"
+          ],
+          "media_source_tweet_id": [
+            "1796215197990043692"
+          ]
+        },
+        "author_id": "1306118653583138818",
+        "conversation_id": "1798247493786112509",
+        "created_at": "2024-06-05T07:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T08:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798253403468112053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1242074168046137344",
+              "start": 0,
+              "username": "DayanSrinivasan"
+            },
+            {
+              "end": 32,
+              "id": "1249573693853843456",
+              "start": 17,
+              "username": "Kimali50802801"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ztur6o8l4u",
+              "end": 105,
+              "expanded_url": "https://twitter.com/javzimu/status/1796215197990043692/video/1",
+              "media_key": "7_1796214316766752768",
+              "start": 82,
+              "url": "https://t.co/ztur6o8l4u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798253403468112053",
+        "in_reply_to_user_id": "1242074168046137344",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 696,
+          "impression_count": 145262,
+          "like_count": 932,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 83
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798247493786112509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DayanSrinivasan @Kimali50802801 -\n\n中文字幕 无码作品\n\n巨乳女友被不良下春药轮奸拍照威胁\n套子用完女友性欲激发要求无套内射\n https://t.co/ztur6o8l4u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "04年小母狗",
+        "id": "1124658845664653314",
+        "name": "下弦月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 207,
+          "like_count": 95,
+          "listed_count": 0,
+          "tweet_count": 101
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-16T06:32:15.000Z",
+        "description": "主打｜中文字幕｜高清無碼｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/91cc",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/91cc",
+                "start": 0,
+                "url": "https://t.co/BJ3FTRoSHb"
+              }
+            ]
+          }
+        },
+        "id": "1306118653583138818",
+        "location": "下载官网",
+        "name": "成人導航【中文字幕組】",
+        "pinned_tweet_id": "1682743380500160514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678697435428982785/N---eZKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678427,
+          "following_count": 336,
+          "like_count": 14,
+          "listed_count": 1662,
+          "tweet_count": 18412
+        },
+        "url": "https://t.co/BJ3FTRoSHb",
+        "username": "javzimu",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2020-03-23T13:02:36.000Z",
+        "description": "欢迎👏各大博主前来参加比赛，这里是大赛的天堂，比赛请尊循推特规则……",
+        "id": "1242074168046137344",
+        "name": "每日赛场",
+        "pinned_tweet_id": "1798247493786112509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789169520252489728/h_PstG1g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2640,
+          "following_count": 0,
+          "like_count": 29,
+          "listed_count": 5,
+          "tweet_count": 19
+        },
+        "username": "DayanSrinivasan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T05:42:52.000Z",
+        "description": "欢迎大家前来参赛。",
+        "id": "1249573693853843456",
+        "name": "娱乐电台",
+        "pinned_tweet_id": "1796953478377660719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758487964613521408/IUROy5mr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3820,
+          "following_count": 31,
+          "like_count": 682,
+          "listed_count": 6,
+          "tweet_count": 706
+        },
+        "username": "Kimali50802801",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1967922313204208029",
+    "created_at": "2025-09-17T10:40:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T11:40:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968263687220900330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1748763011140169729",
+          "start": 0,
+          "username": "shuishuimao8964"
+        },
+        {
+          "end": 26,
+          "id": "1291625054027919360",
+          "start": 17,
+          "username": "frapooch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968263687220900330",
+    "in_reply_to_user_id": "1748763011140169729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967932446508556533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuishuimao8964 @frapooch 如果是复杂地形或者有架空导致有多个首层入口就要加gf了，有时候需要公共界面建筑需要承担城市功能的时候也需要……此外的话那只能说是设计师傻逼了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1967922313204208029",
+        "created_at": "2025-09-17T10:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T11:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968263687220900330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "shuishuimao8964"
+            },
+            {
+              "end": 26,
+              "id": "1291625054027919360",
+              "start": 17,
+              "username": "frapooch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968263687220900330",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967932446508556533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuishuimao8964 @frapooch 如果是复杂地形或者有架空导致有多个首层入口就要加gf了，有时候需要公共界面建筑需要承担城市功能的时候也需要……此外的话那只能说是设计师傻逼了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1967922313204208029",
+        "created_at": "2025-09-16T12:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T13:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967932446508556533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1291625054027919360",
+              "start": 0,
+              "username": "frapooch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967932446508556533",
+        "in_reply_to_user_id": "1291625054027919360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967931937055748283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frapooch 这是在武汉不在香港，实在是不明白加个gf的意义是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od | ed |自伤 | 中文/Eng/Ita/ESP🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "shtwt"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1626,
+          "following_count": 284,
+          "like_count": 1740,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 1951
+        },
+        "username": "CY_Mystica",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "ENFP-t ｜素食主義者｜永远14｜是豪貓不o不圓不割不死｜对象@mengqing5735和@saoweve｜健全人｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "mengqing5735"
+              },
+              {
+                "end": 55,
+                "start": 47,
+                "username": "saoweve"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "神仙水水猫🍕",
+        "pinned_tweet_id": "1966177280302133510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2106,
+          "following_count": 1062,
+          "like_count": 242,
+          "listed_count": 7,
+          "media_count": 1858,
+          "tweet_count": 9709
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "shuishuimao8964",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-07T06:39:51.000Z",
+        "description": "INTP-T |\n有冇人Youtube肯同我合作... |\n廣東話😎 English😊 煲冬瓜😐 日文❌ |\n繪師艾豬：@llapaca_\n建模師筷凡：smartseoz |\nJust a degenerate. (Actually Vtype?)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "llapaca_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/frapooch",
+                "end": 23,
+                "expanded_url": "https://youtube.com/frapooch",
+                "start": 0,
+                "url": "https://t.co/AlgpnBy6lN"
+              }
+            ]
+          }
+        },
+        "id": "1291625054027919360",
+        "location": "你後面 Your Back",
+        "name": "Frapoo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747577237363445760/2yUojSVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 1169,
+          "like_count": 6798,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 7056
+        },
+        "url": "https://t.co/AlgpnBy6lN",
+        "username": "frapooch",
+        "verified": false
+      }
+    ]
+  }
+}

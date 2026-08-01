@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1836216563793564117",
+    "created_at": "2024-09-18T15:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-18T16:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836434215245906028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1826500443922468864",
+          "start": 0,
+          "username": "Dyldo1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836434215245906028",
+    "in_reply_to_user_id": "1826500443922468864",
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836216563793564117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dyldo1234 bene"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1836216563793564117",
+        "created_at": "2024-09-18T15:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T16:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836434215245906028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1826500443922468864",
+              "start": 0,
+              "username": "Dyldo1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836434215245906028",
+        "in_reply_to_user_id": "1826500443922468864",
+        "lang": "tr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836216563793564117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dyldo1234 bene"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826500443922468864",
+        "conversation_id": "1836216563793564117",
+        "created_at": "2024-09-18T01:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T02:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836216563793564117"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "Pene",
+              "probability": 0.6533,
+              "start": 0,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836216563793564117",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1444,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Pene"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "04 | entp | od | 自伤 | 精神病 | 友跨顺女 | 热衷于互fo和交朋友 | 消费主义 | 无🚪纯绿 中文/Eng",
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "下弦月",
+        "pinned_tweet_id": "1831302581404008939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 341,
+          "like_count": 244,
+          "listed_count": 0,
+          "tweet_count": 279
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T06:03:51.000Z",
+        "description": "ig: sxxdez",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sleider14939",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sleider14939",
+                "start": 0,
+                "url": "https://t.co/JIqW5uwmRT"
+              }
+            ]
+          }
+        },
+        "id": "1826500443922468864",
+        "location": "en la orilla de un puente ",
+        "name": "Dylan",
+        "pinned_tweet_id": "1835394164093042923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826548096257454081/fVLSJOuY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1977,
+          "following_count": 13,
+          "like_count": 76,
+          "listed_count": 0,
+          "tweet_count": 535
+        },
+        "url": "https://t.co/JIqW5uwmRT",
+        "username": "Dyldo1234",
+        "verified": false
+      }
+    ]
+  }
+}

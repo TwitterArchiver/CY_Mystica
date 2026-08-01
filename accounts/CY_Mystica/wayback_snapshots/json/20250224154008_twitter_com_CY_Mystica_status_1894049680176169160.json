@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1893974990141231104"
+      ],
+      "media_source_tweet_id": [
+        "1893975015604818141"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "1894049680176169160",
+    "created_at": "2025-02-24T15:40:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T16:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894049680176169160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1778700125944381440",
+          "start": 3,
+          "username": "_adip0cere"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ol61tDRM3D",
+          "end": 39,
+          "expanded_url": "https://x.com/_adip0cere/status/1893975015604818141/photo/1",
+          "media_key": "3_1893974990141231104",
+          "start": 16,
+          "url": "https://t.co/ol61tDRM3D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894049680176169160",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893975015604818141",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_adip0cere: https://t.co/ol61tDRM3D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 936,
+        "media_key": "3_1893974990141231104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkjAOATXkAANtis.jpg",
+        "width": 702
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893974990141231104"
+          ],
+          "media_source_tweet_id": [
+            "1893975015604818141"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "conversation_id": "1894049680176169160",
+        "created_at": "2025-02-24T15:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T16:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894049680176169160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1778700125944381440",
+              "start": 3,
+              "username": "_adip0cere"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ol61tDRM3D",
+              "end": 39,
+              "expanded_url": "https://x.com/_adip0cere/status/1893975015604818141/photo/1",
+              "media_key": "3_1893974990141231104",
+              "start": 16,
+              "url": "https://t.co/ol61tDRM3D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894049680176169160",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893975015604818141",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_adip0cere: https://t.co/ol61tDRM3D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893974990141231104"
+          ]
+        },
+        "author_id": "1778700125944381440",
+        "conversation_id": "1893975015604818141",
+        "created_at": "2025-02-24T10:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T11:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893975015604818141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ol61tDRM3D",
+              "end": 23,
+              "expanded_url": "https://x.com/_adip0cere/status/1893975015604818141/photo/1",
+              "media_key": "3_1893974990141231104",
+              "start": 0,
+              "url": "https://t.co/ol61tDRM3D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893975015604818141",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 3419,
+          "like_count": 548,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ol61tDRM3D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵可以叫我弦月/小月 | od | 自伤 | 中文/Eng/Ita🩵#shtwt #drugtwt @kagengetsu_1备用",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 34,
+                "tag": "shtwt"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1891360147399639174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889935829856038912/G_-6TXsi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 407,
+          "like_count": 886,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1039
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T08:22:49.000Z",
+        "description": "FA tag▶︎#リジ絵クト\n\nAI学習禁止🚫　無断転載禁止🚫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 8,
+                "tag": "リジ絵クト"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Rejectionreac…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Rejectionreaction/shorts",
+                "start": 0,
+                "url": "https://t.co/QG1mbufRUh"
+              }
+            ]
+          }
+        },
+        "id": "1778700125944381440",
+        "name": "拒否",
+        "pinned_tweet_id": "1887030189164818722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820261973239754752/7rxYTk0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8744,
+          "following_count": 62,
+          "like_count": 8473,
+          "listed_count": 24,
+          "media_count": 170,
+          "tweet_count": 479
+        },
+        "url": "https://t.co/QG1mbufRUh",
+        "username": "_adip0cere",
+        "verified": false
+      }
+    ]
+  }
+}

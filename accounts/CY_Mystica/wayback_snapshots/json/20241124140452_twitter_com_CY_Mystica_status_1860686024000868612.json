@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1860671429374529881",
+    "created_at": "2024-11-24T14:04:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T15:04:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860686024000868612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1695751005122822144",
+          "start": 0,
+          "username": "suihuayu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860686024000868612",
+    "in_reply_to_user_id": "1695751005122822144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860671429374529881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suihuayu 小药片，嚼嚼嚼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1860671429374529881",
+        "created_at": "2024-11-24T14:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T15:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860686024000868612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695751005122822144",
+              "start": 0,
+              "username": "suihuayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860686024000868612",
+        "in_reply_to_user_id": "1695751005122822144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860671429374529881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suihuayu 小药片，嚼嚼嚼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860671424316203008"
+          ]
+        },
+        "author_id": "1695751005122822144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1860671429374529881",
+        "created_at": "2024-11-24T13:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T14:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860671429374529881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JQ132emrge",
+              "end": 23,
+              "expanded_url": "https://x.com/suihuayu/status/1860671429374529881/photo/1",
+              "media_key": "3_1860671424316203008",
+              "start": 0,
+              "url": "https://t.co/JQ132emrge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860671429374529881",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JQ132emrge"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵04 | entp |暂时不 od | 暂时不自伤 | 精神病 | 友跨顺女 |互fo| 消费主义 | 中文/Eng/ITA🩵",
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "下弦月🌙",
+        "pinned_tweet_id": "1857858417190383709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841172907072110593/alcfl7zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 355,
+          "like_count": 604,
+          "listed_count": 0,
+          "tweet_count": 631
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-27T10:52:08.000Z",
+        "description": "亲爱的 @yingjingouo 🧣☃️🐚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "yingjingouo"
+              }
+            ]
+          }
+        },
+        "id": "1695751005122822144",
+        "location": "废人部",
+        "name": "冬眠雨",
+        "pinned_tweet_id": "1853012257111683303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840979050355179520/hVOXz-WL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2713,
+          "following_count": 1818,
+          "like_count": 4882,
+          "listed_count": 8,
+          "tweet_count": 3822
+        },
+        "username": "suihuayu",
+        "verified": false
+      }
+    ]
+  }
+}

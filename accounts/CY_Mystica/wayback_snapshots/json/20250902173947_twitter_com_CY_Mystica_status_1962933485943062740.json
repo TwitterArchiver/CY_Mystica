@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1962932389170315754",
+    "created_at": "2025-09-02T17:39:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T18:39:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962933485943062740"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1962933485943062740",
+    "in_reply_to_user_id": "1124658845664653314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962932389170315754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦对了，弦月是玻璃心，被说了就会心碎碎然后素质降低300%，不要骂我我只会一边哭一边骂你祖宗十八代呜呜，请爱护脆弱的月"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1962932389170315754",
+        "created_at": "2025-09-02T17:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T18:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962933485943062740"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962933485943062740",
+        "in_reply_to_user_id": "1124658845664653314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962932389170315754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦对了，弦月是玻璃心，被说了就会心碎碎然后素质降低300%，不要骂我我只会一边哭一边骂你祖宗十八代呜呜，请爱护脆弱的月"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1962932389170315754",
+        "created_at": "2025-09-02T17:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T18:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962932389170315754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 57,
+              "id": "1960026902418321408",
+              "start": 44,
+              "username": "Drugs_Kitten"
+            },
+            {
+              "end": 70,
+              "id": "1893688350076542976",
+              "start": 58,
+              "username": "drug_artist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962932389170315754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 57,
+                "id": "1960026902418321408",
+                "start": 44,
+                "username": "Drugs_Kitten"
+              },
+              {
+                "end": 70,
+                "id": "1893688350076542976",
+                "start": 58,
+                "username": "drug_artist"
+              }
+            ]
+          },
+          "text": "发个自介2.0\n我是弦月，也是药物百科的副wiki主，月是崇尚和平的人不想参与任何纷争。@Drugs_Kitten @drug_artist 以及编辑组里的所有人都是我的好朋友，我没有等级观念，不分高低贵贱，我只为维护我的朋友也只为爱发电，我想为我的朋友付出一切。各种互爆背刺只让月觉得恶心和无比幼稚。以及大家主动一步和我说句话，我也想成为你们的朋友。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "发个自介2.0\n我是弦月，也是药物百科的副wiki主，月是崇尚和平的人不想参与任何纷争。@Drugs_Kitten @drug_artist"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od |ed |自伤 | 中文/Eng/Ita/ESP🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 42,
+                "tag": "shtwt"
+              },
+              {
+                "end": 57,
+                "start": 49,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1962932389170315754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1450,
+          "following_count": 273,
+          "like_count": 1517,
+          "listed_count": 3,
+          "media_count": 144,
+          "tweet_count": 1748
+        },
+        "username": "CY_Mystica",
+        "verified": true
+      }
+    ]
+  }
+}

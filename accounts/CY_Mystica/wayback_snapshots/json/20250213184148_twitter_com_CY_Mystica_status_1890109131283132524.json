@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1890109129966166016"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "1890109131283132524",
+    "created_at": "2025-02-13T18:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T19:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890109131283132524"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1890109131283132524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明晚o什么？"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2025-02-14T18:41:47.000Z",
+        "id": "1890109129966166016",
+        "options": [
+          {
+            "label": "普瑞",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "白兔",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "愈美",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "氯硝吃死拉倒",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1890109129966166016"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "conversation_id": "1890109131283132524",
+        "created_at": "2025-02-13T18:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T19:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890109131283132524"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890109131283132524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明晚o什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵可以叫我弦月/小月 | od | 自伤 | 我想和你交朋友我们互fo吧 | 除了阴暗地雷男不要跟我搞黄 |中文/Eng/ITA🩵#shtwt #drugtwt @kagengetsu_1备用",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 65,
+                "tag": "shtwt"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889935829856038912/G_-6TXsi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 389,
+          "like_count": 732,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 928
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      }
+    ]
+  }
+}

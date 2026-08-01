@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1822482356868923635",
+    "created_at": "2024-08-11T03:57:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T04:57:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822482356868923635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1447999603320754178",
+          "start": 3,
+          "username": "TATTOO74502784"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822482356868923635",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822229111089111048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TATTOO74502784: 《陈美娇我爱死你了》\n美娇如同垃圾一般被一群精神小伙拽来拽去，上一个人的鸡吧还没在美娇的烂逼里捂热，下一个就推搡着把鸡吧插进美娇的体内。精神小伙们高声喊着“陈美娇我爱死你了”但美娇没有回应，甚至连呻吟声都没有，因为美娇的口腔如同她的烂逼一…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1822482356868923635].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1822482356868923635",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1822482356868923635"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1822228578307547138",
+            "7_1822228623341834240",
+            "7_1822228771388227584",
+            "7_1822228941345615874"
+          ]
+        },
+        "author_id": "1447999603320754178",
+        "conversation_id": "1822229111089111048",
+        "created_at": "2024-08-10T11:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T12:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822229111089111048"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 137,
+              "start": 132,
+              "tag": "精神小伙"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "群p"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3fbzillu4e",
+              "end": 165,
+              "expanded_url": "https://twitter.com/TATTOO74502784/status/1822229111089111048/video/1",
+              "media_key": "7_1822228578307547138",
+              "start": 142,
+              "url": "https://t.co/3fbZiLlu4E"
+            },
+            {
+              "display_url": "pic.x.com/3fbzillu4e",
+              "end": 165,
+              "expanded_url": "https://twitter.com/TATTOO74502784/status/1822229111089111048/video/1",
+              "media_key": "7_1822228623341834240",
+              "start": 142,
+              "url": "https://t.co/3fbZiLlu4E"
+            },
+            {
+              "display_url": "pic.x.com/3fbzillu4e",
+              "end": 165,
+              "expanded_url": "https://twitter.com/TATTOO74502784/status/1822229111089111048/video/1",
+              "media_key": "7_1822228771388227584",
+              "start": 142,
+              "url": "https://t.co/3fbZiLlu4E"
+            },
+            {
+              "display_url": "pic.x.com/3fbzillu4e",
+              "end": 165,
+              "expanded_url": "https://twitter.com/TATTOO74502784/status/1822229111089111048/video/1",
+              "media_key": "7_1822228941345615874",
+              "start": 142,
+              "url": "https://t.co/3fbZiLlu4E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822229111089111048",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2664,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "《陈美娇我爱死你了》\n美娇如同垃圾一般被一群精神小伙拽来拽去，上一个人的鸡吧还没在美娇的烂逼里捂热，下一个就推搡着把鸡吧插进美娇的体内。精神小伙们高声喊着“陈美娇我爱死你了”但美娇没有回应，甚至连呻吟声都没有，因为美娇的口腔如同她的烂逼一样，被人争抢着，撞击着。\n#精神小伙 #群p https://t.co/3fbZiLlu4E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "04年小母狗",
+        "id": "1124658845664653314",
+        "name": "下弦月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 211,
+          "like_count": 95,
+          "listed_count": 0,
+          "tweet_count": 110
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-12T18:56:27.000Z",
+        "description": "浙江 \n纹身 穿刺",
+        "id": "1447999603320754178",
+        "location": "浙江,",
+        "name": "会死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815170192068206592/DSw2hieR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 0,
+          "like_count": 52,
+          "listed_count": 5,
+          "tweet_count": 43
+        },
+        "username": "TATTOO74502784",
+        "verified": false
+      }
+    ]
+  }
+}

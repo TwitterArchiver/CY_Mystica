@@ -1,0 +1,103 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1829507312329076736"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1829507320814133299",
+    "created_at": "2024-08-30T13:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-30T14:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1829507320814133299"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/p4nkwl1gm5",
+          "end": 26,
+          "expanded_url": "https://twitter.com/CY_Mystica/status/1829507320814133299/photo/1",
+          "media_key": "3_1829507312329076736",
+          "start": 3,
+          "url": "https://t.co/P4nkwl1GM5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829507320814133299",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哇呜 https://t.co/P4nkwl1GM5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1829507320814133299].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1829507320814133299",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1829507320814133299"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_1829507312329076736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWO3NRlasAAzhaS.jpg",
+        "width": 1179
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "纯疯 | 纯变态 | 纯好色 |",
+        "id": "1124658845664653314",
+        "name": "下弦月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 288,
+          "like_count": 103,
+          "listed_count": 0,
+          "tweet_count": 163
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      }
+    ]
+  }
+}

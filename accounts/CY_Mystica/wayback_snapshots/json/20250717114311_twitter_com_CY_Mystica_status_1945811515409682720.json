@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1945782986877878633",
+    "created_at": "2025-07-17T11:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T12:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945811515409682720"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "萌萌萌",
+          "probability": 0.4534,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1833270666629611520",
+          "start": 0,
+          "username": "Artemis522387"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945811515409682720",
+    "in_reply_to_user_id": "1833270666629611520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945782986877878633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Artemis522387 萌萌萌＞＜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1945782971975536640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwDPTcabEAAbibX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1945782986877878633",
+        "created_at": "2025-07-17T11:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T12:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945811515409682720"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "萌萌萌",
+              "probability": 0.4534,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1833270666629611520",
+              "start": 0,
+              "username": "Artemis522387"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945811515409682720",
+        "in_reply_to_user_id": "1833270666629611520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945782986877878633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Artemis522387 萌萌萌＞＜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945782971975536640"
+          ]
+        },
+        "author_id": "1833270666629611520",
+        "conversation_id": "1945782986877878633",
+        "created_at": "2025-07-17T09:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T10:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945782986877878633"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 3,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 18,
+              "start": 10,
+              "tag": "いいねでお迎え"
+            },
+            {
+              "end": 31,
+              "start": 19,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 44,
+              "start": 32,
+              "tag": "地雷系女子と繋がりたい"
+            },
+            {
+              "end": 57,
+              "start": 45,
+              "tag": "地雷系の人と繋がりたい"
+            },
+            {
+              "end": 70,
+              "start": 58,
+              "tag": "病み垢さんフォロバする"
+            },
+            {
+              "end": 84,
+              "start": 71,
+              "tag": "病み垢さんと仲良くしたい"
+            },
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "病み垢"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jWMyIWchjy",
+              "end": 113,
+              "expanded_url": "https://x.com/Artemis522387/status/1945782986877878633/photo/1",
+              "media_key": "3_1945782971975536640",
+              "start": 90,
+              "url": "https://t.co/jWMyIWchjy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945782986877878633",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "愛\n\n#自撮り界隈 #いいねでお迎え #病み垢さんと繋がりたい #地雷系女子と繋がりたい #地雷系の人と繋がりたい #病み垢さんフォロバする #病み垢さんと仲良くしたい #病み垢 https://t.co/jWMyIWchjy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od | 自伤 | 中文/Eng/Ita🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 35,
+                "tag": "shtwt"
+              },
+              {
+                "end": 50,
+                "start": 42,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "kagengetsu_1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/3odqfj904d"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1909306355841957952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 250,
+          "like_count": 1135,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 1416
+        },
+        "url": "https://t.co/3odqfj904d",
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T22:26:15.000Z",
+        "description": "小萱｜ENTP｜sub｜163/46｜双相｜od｜白傷｜ed｜小女孩互fo大歡迎｜地雷糸｜愛我請打錢",
+        "id": "1833270666629611520",
+        "location": "天堂",
+        "name": "Artemis",
+        "pinned_tweet_id": "1879373494875812139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932828641777549312/_b9Heipt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 141,
+          "like_count": 1788,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 385
+        },
+        "username": "Artemis522387",
+        "verified": false
+      }
+    ]
+  }
+}

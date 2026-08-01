@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948463282047619072",
+        "3_1948463282047598592"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "1948463299961782491",
+    "created_at": "2025-07-24T19:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T20:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948463299961782491"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fafnbE0bqj",
+          "end": 40,
+          "expanded_url": "https://x.com/CY_Mystica/status/1948463299961782491/photo/1",
+          "media_key": "3_1948463282047619072",
+          "start": 17,
+          "url": "https://t.co/fafnbE0bqj"
+        },
+        {
+          "display_url": "pic.x.com/fafnbE0bqj",
+          "end": 40,
+          "expanded_url": "https://x.com/CY_Mystica/status/1948463299961782491/photo/1",
+          "media_key": "3_1948463282047598592",
+          "start": 17,
+          "url": "https://t.co/fafnbE0bqj"
+        },
+        {
+          "display_url": "x.com/cy_mystica/sta…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/cy_mystica/status/1948418285088956743",
+          "start": 41,
+          "url": "https://t.co/5U6osJ4yZU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948463299961782491",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948418285088956743",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有人愿意加入弦月的永生极乐世界吗 https://t.co/fafnbE0bqj https://t.co/5U6osJ4yZU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1890,
+        "media_key": "3_1948463282047619072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwpVCBhXEAAQZ40.jpg",
+        "width": 1026
+      },
+      {
+        "height": 680,
+        "media_key": "3_1948463282047598592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwpVCBhWwAAGpec.jpg",
+        "width": 1006
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948463282047619072",
+            "3_1948463282047598592"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "conversation_id": "1948463299961782491",
+        "created_at": "2025-07-24T19:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T20:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948463299961782491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fafnbE0bqj",
+              "end": 40,
+              "expanded_url": "https://x.com/CY_Mystica/status/1948463299961782491/photo/1",
+              "media_key": "3_1948463282047619072",
+              "start": 17,
+              "url": "https://t.co/fafnbE0bqj"
+            },
+            {
+              "display_url": "pic.x.com/fafnbE0bqj",
+              "end": 40,
+              "expanded_url": "https://x.com/CY_Mystica/status/1948463299961782491/photo/1",
+              "media_key": "3_1948463282047598592",
+              "start": 17,
+              "url": "https://t.co/fafnbE0bqj"
+            },
+            {
+              "display_url": "x.com/cy_mystica/sta…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/cy_mystica/status/1948418285088956743",
+              "start": 41,
+              "url": "https://t.co/5U6osJ4yZU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948463299961782491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948418285088956743",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人愿意加入弦月的永生极乐世界吗 https://t.co/fafnbE0bqj https://t.co/5U6osJ4yZU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1948418285088956743",
+        "created_at": "2025-07-24T16:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T17:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948418285088956743"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948418285088956743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "和朋友探讨就业问题，讨论出一个新方向，可以完美解决丧葬方式不够创新，死后会腐烂容颜不保，担心自己遗照太丑的问题：把骨灰重塑成人像，有需要可以把骨架和内脏也捏出来，可以按照死者喜好调整建模，亲属有需要的话加钱可以自己制作。某种意义上自己的骨灰做的人像摆在那也算是永生了，有人入股吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od | 自伤 | 中文/Eng/Ita🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 35,
+                "tag": "shtwt"
+              },
+              {
+                "end": 50,
+                "start": 42,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "kagengetsu_1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/3odqfj904d"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1909306355841957952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 250,
+          "like_count": 1141,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1419
+        },
+        "url": "https://t.co/3odqfj904d",
+        "username": "CY_Mystica",
+        "verified": false
+      }
+    ]
+  }
+}

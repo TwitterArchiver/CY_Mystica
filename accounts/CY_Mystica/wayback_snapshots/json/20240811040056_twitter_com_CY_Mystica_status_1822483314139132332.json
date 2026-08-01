@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1819044185745313792"
+      ],
+      "media_source_tweet_id": [
+        "1819044637895745947"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "1822483314139132332",
+    "created_at": "2024-08-11T04:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T05:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822483314139132332"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 31,
+          "tag": "拳交"
+        },
+        {
+          "end": 38,
+          "start": 35,
+          "tag": "异物"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1345369834050215936",
+          "start": 3,
+          "username": "babbygiao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7ffxw3bwfm",
+          "end": 73,
+          "expanded_url": "https://twitter.com/babbygiao/status/1819044637895745947/video/1",
+          "media_key": "7_1819044185745313792",
+          "start": 50,
+          "url": "https://t.co/7fFxW3bwFm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822483314139132332",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819044637895745947",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @babbygiao: 能吞鞋子的烂逼 还有什么不能装 ＃拳交 ＃异物 更多视频解锁电报群🤩 https://t.co/7fFxW3bwFm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1822483314139132332].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1822483314139132332",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1822483314139132332"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9100,
+        "height": 960,
+        "media_key": "7_1819044185745313792",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1819044185745313792/pu/img/iwN4oiOMZySXjYbz.jpg",
+        "public_metrics": {
+          "view_count": 13634
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1819044185745313792/pu/vid/avc1/320x426/Hu_WiEgARR1j5Z5r.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1819044185745313792/pu/vid/avc1/480x640/AK_5umyeXnwMYVMI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1819044185745313792/pu/vid/avc1/720x960/9EYUM_0KwvPOyhxv.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1819044185745313792/pu/pl/lUNnq06ATk9f7Wk0.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1819044185745313792"
+          ]
+        },
+        "author_id": "1345369834050215936",
+        "conversation_id": "1819044637895745947",
+        "created_at": "2024-08-01T16:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T17:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819044637895745947"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "拳交"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "异物"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ffxw3bwfm",
+              "end": 58,
+              "expanded_url": "https://twitter.com/babbygiao/status/1819044637895745947/video/1",
+              "media_key": "7_1819044185745313792",
+              "start": 35,
+              "url": "https://t.co/7fFxW3bwFm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819044637895745947",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 34355,
+          "like_count": 447,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "能吞鞋子的烂逼 还有什么不能装 ＃拳交 ＃异物 更多视频解锁电报群🤩 https://t.co/7fFxW3bwFm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "04年小母狗",
+        "id": "1124658845664653314",
+        "name": "下弦月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 212,
+          "like_count": 95,
+          "listed_count": 0,
+          "tweet_count": 112
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-02T14:02:29.000Z",
+        "description": "🔝有🚪/电报群🍃原创 拳交",
+        "id": "1345369834050215936",
+        "name": "野生北鼻giao",
+        "pinned_tweet_id": "1814120358909448489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1363295950421204994/bzccsm0O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69023,
+          "following_count": 26,
+          "like_count": 754,
+          "listed_count": 290,
+          "tweet_count": 360
+        },
+        "username": "babbygiao",
+        "verified": false
+      }
+    ]
+  }
+}

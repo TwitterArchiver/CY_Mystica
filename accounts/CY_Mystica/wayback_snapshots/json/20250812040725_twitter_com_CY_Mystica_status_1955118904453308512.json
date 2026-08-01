@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1955115730606932272",
+    "created_at": "2025-08-12T04:07:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T05:07:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955118904453308512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1760204098731913216",
+          "start": 0,
+          "username": "KateamineR23573"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955118904453308512",
+    "in_reply_to_user_id": "1760204098731913216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955115730606932272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KateamineR23573 那很兴奋了x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 724,
+        "media_key": "3_1955115506672996353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyH3MdYaEAEFIgZ.jpg",
+        "width": 868
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1955115730606932272",
+        "created_at": "2025-08-12T04:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T05:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955118904453308512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1760204098731913216",
+              "start": 0,
+              "username": "KateamineR23573"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955118904453308512",
+        "in_reply_to_user_id": "1760204098731913216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955115730606932272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KateamineR23573 那很兴奋了x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955115506672996353"
+          ]
+        },
+        "author_id": "1760204098731913216",
+        "conversation_id": "1955115730606932272",
+        "created_at": "2025-08-12T03:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T04:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955115730606932272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XRfVmeQ7DN",
+              "end": 29,
+              "expanded_url": "https://x.com/KateamineR23573/status/1955115730606932272/photo/1",
+              "media_key": "3_1955115506672996353",
+              "start": 6,
+              "url": "https://t.co/XRfVmeQ7DN"
+            },
+            {
+              "display_url": "x.com/CY_Mystica/sta…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/CY_Mystica/status/1954869865145364940",
+              "start": 30,
+              "url": "https://t.co/cOgQ4GjePx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955115730606932272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954869865145364940",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有點偏科😮 https://t.co/XRfVmeQ7DN https://t.co/cOgQ4GjePx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od | 自伤 | 中文/Eng/Ita🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 35,
+                "tag": "shtwt"
+              },
+              {
+                "end": 50,
+                "start": 42,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1954639888181252378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 253,
+          "like_count": 1192,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1464
+        },
+        "username": "CY_Mystica",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-21T07:25:46.000Z",
+        "description": "新的telegram頻道：https://t.co/ZEhFTicuiJ\n想成爲偶像藝人。努力擁有10萬粉！！。我永遠永遠不會有任何問粉絲收錢的狀況，如果有人說是我要收錢怎樣怎樣，那就是壞人假扮我要騙你。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+XekiigLpGvpkN…",
+                "end": 36,
+                "expanded_url": "https://t.me/+XekiigLpGvpkNzFi",
+                "start": 13,
+                "url": "https://t.co/ZEhFTicuiJ"
+              }
+            ]
+          }
+        },
+        "id": "1760204098731913216",
+        "location": "台灣",
+        "name": "Kateamine-reblog",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760210871693758464/ahTI1T72_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17729,
+          "following_count": 93,
+          "like_count": 155,
+          "listed_count": 35,
+          "media_count": 138,
+          "tweet_count": 1629
+        },
+        "username": "KateamineR23573",
+        "verified": false
+      }
+    ]
+  }
+}

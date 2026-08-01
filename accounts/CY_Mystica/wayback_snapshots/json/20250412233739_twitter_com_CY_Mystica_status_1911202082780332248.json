@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1910912853323702783",
+    "created_at": "2025-04-12T23:37:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T00:37:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911202082780332248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1867639848569372672",
+          "start": 0,
+          "username": "overdose_day"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911202082780332248",
+    "in_reply_to_user_id": "1867639848569372672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910912853323702783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_day 成本太高了吧买这玩意不如一张机票出国了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_1910912837603524608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoTtGfIXgAAaq9U.jpg",
+        "width": 750
+      },
+      {
+        "height": 1334,
+        "media_key": "3_1910912837628649472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoTtGfOW4AAVFZs.jpg",
+        "width": 750
+      },
+      {
+        "height": 1334,
+        "media_key": "3_1910912837611888640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoTtGfKXIAA9Dyk.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1910912853323702783",
+        "created_at": "2025-04-12T23:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T00:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911202082780332248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1867639848569372672",
+              "start": 0,
+              "username": "overdose_day"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911202082780332248",
+        "in_reply_to_user_id": "1867639848569372672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910912853323702783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_day 成本太高了吧买这玩意不如一张机票出国了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910912837603524608",
+            "3_1910912837628649472",
+            "3_1910912837611888640"
+          ]
+        },
+        "author_id": "1867639848569372672",
+        "conversation_id": "1910912853323702783",
+        "created_at": "2025-04-12T04:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T05:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910912853323702783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i8I5kkuEZO",
+              "end": 121,
+              "expanded_url": "https://x.com/overdose_day/status/1910912853323702783/photo/1",
+              "media_key": "3_1910912837603524608",
+              "start": 98,
+              "url": "https://t.co/i8I5kkuEZO"
+            },
+            {
+              "display_url": "pic.x.com/i8I5kkuEZO",
+              "end": 121,
+              "expanded_url": "https://x.com/overdose_day/status/1910912853323702783/photo/1",
+              "media_key": "3_1910912837628649472",
+              "start": 98,
+              "url": "https://t.co/i8I5kkuEZO"
+            },
+            {
+              "display_url": "pic.x.com/i8I5kkuEZO",
+              "end": 121,
+              "expanded_url": "https://x.com/overdose_day/status/1910912853323702783/photo/1",
+              "media_key": "3_1910912837611888640",
+              "start": 98,
+              "url": "https://t.co/i8I5kkuEZO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910912853323702783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 705,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你能在中国冒着风险去买氯氨酮\n但是你不一定能买到笨环利定\n本站祝你一臂之力\n富哥直接上，PCP 也称为苯环利定 又叫天使尘，这个是类似物，能直接在化工网下单购买，比氯氨酮稀有，更好用……推荐收藏 https://t.co/i8I5kkuEZO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵可以叫我弦月/小月 | od | 自伤 | 中文/Eng/Ita🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 34,
+                "tag": "shtwt"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1909306355841957952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909306831178194944/cenS1HtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 237,
+          "like_count": 1089,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1260
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T18:37:15.000Z",
+        "description": "化学极乐百科🧪 未来可能会倒闭，但绝不会变味",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/W009AsBfUr"
+              }
+            ]
+          }
+        },
+        "id": "1867639848569372672",
+        "name": "化学极乐百科⚛️",
+        "pinned_tweet_id": "1909494318605517140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909493731260289024/ezggnfUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 247,
+          "like_count": 95,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 117
+        },
+        "url": "https://t.co/W009AsBfUr",
+        "username": "overdose_day",
+        "verified": false
+      }
+    ]
+  }
+}

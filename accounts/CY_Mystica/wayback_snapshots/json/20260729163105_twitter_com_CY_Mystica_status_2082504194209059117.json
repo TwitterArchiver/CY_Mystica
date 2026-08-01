@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "2082194424944099475",
+    "created_at": "2026-07-29T16:31:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T17:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082504194209059117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1696052171538886656",
+          "start": 0,
+          "username": "s3861236318323"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082504194209059117",
+    "in_reply_to_user_id": "1696052171538886656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082194424944099475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s3861236318323 啧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2082194375761682432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOVwwLiXYAA-bfT.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2082194375711338496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOVwwLWXMAAebxm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2082194375765889024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOVwwLjXkAAwazv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "2082194424944099475",
+        "created_at": "2026-07-29T16:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082504194209059117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1696052171538886656",
+              "start": 0,
+              "username": "s3861236318323"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082504194209059117",
+        "in_reply_to_user_id": "1696052171538886656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082194424944099475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s3861236318323 啧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082194375761682432",
+            "3_2082194375711338496",
+            "3_2082194375765889024"
+          ]
+        },
+        "author_id": "1696052171538886656",
+        "conversation_id": "2082194424944099475",
+        "created_at": "2026-07-28T20:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T21:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082194424944099475"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "健身"
+            },
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "健身新手"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aUB6NrEGQZ",
+              "end": 45,
+              "expanded_url": "https://x.com/s3861236318323/status/2082194424944099475/photo/1",
+              "media_key": "3_2082194375761682432",
+              "start": 22,
+              "url": "https://t.co/aUB6NrEGQZ"
+            },
+            {
+              "display_url": "pic.x.com/aUB6NrEGQZ",
+              "end": 45,
+              "expanded_url": "https://x.com/s3861236318323/status/2082194424944099475/photo/1",
+              "media_key": "3_2082194375711338496",
+              "start": 22,
+              "url": "https://t.co/aUB6NrEGQZ"
+            },
+            {
+              "display_url": "pic.x.com/aUB6NrEGQZ",
+              "end": 45,
+              "expanded_url": "https://x.com/s3861236318323/status/2082194424944099475/photo/1",
+              "media_key": "3_2082194375765889024",
+              "start": 22,
+              "url": "https://t.co/aUB6NrEGQZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082194424944099475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "肌肉照可以发一发  #健身   #健身新手 https://t.co/aUB6NrEGQZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵我是下弦月丨中文/ENG/ITA/ESP丨💊🔪🩸丨创世神🌙",
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 256,
+          "like_count": 1696,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 2028
+        },
+        "url": "",
+        "username": "CY_Mystica",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-28T06:48:57.000Z",
+        "description": "🫢",
+        "id": "1696052171538886656",
+        "name": "s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055362879176478720/sSAAywH5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 172,
+          "like_count": 576,
+          "listed_count": 5,
+          "media_count": 7,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "s3861236318323",
+        "verified": false
+      }
+    ]
+  }
+}

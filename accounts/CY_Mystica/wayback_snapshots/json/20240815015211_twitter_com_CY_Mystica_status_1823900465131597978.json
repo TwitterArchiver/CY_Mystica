@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1779321550627622912"
+      ],
+      "media_source_tweet_id": [
+        "1779321633196646573"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "1823900465131597978",
+    "created_at": "2024-08-15T01:52:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T02:52:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823900465131597978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1542834015731957760",
+          "start": 3,
+          "username": "Sabrina96061096"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uekunvkka2",
+          "end": 133,
+          "expanded_url": "https://twitter.com/Sabrina96061096/status/1779321633196646573/video/1",
+          "media_key": "7_1779321550627622912",
+          "start": 110,
+          "url": "https://t.co/uEKuNvKKa2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823900465131597978",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2131
+    },
+    "referenced_tweets": [
+      {
+        "id": "1779321633196646573",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @Sabrina96061096: 你们有被操到怕的时候吗？肌肉教练把体育生操了一个小时.操得白沫横流.接着到我操了.骚逼开始逃跑.抓住他操得一直喊不要不要.操尿.有多少0旱死床没人操.真的是旱的旱死.涝的涝死！ https://t.co/uEKuNvKKa2"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1823900465131597978].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1823900465131597978",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1823900465131597978"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 140000,
+        "height": 824,
+        "media_key": "7_1779321550627622912",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1779321550627622912/pu/img/G3GUv5OYfPpdAm4v.jpg",
+        "public_metrics": {
+          "view_count": 189120
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1779321550627622912/pu/vid/avc1/320x366/Hm1rUyrH2uqGPO7O.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1779321550627622912/pu/vid/avc1/480x548/1KPwxO-UuQNHkuWl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1779321550627622912/pu/vid/avc1/720x824/QVx9_hBNobl7DfHw.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1779321550627622912/pu/pl/nVyhcmqV1YUAaLcf.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1779321550627622912"
+          ]
+        },
+        "author_id": "1542834015731957760",
+        "conversation_id": "1779321633196646573",
+        "created_at": "2024-04-14T01:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-04-14T02:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1779321633196646573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uekunvkka2",
+              "end": 112,
+              "expanded_url": "https://twitter.com/Sabrina96061096/status/1779321633196646573/video/1",
+              "media_key": "7_1779321550627622912",
+              "start": 89,
+              "url": "https://t.co/uEKuNvKKa2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1779321633196646573",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1367,
+          "impression_count": 586932,
+          "like_count": 9819,
+          "quote_count": 7,
+          "reply_count": 24,
+          "retweet_count": 2131
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "你们有被操到怕的时候吗？肌肉教练把体育生操了一个小时.操得白沫横流.接着到我操了.骚逼开始逃跑.抓住他操得一直喊不要不要.操尿.有多少0旱死床没人操.真的是旱的旱死.涝的涝死！ https://t.co/uEKuNvKKa2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "04年小母狗",
+        "id": "1124658845664653314",
+        "name": "下弦月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 225,
+          "like_count": 97,
+          "listed_count": 0,
+          "tweet_count": 124
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-01T11:34:40.000Z",
+        "description": "1M，186。有对象",
+        "id": "1542834015731957760",
+        "name": "性瘾患者",
+        "pinned_tweet_id": "1776973622617465248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762911991809851392/2S6jqfLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126892,
+          "following_count": 33,
+          "like_count": 151,
+          "listed_count": 143,
+          "tweet_count": 1389
+        },
+        "username": "Sabrina96061096",
+        "verified": false
+      }
+    ]
+  }
+}

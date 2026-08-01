@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1884286125243785281",
+    "created_at": "2025-01-28T17:55:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T18:55:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884299365663289590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1234958678010322944",
+          "start": 0,
+          "username": "Auyyds9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884299365663289590",
+    "in_reply_to_user_id": "1234958678010322944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884299189380866204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Auyyds9 包的包割你脖子的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1884286125243785281",
+        "created_at": "2025-01-28T17:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T18:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884299365663289590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1234958678010322944",
+              "start": 0,
+              "username": "Auyyds9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884299365663289590",
+        "in_reply_to_user_id": "1234958678010322944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884299189380866204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Auyyds9 包的包割你脖子的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1234958678010322944",
+        "conversation_id": "1884286125243785281",
+        "created_at": "2025-01-28T17:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T18:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884299189380866204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1124658845664653314",
+              "start": 0,
+              "username": "CY_Mystica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884299189380866204",
+        "in_reply_to_user_id": "1124658845664653314",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884286125243785281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CY_Mystica 下次割脖子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵04 | entp |od | 自伤 | 精神病 | 友跨顺女 |互fo| 消费主义 | 中文/Eng/ITA🩵@kagengetsu_1备用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 57,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "下弦月🌙",
+        "pinned_tweet_id": "1883837664627204155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870479498816471040/3RK8JhWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 380,
+          "like_count": 640,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 816
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-03T21:47:56.000Z",
+        "description": "🈶冰",
+        "id": "1234958678010322944",
+        "location": "成都",
+        "name": "川岛骡子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822461805752627201/R8NweMzt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 1951,
+          "like_count": 1502,
+          "listed_count": 4,
+          "media_count": 6,
+          "tweet_count": 396
+        },
+        "username": "Auyyds9",
+        "verified": false
+      }
+    ]
+  }
+}

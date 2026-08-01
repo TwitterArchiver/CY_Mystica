@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906900960078970880"
+      ],
+      "media_source_tweet_id": [
+        "1906901242263286265"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "1907473561494904986",
+    "created_at": "2025-04-02T16:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T17:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907473561494904986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1638704176405561344",
+          "start": 3,
+          "username": "meizi_cat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C0c22hA70U",
+          "end": 53,
+          "expanded_url": "https://x.com/meizi_cat/status/1906901242263286265/photo/1",
+          "media_key": "3_1906900960078970880",
+          "start": 30,
+          "url": "https://t.co/C0c22hA70U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907473561494904986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906901242263286265",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meizi_cat: 讨厌小牌大耍 水课严讲的贱人 https://t.co/C0c22hA70U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 314,
+        "media_key": "3_1906900960078970880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnasUetbwAAcDjJ.jpg",
+        "width": 430
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906900960078970880"
+          ],
+          "media_source_tweet_id": [
+            "1906901242263286265"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "conversation_id": "1907473561494904986",
+        "created_at": "2025-04-02T16:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T17:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907473561494904986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1638704176405561344",
+              "start": 3,
+              "username": "meizi_cat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C0c22hA70U",
+              "end": 53,
+              "expanded_url": "https://x.com/meizi_cat/status/1906901242263286265/photo/1",
+              "media_key": "3_1906900960078970880",
+              "start": 30,
+              "url": "https://t.co/C0c22hA70U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907473561494904986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906901242263286265",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meizi_cat: 讨厌小牌大耍 水课严讲的贱人 https://t.co/C0c22hA70U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906900960078970880"
+          ]
+        },
+        "author_id": "1638704176405561344",
+        "conversation_id": "1906901242263286265",
+        "created_at": "2025-04-01T02:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T03:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906901242263286265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C0c22hA70U",
+              "end": 38,
+              "expanded_url": "https://x.com/meizi_cat/status/1906901242263286265/photo/1",
+              "media_key": "3_1906900960078970880",
+              "start": 15,
+              "url": "https://t.co/C0c22hA70U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906901242263286265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 38154,
+          "like_count": 581,
+          "quote_count": 3,
+          "reply_count": 25,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "讨厌小牌大耍 水课严讲的贱人 https://t.co/C0c22hA70U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵可以叫我弦月/小月 | od | 自伤 | 中文/Eng/Ita🩵#shtwt #drugtwt @kagengetsu_1备用",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 34,
+                "tag": "shtwt"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1897574381595017705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907112349741228033/SPTcOo1Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 224,
+          "like_count": 1038,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1176
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T00:48:33.000Z",
+        "description": "欢迎来看小猫的碎碎念😋😋爱看的话我们就是好朋友啦🥰🥰不爱看的话窝就艹亖泥😋😋ENFP | iiii | 喜欢年上姐姐 | 窝药成为电子宠物😽😽欢迎私信我和我做好朋友🥹🥹使用窝的提问箱：https://t.co/8X6KfiMarl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/meizi_cat",
+                "end": 115,
+                "expanded_url": "https://ngl.link/meizi_cat",
+                "start": 92,
+                "url": "https://t.co/8X6KfiMarl"
+              }
+            ]
+          }
+        },
+        "id": "1638704176405561344",
+        "location": "帝都",
+        "name": "梅᳐渍小᳐猫੭🐾",
+        "pinned_tweet_id": "1871180565170487614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857748083184119809/sNvmzjsZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 1490,
+          "like_count": 2519,
+          "listed_count": 0,
+          "media_count": 383,
+          "tweet_count": 1311
+        },
+        "username": "meizi_cat",
+        "verified": false
+      }
+    ]
+  }
+}

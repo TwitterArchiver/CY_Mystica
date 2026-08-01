@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1822481485875532278",
+    "created_at": "2024-08-11T03:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T04:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822481485875532278"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "双龙"
+        },
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "毒逼"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "无套"
+        },
+        {
+          "end": 131,
+          "start": 128,
+          "tag": "内射"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1677591965721055232",
+          "start": 3,
+          "username": "GJCMDog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822481485875532278",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 166
+    },
+    "referenced_tweets": [
+      {
+        "id": "1730429711514501540",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @GJCMDog: 被双龙一天续\n双龙了一天 被4个民工叔叔轮奸 其中三个叔叔已婚已育\n可以说都是因为长期无法得到老婆的满足的坏男人，把我玩到带着哭腔求饶\n尝试了几乎所有的双龙姿势\n这是早上在酒店4p 的时候 太投入没怎么拍 #双龙 #毒逼 #无套 #内射 https:/…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1822481485875532278].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1822481485875532278",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1822481485875532278"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1730429627192274944"
+          ]
+        },
+        "author_id": "1677591965721055232",
+        "conversation_id": "1730429711514501540",
+        "created_at": "2023-12-01T03:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2023-12-01T04:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1730429711514501540"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "双龙"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "毒逼"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "无套"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "内射"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dqkjaf2cbx",
+              "end": 142,
+              "expanded_url": "https://twitter.com/GJCMDog/status/1730429711514501540/video/1",
+              "media_key": "7_1730429627192274944",
+              "start": 119,
+              "url": "https://t.co/DQkjAF2CBx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1730429711514501540",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 131245,
+          "like_count": 1022,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 166
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "被双龙一天续\n双龙了一天 被4个民工叔叔轮奸 其中三个叔叔已婚已育\n可以说都是因为长期无法得到老婆的满足的坏男人，把我玩到带着哭腔求饶\n尝试了几乎所有的双龙姿势\n这是早上在酒店4p 的时候 太投入没怎么拍 #双龙 #毒逼 #无套 #内射 https://t.co/DQkjAF2CBx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "04年小母狗",
+        "id": "1124658845664653314",
+        "name": "下弦月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 211,
+          "like_count": 95,
+          "listed_count": 0,
+          "tweet_count": 109
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T08:14:38.000Z",
+        "description": "广州毒逼🐵 伪1骚0  配种私 找毒逼毒屌熊处对象/固炮 10皆可丨广州白云区提供免费借住丨简介/联系方式看主页嘉禾望岗置顶",
+        "id": "1677591965721055232",
+        "location": "广州",
+        "name": "食肆",
+        "pinned_tweet_id": "1765777242951684334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713956877414088707/wYIMiPid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16798,
+          "following_count": 144,
+          "like_count": 78,
+          "listed_count": 28,
+          "tweet_count": 143
+        },
+        "username": "GJCMDog",
+        "verified": false
+      }
+    ]
+  }
+}

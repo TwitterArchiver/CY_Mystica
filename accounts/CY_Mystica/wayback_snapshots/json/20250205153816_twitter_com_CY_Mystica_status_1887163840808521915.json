@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1887123943506722945",
+    "created_at": "2025-02-05T15:38:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T16:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887163840808521915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1861012887797690368",
+          "start": 0,
+          "username": "Cruel_Cruelty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887163840808521915",
+    "in_reply_to_user_id": "1861012887797690368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887123943506722945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cruel_Cruelty 我们一起快快好起来🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1887123943506722945",
+        "created_at": "2025-02-05T15:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T16:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887163840808521915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1861012887797690368",
+              "start": 0,
+              "username": "Cruel_Cruelty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887163840808521915",
+        "in_reply_to_user_id": "1861012887797690368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887123943506722945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cruel_Cruelty 我们一起快快好起来🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861012887797690368",
+        "conversation_id": "1887123943506722945",
+        "created_at": "2025-02-05T12:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T13:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887123943506722945"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1887123943506722945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要把自己的胃和精神病养好 身体健全了不去医院可以少花很多冤枉钱 至于其他能让我开心但又不伤害自己的事情哪里能叫浪费钱呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵 | od | 自伤 | 我想和你交朋友我们互fo吧 | 中文/Eng/ITA🩵#shtwt #drugtwt @kagengetsu_1备用",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 41,
+                "tag": "shtwt"
+              },
+              {
+                "end": 56,
+                "start": 48,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 70,
+                "start": 57,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1883837664627204155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870479498816471040/3RK8JhWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 378,
+          "like_count": 665,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 854
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T11:43:52.000Z",
+        "description": "她肯定她和我一样脏",
+        "id": "1861012887797690368",
+        "location": "London, England",
+        "name": "MelancholyTune",
+        "pinned_tweet_id": "1881150913429324132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886203197460774912/Lbjqpyjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 120,
+          "like_count": 1229,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 838
+        },
+        "username": "Cruel_Cruelty",
+        "verified": false
+      }
+    ]
+  }
+}

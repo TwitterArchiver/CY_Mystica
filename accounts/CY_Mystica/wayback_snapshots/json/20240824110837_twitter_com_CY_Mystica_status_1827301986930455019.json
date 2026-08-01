@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "1824765645860536451",
+    "created_at": "2024-08-24T11:08:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-24T12:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827301986930455019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1272405078683430913",
+          "start": 0,
+          "username": "PaitangOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827301986930455019",
+    "in_reply_to_user_id": "1272405078683430913",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824765645860536451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaitangOfficial 呜呜让我买让我买你不理我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "1824765645860536451",
+        "created_at": "2024-08-24T11:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T12:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827301986930455019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1272405078683430913",
+              "start": 0,
+              "username": "PaitangOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827301986930455019",
+        "in_reply_to_user_id": "1272405078683430913",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824765645860536451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaitangOfficial 呜呜让我买让我买你不理我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824765638365310976"
+          ]
+        },
+        "author_id": "1272405078683430913",
+        "conversation_id": "1824765645860536451",
+        "created_at": "2024-08-17T11:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T12:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824765645860536451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xbiewr3kap",
+              "end": 51,
+              "expanded_url": "https://twitter.com/PaitangOfficial/status/1824765645860536451/photo/1",
+              "media_key": "3_1824765638365310976",
+              "start": 28,
+              "url": "https://t.co/xbIeWR3kAp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824765645860536451",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2487,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁找我买东西睡找我买东西啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊 https://t.co/xbIeWR3kAp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "纯疯",
+        "id": "1124658845664653314",
+        "name": "下弦月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769289020100452353/bh5yB5gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 236,
+          "like_count": 97,
+          "listed_count": 0,
+          "tweet_count": 136
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "🚪98 可抵非绿 186/70 bady-fat 7-8.5%",
+        "id": "1272405078683430913",
+        "name": "🏴⬜️葉經理不是ADHD之王",
+        "pinned_tweet_id": "1826563567556121041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826679087383158784/NTFTJ9RH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8083,
+          "following_count": 392,
+          "like_count": 5447,
+          "listed_count": 24,
+          "tweet_count": 9344
+        },
+        "username": "PaitangOfficial",
+        "verified": false
+      }
+    ]
+  }
+}
