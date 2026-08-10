@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083640496761544704"
+      ],
+      "media_source_tweet_id": [
+        "2083640504445546991"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "2083815991440736664",
+    "created_at": "2026-08-02T07:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T08:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083815991440736664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1817470758349688832",
+          "start": 3,
+          "username": "can11bal"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7oomGX5Aah",
+          "end": 37,
+          "expanded_url": "https://x.com/can11bal/status/2083640504445546991/photo/1",
+          "media_key": "3_2083640496761544704",
+          "start": 14,
+          "url": "https://t.co/7oomGX5Aah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083815991440736664",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2652
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083640504445546991",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @can11bal: https://t.co/7oomGX5Aah"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 617,
+        "media_key": "3_2083640496761544704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOqT_gEXIAAWV0z.jpg",
+        "width": 997
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083640496761544704"
+          ]
+        },
+        "author_id": "1817470758349688832",
+        "conversation_id": "2083640504445546991",
+        "created_at": "2026-08-01T19:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T20:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083640504445546991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7oomGX5Aah",
+              "end": 23,
+              "expanded_url": "https://x.com/can11bal/status/2083640504445546991/photo/1",
+              "media_key": "3_2083640496761544704",
+              "start": 0,
+              "url": "https://t.co/7oomGX5Aah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083640504445546991",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1427,
+          "impression_count": 363341,
+          "like_count": 14449,
+          "quote_count": 247,
+          "reply_count": 38,
+          "retweet_count": 2652
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7oomGX5Aah"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083640496761544704"
+          ],
+          "media_source_tweet_id": [
+            "2083640504445546991"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "conversation_id": "2083815991440736664",
+        "created_at": "2026-08-02T07:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083815991440736664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1817470758349688832",
+              "start": 3,
+              "username": "can11bal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7oomGX5Aah",
+              "end": 37,
+              "expanded_url": "https://x.com/can11bal/status/2083640504445546991/photo/1",
+              "media_key": "3_2083640496761544704",
+              "start": 14,
+              "url": "https://t.co/7oomGX5Aah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083815991440736664",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2652
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083640504445546991",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @can11bal: https://t.co/7oomGX5Aah"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵我是下弦月丨中文/ENG/ITA/ESP丨💊🔪🩸丨创世神🌙",
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 278,
+          "like_count": 1764,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 2054
+        },
+        "url": "",
+        "username": "CY_Mystica",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-28T08:03:06.000Z",
+        "description": "ℱ. 𝗵𝗼𝘂𝘀𝗲 ⎯  солнце  ▬  𝐸𝑛𝑡𝑝\n❘❙❚   ⎯    ﹙ 𝑚𝑢𝑒𝑟𝑡𝑟𝑖𝑒𝑟 ﹚，˖𖥔",
+        "id": "1817470758349688832",
+        "name": "死神",
+        "pinned_tweet_id": "2083640504445546991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082969480246816768/nMyYE2L5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 84,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 246
+        },
+        "url": "",
+        "username": "can11bal",
+        "verified": false
+      }
+    ]
+  }
+}

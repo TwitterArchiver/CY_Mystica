@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "2083654428729467344",
+    "created_at": "2026-08-02T07:20:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T08:20:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083815255751450718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1696052171538886656",
+          "start": 0,
+          "username": "s3861236318323"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083815255751450718",
+    "in_reply_to_user_id": "1696052171538886656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083654428729467344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s3861236318323 明天一定背单词"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "2083654428729467344",
+        "created_at": "2026-08-02T07:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083815255751450718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1696052171538886656",
+              "start": 0,
+              "username": "s3861236318323"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083815255751450718",
+        "in_reply_to_user_id": "1696052171538886656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083654428729467344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s3861236318323 明天一定背单词"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696052171538886656",
+        "conversation_id": "2083654428729467344",
+        "created_at": "2026-08-01T20:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T21:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083654428729467344"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083654428729467344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天一定背单词"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵我是下弦月丨中文/ENG/ITA/ESP丨💊🔪🩸丨创世神🌙",
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 278,
+          "like_count": 1764,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 2053
+        },
+        "url": "",
+        "username": "CY_Mystica",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-28T06:48:57.000Z",
+        "description": "🫢",
+        "id": "1696052171538886656",
+        "name": "s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055362879176478720/sSAAywH5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 169,
+          "like_count": 576,
+          "listed_count": 5,
+          "media_count": 7,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "s3861236318323",
+        "verified": false
+      }
+    ]
+  }
+}

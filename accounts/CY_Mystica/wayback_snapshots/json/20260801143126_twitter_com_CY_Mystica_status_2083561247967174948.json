@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083128898372739072"
+      ],
+      "media_source_tweet_id": [
+        "2083128927950930170"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "2083561247967174948",
+    "created_at": "2026-08-01T14:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T15:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083561247967174948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2056959987780608000",
+          "start": 3,
+          "username": "luckylemonovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xofCbvxm3g",
+          "end": 52,
+          "expanded_url": "https://x.com/luckylemonovo/status/2083128927950930170/video/1",
+          "media_key": "13_2083128898372739072",
+          "start": 29,
+          "url": "https://t.co/xofCbvxm3g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083561247967174948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 152
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083128927950930170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luckylemonovo: 真的不要捏一下吗🥺 https://t.co/xofCbvxm3g"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1857,
+        "height": 720,
+        "media_key": "13_2083128898372739072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083128898372739072/img/6mz2bo-EHrItZGIr.jpg",
+        "public_metrics": {
+          "view_count": 8432
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083128898372739072/vid/avc1/360x270/9_uQTVHTeZk-Ns5_.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083128898372739072/vid/avc1/480x360/H9L5kwqGfg6Yxhqg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083128898372739072/vid/avc1/960x720/hMuoOeaRiJ_woewL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083128898372739072/pl/fi0el4w3At6NV5jp.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083128898372739072"
+          ]
+        },
+        "author_id": "2056959987780608000",
+        "conversation_id": "2083128927950930170",
+        "created_at": "2026-07-31T09:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083128927950930170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xofCbvxm3g",
+              "end": 33,
+              "expanded_url": "https://x.com/luckylemonovo/status/2083128927950930170/video/1",
+              "media_key": "13_2083128898372739072",
+              "start": 10,
+              "url": "https://t.co/xofCbvxm3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083128927950930170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 271,
+          "impression_count": 48608,
+          "like_count": 3362,
+          "quote_count": 2,
+          "reply_count": 61,
+          "retweet_count": 152
+        },
+        "reply_settings": "everyone",
+        "text": "真的不要捏一下吗🥺 https://t.co/xofCbvxm3g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083128898372739072"
+          ],
+          "media_source_tweet_id": [
+            "2083128927950930170"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "conversation_id": "2083561247967174948",
+        "created_at": "2026-08-01T14:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083561247967174948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2056959987780608000",
+              "start": 3,
+              "username": "luckylemonovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xofCbvxm3g",
+              "end": 52,
+              "expanded_url": "https://x.com/luckylemonovo/status/2083128927950930170/video/1",
+              "media_key": "13_2083128898372739072",
+              "start": 29,
+              "url": "https://t.co/xofCbvxm3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083561247967174948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 152
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083128927950930170",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luckylemonovo: 真的不要捏一下吗🥺 https://t.co/xofCbvxm3g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵我是下弦月丨中文/ENG/ITA/ESP丨💊🔪🩸丨创世神🌙",
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 271,
+          "like_count": 1744,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 2045
+        },
+        "url": "",
+        "username": "CY_Mystica",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-20T04:49:55.000Z",
+        "description": "双鱼06｜坏话是小狗发的小狗不懂事｜温良萌男😋｜骚是加分项对吧对吧🥺｜服务型男人是最伟大的！｜直男",
+        "id": "2056959987780608000",
+        "location": "长沙",
+        "name": "酸柠小檬（肌肉厨养成中）",
+        "pinned_tweet_id": "2056973540675760396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056960946728587264/C4Hjqogl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 87,
+          "like_count": 1307,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 287
+        },
+        "url": "",
+        "username": "luckylemonovo",
+        "verified": false
+      }
+    ]
+  }
+}

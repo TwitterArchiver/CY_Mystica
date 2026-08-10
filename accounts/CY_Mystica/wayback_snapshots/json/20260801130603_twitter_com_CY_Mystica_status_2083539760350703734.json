@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083483626579406848"
+      ],
+      "media_source_tweet_id": [
+        "2083483638088466777"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "2083539760350703734",
+    "created_at": "2026-08-01T13:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T14:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083539760350703734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2001631586694107139",
+          "start": 3,
+          "username": "zhao77666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bx36mccqkX",
+          "end": 42,
+          "expanded_url": "https://x.com/zhao77666/status/2083483638088466777/photo/1",
+          "media_key": "3_2083483626579406848",
+          "start": 19,
+          "url": "https://t.co/bx36mccqkX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083539760350703734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083483638088466777",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhao77666: 还不够 https://t.co/bx36mccqkX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2083483626579406848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoFUdGbsAAYzSw.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083483626579406848"
+          ]
+        },
+        "author_id": "2001631586694107139",
+        "conversation_id": "2083483638088466777",
+        "created_at": "2026-08-01T09:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083483638088466777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bx36mccqkX",
+              "end": 27,
+              "expanded_url": "https://x.com/zhao77666/status/2083483638088466777/photo/1",
+              "media_key": "3_2083483626579406848",
+              "start": 4,
+              "url": "https://t.co/bx36mccqkX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083483638088466777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 153,
+          "impression_count": 22600,
+          "like_count": 1863,
+          "quote_count": 7,
+          "reply_count": 57,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "还不够 https://t.co/bx36mccqkX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083483626579406848"
+          ],
+          "media_source_tweet_id": [
+            "2083483638088466777"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "conversation_id": "2083539760350703734",
+        "created_at": "2026-08-01T13:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083539760350703734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2001631586694107139",
+              "start": 3,
+              "username": "zhao77666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bx36mccqkX",
+              "end": 42,
+              "expanded_url": "https://x.com/zhao77666/status/2083483638088466777/photo/1",
+              "media_key": "3_2083483626579406848",
+              "start": 19,
+              "url": "https://t.co/bx36mccqkX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083539760350703734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083483638088466777",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhao77666: 还不够 https://t.co/bx36mccqkX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵我是下弦月丨中文/ENG/ITA/ESP丨💊🔪🩸丨创世神🌙",
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 268,
+          "like_count": 1734,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 2042
+        },
+        "url": "",
+        "username": "CY_Mystica",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-18T12:32:31.000Z",
+        "description": "enfj巨蟹",
+        "id": "2001631586694107139",
+        "name": "666777",
+        "pinned_tweet_id": "2082808616969703454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033991081604616192/8ToJzBTE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9412,
+          "following_count": 32,
+          "like_count": 520,
+          "listed_count": 9,
+          "media_count": 152,
+          "tweet_count": 229
+        },
+        "url": "",
+        "username": "zhao77666",
+        "verified": false
+      }
+    ]
+  }
+}

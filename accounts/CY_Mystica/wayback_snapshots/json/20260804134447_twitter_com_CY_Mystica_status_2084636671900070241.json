@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "2084636671900070241",
+    "created_at": "2026-08-04T13:44:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T14:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084636671900070241"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kurushiiotome/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/kurushiiotome/status/2084484830637789606",
+          "start": 5,
+          "url": "https://t.co/xn4DtQwwIs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084636671900070241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084484830637789606",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "杯子姐😉 https://t.co/xn4DtQwwIs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084484818025512960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2T5d4bAAAU490.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084484818042253312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2T5d8acAAyyDI.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084484818025447424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2T5d4aAAAX6dI.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "2084636671900070241",
+        "created_at": "2026-08-04T13:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084636671900070241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kurushiiotome/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/kurushiiotome/status/2084484830637789606",
+              "start": 5,
+              "url": "https://t.co/xn4DtQwwIs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084636671900070241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084484830637789606",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "杯子姐😉 https://t.co/xn4DtQwwIs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084484818025512960",
+            "3_2084484818042253312",
+            "3_2084484818025447424"
+          ]
+        },
+        "author_id": "1853685114972372992",
+        "conversation_id": "2084316897651445768",
+        "created_at": "2026-08-04T03:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T04:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084484830637789606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1965675376946151425",
+              "start": 0,
+              "username": "wooodonggg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dXruZwvMbg",
+              "end": 51,
+              "expanded_url": "https://x.com/kurushiiotome/status/2084484830637789606/photo/1",
+              "media_key": "3_2084484818025512960",
+              "start": 28,
+              "url": "https://t.co/dXruZwvMbg"
+            },
+            {
+              "display_url": "pic.x.com/dXruZwvMbg",
+              "end": 51,
+              "expanded_url": "https://x.com/kurushiiotome/status/2084484830637789606/photo/1",
+              "media_key": "3_2084484818042253312",
+              "start": 28,
+              "url": "https://t.co/dXruZwvMbg"
+            },
+            {
+              "display_url": "pic.x.com/dXruZwvMbg",
+              "end": 51,
+              "expanded_url": "https://x.com/kurushiiotome/status/2084484830637789606/photo/1",
+              "media_key": "3_2084484818025447424",
+              "start": 28,
+              "url": "https://t.co/dXruZwvMbg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084484830637789606",
+        "in_reply_to_user_id": "1965675376946151425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2114,
+          "like_count": 45,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084316897651445768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wooodonggg 已经被我扒出这母猪墙内社交账号 https://t.co/dXruZwvMbg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵我是下弦月丨中文/ENG/ITA/ESP丨💊🔪🩸丨创世神🌙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/calante1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/calante1",
+                "start": 0,
+                "url": "https://t.co/YoNfSzcS3a"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "2083865350941331850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 281,
+          "like_count": 1805,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 2089
+        },
+        "url": "https://t.co/YoNfSzcS3a",
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-05T06:25:54.000Z",
+        "description": "软件硬化工程硕士😋🚪1314，🚪这么贵是因为我根本不想加微信（无福利）\n不给钱别找我闲聊",
+        "id": "1853685114972372992",
+        "name": "额",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940773582738493440/Nzm-S4BP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 213,
+          "like_count": 9825,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 928
+        },
+        "url": "",
+        "username": "kurushiiotome",
+        "verified": false
+      }
+    ]
+  }
+}

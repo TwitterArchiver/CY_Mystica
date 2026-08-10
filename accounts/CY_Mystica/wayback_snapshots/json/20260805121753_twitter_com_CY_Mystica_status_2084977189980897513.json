@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084839421149319169"
+      ],
+      "media_source_tweet_id": [
+        "2084839425662435344"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "2084977189980897513",
+    "created_at": "2026-08-05T12:17:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T13:17:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084977189980897513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "220514998",
+          "start": 3,
+          "username": "vogueamourr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ej2RPihJdv",
+          "end": 40,
+          "expanded_url": "https://x.com/vogueamourr/status/2084839425662435344/photo/1",
+          "media_key": "3_2084839421149319169",
+          "start": 17,
+          "url": "https://t.co/Ej2RPihJdv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084977189980897513",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084839425662435344",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vogueamourr: https://t.co/Ej2RPihJdv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2084839421149319169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO7WaFdWEAEiQqS.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084839421149319169"
+          ]
+        },
+        "author_id": "220514998",
+        "conversation_id": "2084839425662435344",
+        "created_at": "2026-08-05T03:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T04:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084839425662435344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ej2RPihJdv",
+              "end": 23,
+              "expanded_url": "https://x.com/vogueamourr/status/2084839425662435344/photo/1",
+              "media_key": "3_2084839421149319169",
+              "start": 0,
+              "url": "https://t.co/Ej2RPihJdv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084839425662435344",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 7841,
+          "like_count": 782,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ej2RPihJdv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084839421149319169"
+          ],
+          "media_source_tweet_id": [
+            "2084839425662435344"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "conversation_id": "2084977189980897513",
+        "created_at": "2026-08-05T12:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084977189980897513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "220514998",
+              "start": 3,
+              "username": "vogueamourr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ej2RPihJdv",
+              "end": 40,
+              "expanded_url": "https://x.com/vogueamourr/status/2084839425662435344/photo/1",
+              "media_key": "3_2084839421149319169",
+              "start": 17,
+              "url": "https://t.co/Ej2RPihJdv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084977189980897513",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084839425662435344",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vogueamourr: https://t.co/Ej2RPihJdv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵我是下弦月丨中文/ENG/ITA/ESP丨💊🔪🩸丨创世神🌙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/calante1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/calante1",
+                "start": 0,
+                "url": "https://t.co/YoNfSzcS3a"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "2083865350941331850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 280,
+          "like_count": 1819,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 2098
+        },
+        "url": "https://t.co/YoNfSzcS3a",
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-28T00:56:26.000Z",
+        "description": "𝐟𝐚𝐬𝐡𝐢𝐨𝐧 & 𝐚𝐥𝐥 𝐭𝐡𝐢𝐧𝐠𝐬 𝐚𝐞𝐬𝐭𝐡𝐞𝐭𝐢𝐜",
+        "id": "220514998",
+        "name": "✮",
+        "pinned_tweet_id": "2082619475552063690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033546256380022784/JFhk5l6X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7722,
+          "following_count": 1,
+          "like_count": 5010,
+          "listed_count": 31,
+          "media_count": 920,
+          "tweet_count": 959
+        },
+        "url": "",
+        "username": "vogueamourr",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "2084330008491827537",
+    "created_at": "2026-08-04T07:13:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T08:13:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084538261859651763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1696052171538886656",
+          "start": 0,
+          "username": "s3861236318323"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084538261859651763",
+    "in_reply_to_user_id": "1696052171538886656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084330008491827537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s3861236318323 别装学习了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8201,
+        "height": 960,
+        "media_key": "13_2084329948735504384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084329948735504384/img/X696a7LgKbQ8V8o5.jpg",
+        "public_metrics": {
+          "view_count": 16
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084329948735504384/vid/avc1/320x564/GRgr-TPFC-TrJems.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084329948735504384/vid/avc1/480x846/B8-ekQMoN-IVXdrB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084329948735504384/vid/avc1/544x960/adSSANB0pkL-lNk-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084329948735504384/pl/XmZK1O9fVdRGVgh-.m3u8"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "2084330008491827537",
+        "created_at": "2026-08-04T07:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084538261859651763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1696052171538886656",
+              "start": 0,
+              "username": "s3861236318323"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084538261859651763",
+        "in_reply_to_user_id": "1696052171538886656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084330008491827537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s3861236318323 别装学习了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084329948735504384"
+          ]
+        },
+        "author_id": "1696052171538886656",
+        "conversation_id": "2084330008491827537",
+        "created_at": "2026-08-03T17:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084330008491827537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JtK41ltyxP",
+              "end": 31,
+              "expanded_url": "https://x.com/s3861236318323/status/2084330008491827537/video/1",
+              "media_key": "13_2084329948735504384",
+              "start": 8,
+              "url": "https://t.co/JtK41ltyxP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084330008491827537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人V我50 https://t.co/JtK41ltyxP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵我是下弦月丨中文/ENG/ITA/ESP丨💊🔪🩸丨创世神🌙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/calante1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/calante1",
+                "start": 0,
+                "url": "https://t.co/YoNfSzcS3a"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "2083865350941331850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 282,
+          "like_count": 1798,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 2081
+        },
+        "url": "https://t.co/YoNfSzcS3a",
+        "username": "CY_Mystica",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T06:48:57.000Z",
+        "description": "🫢",
+        "id": "1696052171538886656",
+        "name": "s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055362879176478720/sSAAywH5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 169,
+          "like_count": 573,
+          "listed_count": 5,
+          "media_count": 10,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "s3861236318323",
+        "verified": false
+      }
+    ]
+  }
+}
