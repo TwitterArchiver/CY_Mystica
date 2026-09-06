@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "2087034950562504876",
+    "created_at": "2026-08-11T04:34:42.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T05:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087034950562504876"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thescarfacebab…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/thescarfacebaby/status/2086564043326714141",
+          "start": 5,
+          "url": "https://t.co/YXdPc2GItM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087034950562504876",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086564043326714141",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "震撼美味 https://t.co/YXdPc2GItM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2086563575535927296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPT2hFEWgAAPrWR.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1790,
+        "media_key": "3_2086563592870993920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPT2iFpWoAACAmO.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1825,
+        "media_key": "3_2086564032190767104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPT27qPWYAAJgW4.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "2087034950562504876",
+        "created_at": "2026-08-11T04:34:42.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T05:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087034950562504876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thescarfacebab…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/thescarfacebaby/status/2086564043326714141",
+              "start": 5,
+              "url": "https://t.co/YXdPc2GItM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087034950562504876",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086564043326714141",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "震撼美味 https://t.co/YXdPc2GItM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086563575535927296",
+            "3_2086563592870993920",
+            "3_2086564032190767104"
+          ]
+        },
+        "author_id": "2026609648581955584",
+        "conversation_id": "2086564043326714141",
+        "created_at": "2026-08-09T21:23:29.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T22:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086564043326714141"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 40,
+              "tag": "drugtwt"
+            },
+            {
+              "end": 59,
+              "start": 49,
+              "tag": "oxycodone"
+            },
+            {
+              "end": 68,
+              "start": 60,
+              "tag": "coketwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hCJEUVHl0V",
+              "end": 92,
+              "expanded_url": "https://x.com/thescarfacebaby/status/2086564043326714141/photo/1",
+              "media_key": "3_2086563575535927296",
+              "start": 69,
+              "url": "https://t.co/hCJEUVHl0V"
+            },
+            {
+              "display_url": "pic.x.com/hCJEUVHl0V",
+              "end": 92,
+              "expanded_url": "https://x.com/thescarfacebaby/status/2086564043326714141/photo/1",
+              "media_key": "3_2086563592870993920",
+              "start": 69,
+              "url": "https://t.co/hCJEUVHl0V"
+            },
+            {
+              "display_url": "pic.x.com/hCJEUVHl0V",
+              "end": 92,
+              "expanded_url": "https://x.com/thescarfacebaby/status/2086564043326714141/photo/1",
+              "media_key": "3_2086564032190767104",
+              "start": 69,
+              "url": "https://t.co/hCJEUVHl0V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086564043326714141",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086563575535927296"
+          },
+          {
+            "media_key": "3_2086563592870993920"
+          },
+          {
+            "media_key": "3_2086564032190767104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 284,
+          "impression_count": 45861,
+          "like_count": 3953,
+          "quote_count": 46,
+          "reply_count": 78,
+          "retweet_count": 337
+        },
+        "reply_settings": "everyone",
+        "text": "It's snowing here 😔 how about you guys? #drugtwt #oxycodone #coketwt https://t.co/hCJEUVHl0V"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵我是下弦月丨中文/ENG/ITA/ESP丨💊🔪🩸丨创世神🌙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/calante1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/calante1",
+                "start": 0,
+                "url": "https://t.co/YoNfSzcS3a"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "is_identity_verified": false,
+        "location": "棺材",
+        "most_recent_tweet_id": "2087034950562504876",
+        "name": "calante🌙",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124658845664653314/1736169003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 284,
+          "like_count": 1863,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 2119
+        },
+        "url": "https://t.co/YoNfSzcS3a",
+        "username": "CY_Mystica",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-25T10:46:22.000Z",
+        "description": "26👼 | edtwt + drugtwt | ugw 38kg| The Only Conquette emo I know | interacting With allspo.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+2xpAAWsLCE81M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+2xpAAWsLCE81MGQ5",
+                "start": 0,
+                "url": "https://t.co/bUD2QVwTIA"
+              }
+            ]
+          }
+        },
+        "id": "2026609648581955584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086564043326714141",
+        "name": "Scarface Baby",
+        "pinned_tweet_id": "2054804019055378858",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026609648581955584/1781152187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054803093271842816/I7-x-hdM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 169,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 19
+        },
+        "url": "https://t.co/bUD2QVwTIA",
+        "username": "thescarfacebaby",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

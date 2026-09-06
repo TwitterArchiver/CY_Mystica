@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092547021802815488"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "2092547144892953080",
+    "created_at": "2026-08-26T09:38:11.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T10:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092547144892953080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 25,
+          "id": "1124790071314587648",
+          "start": 12,
+          "username": "LanwujiDrink"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aNVzYFA3OF",
+          "end": 49,
+          "expanded_url": "https://x.com/CY_Mystica/status/2092547144892953080/photo/1",
+          "media_key": "3_2092547021802815488",
+          "start": 26,
+          "url": "https://t.co/aNVzYFA3OF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092547144892953080",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092547021802815488"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感谢大自然的馈赠2.0 @LanwujiDrink https://t.co/aNVzYFA3OF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092547021802815488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQo4bfZbwAADJUj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092547021802815488"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "conversation_id": "2092547144892953080",
+        "created_at": "2026-08-26T09:38:11.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092547144892953080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1124790071314587648",
+              "start": 12,
+              "username": "LanwujiDrink"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aNVzYFA3OF",
+              "end": 49,
+              "expanded_url": "https://x.com/CY_Mystica/status/2092547144892953080/photo/1",
+              "media_key": "3_2092547021802815488",
+              "start": 26,
+              "url": "https://t.co/aNVzYFA3OF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092547144892953080",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092547021802815488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢大自然的馈赠2.0 @LanwujiDrink https://t.co/aNVzYFA3OF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵我是下弦月丨中文/ENG/ITA/ESP丨💊🔪🩸丨创世神🌙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/calante1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/calante1",
+                "start": 0,
+                "url": "https://t.co/YoNfSzcS3a"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "is_identity_verified": false,
+        "location": "棺材",
+        "most_recent_tweet_id": "2092547144892953080",
+        "name": "calante🌙",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124658845664653314/1736169003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1577,
+          "following_count": 285,
+          "like_count": 1929,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 2182
+        },
+        "url": "https://t.co/YoNfSzcS3a",
+        "username": "CY_Mystica",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "声嘶力竭的促智理想最后变成一具只会盈利的空壳。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2092507418035155031",
+        "name": "☯️🧬無極植物科技 葉經理",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 83,
+          "like_count": 3358,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1728
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

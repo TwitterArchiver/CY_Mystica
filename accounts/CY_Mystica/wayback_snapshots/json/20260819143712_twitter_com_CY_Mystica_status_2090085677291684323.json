@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "2089694815806271598",
+    "created_at": "2026-08-19T14:37:12.000Z",
+    "display_text_range": [
+      34,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T15:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090085677291684323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1701997020469399552",
+          "start": 0,
+          "username": "gongzisama1"
+        },
+        {
+          "end": 21,
+          "id": "1132729630245265408",
+          "start": 13,
+          "username": "pr80net"
+        },
+        {
+          "end": 33,
+          "id": "357176113",
+          "start": 22,
+          "username": "soobin4869"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090085677291684323",
+    "in_reply_to_user_id": "1701997020469399552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089704835889463433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gongzisama1 @pr80net @soobin4869 此乃何物啊公子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2089704821519769600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQAfdqQbYAA5wP7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "2089694815806271598",
+        "created_at": "2026-08-19T14:37:12.000Z",
+        "display_text_range": [
+          34,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090085677291684323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1701997020469399552",
+              "start": 0,
+              "username": "gongzisama1"
+            },
+            {
+              "end": 21,
+              "id": "1132729630245265408",
+              "start": 13,
+              "username": "pr80net"
+            },
+            {
+              "end": 33,
+              "id": "357176113",
+              "start": 22,
+              "username": "soobin4869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090085677291684323",
+        "in_reply_to_user_id": "1701997020469399552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089704835889463433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gongzisama1 @pr80net @soobin4869 此乃何物啊公子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089704821519769600"
+          ]
+        },
+        "author_id": "1701997020469399552",
+        "conversation_id": "2089694815806271598",
+        "created_at": "2026-08-18T13:23:52.000Z",
+        "display_text_range": [
+          21,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T14:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089704835889463433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1132729630245265408",
+              "start": 0,
+              "username": "pr80net"
+            },
+            {
+              "end": 20,
+              "id": "357176113",
+              "start": 9,
+              "username": "soobin4869"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MGYsD5U4OU",
+              "end": 61,
+              "expanded_url": "https://x.com/gongzisama1/status/2089704835889463433/photo/1",
+              "media_key": "3_2089704821519769600",
+              "start": 38,
+              "url": "https://t.co/MGYsD5U4OU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089704835889463433",
+        "in_reply_to_user_id": "1132729630245265408",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089704821519769600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1166,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089694815806271598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80net @soobin4869 孤寡公子可能会遇到心仪地雷妹吗？ https://t.co/MGYsD5U4OU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵我是下弦月丨中文/ENG/ITA/ESP丨💊🔪🩸丨创世神🌙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/calante1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/calante1",
+                "start": 0,
+                "url": "https://t.co/YoNfSzcS3a"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "is_identity_verified": false,
+        "location": "棺材",
+        "most_recent_tweet_id": "2090085677291684323",
+        "name": "calante🌙",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124658845664653314/1736169003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 283,
+          "like_count": 1907,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 2152
+        },
+        "url": "https://t.co/YoNfSzcS3a",
+        "username": "CY_Mystica",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-13T16:31:38.000Z",
+        "description": "TG:@gongzisama\n账号回来了 主号@xx1012000456\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/lzROBqcGVd 大概几天统一回复一次\n策划药官方：@mingrentangRC\n名人堂RC开始出品，零售业务可咨询沐雨，也可联系我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 36,
+                "start": 23,
+                "username": "xx1012000456"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 95,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 72,
+                "url": "https://t.co/lzROBqcGVd"
+              }
+            ]
+          }
+        },
+        "id": "1701997020469399552",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2090058262116971004",
+        "name": "x-square 「公子」一世",
+        "pinned_tweet_id": "2082473811677737306",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077781062726651904/aWfzE-lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 310,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 213
+        },
+        "url": "",
+        "username": "gongzisama1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @soobin4869\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 98,
+                "username": "soobin4869"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2090077641663721941",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2090074522661814401",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 572,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 282
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-17T23:44:14.000Z",
+        "description": "https://t.co/bUgrQZuqss\n扎鸡兄弟 Los Pollos Hermanos ，99.7%精品Ｐｒ原粉",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/bUgrQZuqss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/bUgrQZuqss"
+              }
+            ]
+          }
+        },
+        "id": "357176113",
+        "is_identity_verified": false,
+        "location": "阿尔伯克基",
+        "most_recent_tweet_id": "2090067612059513083",
+        "name": "ZakkysLab卖货号",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/357176113/1785944029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085026434775724032/r4EQZgw0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 27,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 22
+        },
+        "url": "https://t.co/bUgrQZuqss",
+        "username": "soobin4869",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

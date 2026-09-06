@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087622876883021825"
+      ],
+      "media_source_tweet_id": [
+        "2087622879990907340"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "2087814697831796889",
+    "created_at": "2026-08-13T08:13:08.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T09:13:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087814697831796889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1252221857614499840",
+          "start": 3,
+          "username": "AbandonedBucky"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Oyu2UGQ6jN",
+          "end": 51,
+          "expanded_url": "https://x.com/AbandonedBucky/status/2087622879990907340/photo/1",
+          "media_key": "3_2087622876883021825",
+          "start": 28,
+          "url": "https://t.co/Oyu2UGQ6jN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087814697831796889",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2087622876883021825"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1946
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087622879990907340",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @AbandonedBucky: unholy. https://t.co/Oyu2UGQ6jN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1242,
+        "media_key": "3_2087622876883021825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPi58iGXcAEHQq7.jpg",
+        "width": 1690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087622876883021825"
+          ]
+        },
+        "author_id": "1252221857614499840",
+        "conversation_id": "2087622879990907340",
+        "created_at": "2026-08-12T19:30:55.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T20:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087622879990907340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oyu2UGQ6jN",
+              "end": 31,
+              "expanded_url": "https://x.com/AbandonedBucky/status/2087622879990907340/photo/1",
+              "media_key": "3_2087622876883021825",
+              "start": 8,
+              "url": "https://t.co/Oyu2UGQ6jN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087622879990907340",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2087622876883021825"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3470,
+          "impression_count": 256451,
+          "like_count": 24996,
+          "quote_count": 280,
+          "reply_count": 19,
+          "retweet_count": 1946
+        },
+        "reply_settings": "following",
+        "text": "unholy. https://t.co/Oyu2UGQ6jN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087622876883021825"
+          ],
+          "media_source_tweet_id": [
+            "2087622879990907340"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "conversation_id": "2087814697831796889",
+        "created_at": "2026-08-13T08:13:08.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T09:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087814697831796889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1252221857614499840",
+              "start": 3,
+              "username": "AbandonedBucky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oyu2UGQ6jN",
+              "end": 51,
+              "expanded_url": "https://x.com/AbandonedBucky/status/2087622879990907340/photo/1",
+              "media_key": "3_2087622876883021825",
+              "start": 28,
+              "url": "https://t.co/Oyu2UGQ6jN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087814697831796889",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2087622876883021825"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1946
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087622879990907340",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @AbandonedBucky: unholy. https://t.co/Oyu2UGQ6jN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵我是下弦月丨中文/ENG/ITA/ESP丨💊🔪🩸丨创世神🌙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/calante1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/calante1",
+                "start": 0,
+                "url": "https://t.co/YoNfSzcS3a"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "is_identity_verified": false,
+        "location": "棺材",
+        "most_recent_tweet_id": "2087814697831796889",
+        "name": "calante🌙",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124658845664653314/1736169003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1576,
+          "following_count": 285,
+          "like_count": 1878,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 2133
+        },
+        "url": "https://t.co/YoNfSzcS3a",
+        "username": "CY_Mystica",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-20T13:05:38.000Z",
+        "description": "Nine Inch Nails enthusiast and professional freak ꩜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buckednbondaged.straw.page",
+                "end": 23,
+                "expanded_url": "https://buckednbondaged.straw.page/",
+                "start": 0,
+                "url": "https://t.co/yIFdIdykI7"
+              }
+            ]
+          }
+        },
+        "id": "1252221857614499840",
+        "is_identity_verified": false,
+        "location": "he/him | 22 | Semi-SFW ",
+        "most_recent_tweet_id": "2087734307620008183",
+        "name": "Bucky ꩜ | NIN 9/6 & 2/5",
+        "pinned_tweet_id": "2083621315383103626",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1252221857614499840/1774388633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979143708638326784/A86IoI4u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 33,
+          "like_count": 3024,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 511
+        },
+        "url": "https://t.co/yIFdIdykI7",
+        "username": "AbandonedBucky",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

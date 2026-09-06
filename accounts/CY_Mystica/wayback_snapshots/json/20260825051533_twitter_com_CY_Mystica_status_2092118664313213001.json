@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "2091738111524962733",
+    "created_at": "2026-08-25T05:15:33.000Z",
+    "display_text_range": [
+      38,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T06:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092118664313213001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1386670401422434304",
+          "start": 0,
+          "username": "xx1012000456"
+        },
+        {
+          "end": 27,
+          "id": "2079926361557524480",
+          "start": 14,
+          "username": "iwantredeyes"
+        },
+        {
+          "end": 37,
+          "id": "1587790416057077760",
+          "start": 28,
+          "username": "musk_xxl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092118664313213001",
+    "in_reply_to_user_id": "1386670401422434304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091924751845667059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xx1012000456 @iwantredeyes @musk_xxl 已严肃申请"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "2091738111524962733",
+        "created_at": "2026-08-25T05:15:33.000Z",
+        "display_text_range": [
+          38,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T06:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092118664313213001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 27,
+              "id": "2079926361557524480",
+              "start": 14,
+              "username": "iwantredeyes"
+            },
+            {
+              "end": 37,
+              "id": "1587790416057077760",
+              "start": 28,
+              "username": "musk_xxl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092118664313213001",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091924751845667059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @iwantredeyes @musk_xxl 已严肃申请"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "2091738111524962733",
+        "created_at": "2026-08-24T16:25:01.000Z",
+        "display_text_range": [
+          24,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T17:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091924751845667059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2079926361557524480",
+              "start": 0,
+              "username": "iwantredeyes"
+            },
+            {
+              "end": 23,
+              "id": "1587790416057077760",
+              "start": 14,
+              "username": "musk_xxl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091924751845667059",
+        "in_reply_to_user_id": "2079926361557524480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091889766979579927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iwantredeyes @musk_xxl 植物种植🤣"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵我是下弦月丨中文/ENG/ITA/ESP丨💊🔪🩸丨创世神🌙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/calante1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/calante1",
+                "start": 0,
+                "url": "https://t.co/YoNfSzcS3a"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "is_identity_verified": false,
+        "location": "棺材",
+        "most_recent_tweet_id": "2092118664313213001",
+        "name": "calante🌙",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124658845664653314/1736169003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 287,
+          "like_count": 1929,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 2178
+        },
+        "url": "https://t.co/YoNfSzcS3a",
+        "username": "CY_Mystica",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2091950569015722102",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2089350220362678485",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1886,
+          "following_count": 829,
+          "like_count": 137,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 2251
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-22T13:50:54.000Z",
+        "description": "这里还有人吗？？？？？？？？？@crispyvege",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "crispyvege"
+              }
+            ]
+          }
+        },
+        "id": "2079926361557524480",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092006703000633633",
+        "name": "红眼病",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2079926361557524480/1784733399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080678026866810880/Tm-U-TII_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 97,
+          "like_count": 3787,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 795
+        },
+        "url": "",
+        "username": "iwantredeyes",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-02T12:55:22.000Z",
+        "description": "业余的。\n不要对我抱有很大的期待。\n🚪288 - +∞",
+        "id": "1587790416057077760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091953754316890214",
+        "name": "Purify",
+        "pinned_tweet_id": "2067132317928464513",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1587790416057077760/1779062316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059674174965354506/2jHOkEpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 339,
+          "like_count": 7394,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1086
+        },
+        "url": "",
+        "username": "musk_xxl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087358762873192448"
+      ],
+      "media_source_tweet_id": [
+        "2087358770834006452"
+      ]
+    },
+    "author_id": "1124658845664653314",
+    "conversation_id": "2087635125735706670",
+    "created_at": "2026-08-12T20:19:35.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T21:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087635125735706670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1410890985538678784",
+          "start": 3,
+          "username": "ThePetsX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uylPceVsOw",
+          "end": 45,
+          "expanded_url": "https://x.com/ThePetsX/status/2087358770834006452/photo/1",
+          "media_key": "3_2087358762873192448",
+          "start": 22,
+          "url": "https://t.co/uylPceVsOw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087635125735706670",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "3_2087358762873192448"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1135
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087358770834006452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ThePetsX: o_O\nO_O https://t.co/uylPceVsOw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1340,
+        "media_key": "3_2087358762873192448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPfJvEvbAAAMo9q.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087358762873192448"
+          ]
+        },
+        "author_id": "1410890985538678784",
+        "conversation_id": "2087358770834006452",
+        "created_at": "2026-08-12T02:01:26.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T03:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087358770834006452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uylPceVsOw",
+              "end": 31,
+              "expanded_url": "https://x.com/ThePetsX/status/2087358770834006452/photo/1",
+              "media_key": "3_2087358762873192448",
+              "start": 8,
+              "url": "https://t.co/uylPceVsOw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087358770834006452",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2087358762873192448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 363,
+          "impression_count": 122113,
+          "like_count": 16264,
+          "quote_count": 21,
+          "reply_count": 12,
+          "retweet_count": 1135
+        },
+        "reply_settings": "everyone",
+        "text": "o_O\nO_O https://t.co/uylPceVsOw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087358762873192448"
+          ],
+          "media_source_tweet_id": [
+            "2087358770834006452"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "conversation_id": "2087635125735706670",
+        "created_at": "2026-08-12T20:19:35.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T21:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087635125735706670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1410890985538678784",
+              "start": 3,
+              "username": "ThePetsX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uylPceVsOw",
+              "end": 45,
+              "expanded_url": "https://x.com/ThePetsX/status/2087358770834006452/photo/1",
+              "media_key": "3_2087358762873192448",
+              "start": 22,
+              "url": "https://t.co/uylPceVsOw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087635125735706670",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2087358762873192448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1135
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087358770834006452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ThePetsX: o_O\nO_O https://t.co/uylPceVsOw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵我是下弦月丨中文/ENG/ITA/ESP丨💊🔪🩸丨创世神🌙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/calante1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/calante1",
+                "start": 0,
+                "url": "https://t.co/YoNfSzcS3a"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "is_identity_verified": false,
+        "location": "棺材",
+        "most_recent_tweet_id": "2087635125735706670",
+        "name": "calante🌙",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124658845664653314/1736169003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1582,
+          "following_count": 286,
+          "like_count": 1876,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 2132
+        },
+        "url": "https://t.co/YoNfSzcS3a",
+        "username": "CY_Mystica",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-02T09:20:30.000Z",
+        "description": "Welcome to the positive side of 𝕏. Posting the most beautiful & Adorable pictures,videos of pets. 🦁🐯🐱🐶🐺🐻🐻‍❄️🐨🐼🦝🦊",
+        "id": "1410890985538678784",
+        "is_identity_verified": false,
+        "location": "DM FOR CREDIT OR REMOVEL ✉️",
+        "most_recent_tweet_id": "2087454550177579047",
+        "name": "The Pets 𝕏",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1410890985538678784/1736452431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876704343052734464/N6IQSW7F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101650,
+          "following_count": 3595,
+          "like_count": 289,
+          "listed_count": 240,
+          "media_count": 9020,
+          "tweet_count": 9045
+        },
+        "url": "",
+        "username": "ThePetsX",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

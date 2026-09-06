@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1124658845664653314",
+    "conversation_id": "2089291317285413077",
+    "created_at": "2026-08-18T04:10:38.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T05:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089565610699358663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1156995783192797185",
+          "start": 0,
+          "username": "drugs_artist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089565610699358663",
+    "in_reply_to_user_id": "1156995783192797185",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089552017228464132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drugs_artist ptsd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "2089291317285413077",
+        "created_at": "2026-08-18T04:10:38.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T05:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089565610699358663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1156995783192797185",
+              "start": 0,
+              "username": "drugs_artist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089565610699358663",
+        "in_reply_to_user_id": "1156995783192797185",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089552017228464132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drugs_artist ptsd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1156995783192797185",
+        "conversation_id": "2089291317285413077",
+        "created_at": "2026-08-18T03:16:37.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T04:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089552017228464132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1124658845664653314",
+              "start": 0,
+              "username": "CY_Mystica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089552017228464132",
+        "in_reply_to_user_id": "1124658845664653314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089291317285413077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CY_Mystica 臭名昭著"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵我是下弦月丨中文/ENG/ITA/ESP丨💊🔪🩸丨创世神🌙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/calante1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/calante1",
+                "start": 0,
+                "url": "https://t.co/YoNfSzcS3a"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "is_identity_verified": false,
+        "location": "棺材",
+        "most_recent_tweet_id": "2089565610699358663",
+        "name": "calante🌙",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124658845664653314/1736169003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 283,
+          "like_count": 1888,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 2142
+        },
+        "url": "https://t.co/YoNfSzcS3a",
+        "username": "CY_Mystica",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-01T18:31:05.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘INFP|提问箱:https://t.co/CSC72A8dFF|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy！年号雨玄二年我从地狱杀回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 61,
+                "expanded_url": "http://ngl.link/drugs_artist",
+                "start": 38,
+                "url": "https://t.co/CSC72A8dFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/dUOaFI0Nkg"
+              }
+            ]
+          }
+        },
+        "id": "1156995783192797185",
+        "is_identity_verified": false,
+        "location": "Xanax天国2mg自治区",
+        "most_recent_tweet_id": "2089552017228464132",
+        "name": "沐雨",
+        "pinned_tweet_id": "2089389714134761739",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1156995783192797185/1786981866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089379499209355264/O-VSHgY0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 29,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 24
+        },
+        "url": "https://t.co/dUOaFI0Nkg",
+        "username": "drugs_artist",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
